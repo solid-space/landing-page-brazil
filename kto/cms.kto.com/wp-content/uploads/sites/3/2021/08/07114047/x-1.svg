@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" width="44" height="44" fill="none">
+  <path d="M22 44c12.15 0 22-9.85 22-22S34.15 0 22 0 0 9.85 0 22s9.85 22 22 22z" fill="#343434"></path>
+  <path d="M10.06 10l9.564 12.788L10 33.185h2.166l8.426-9.103 6.808 9.103h7.371L24.669 19.678 33.627 10h-2.166l-7.76 8.383L17.431 10H10.06zm3.185 1.595h3.386l14.953 19.993h-3.386L13.246 11.596z" fill="#fff"></path>
+</svg>
