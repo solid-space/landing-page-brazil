@@ -1,0 +1,1 @@
+function r(t){const e=new ResizeObserver(()=>s(t));return e.observe(t),s(t),{destroy(){e.disconnect()}}}function s(t){const e="data-block-touch-pan",o="scrollbar-visible";c(t)?(t.removeAttribute(e),t.classList.add(o)):(t.setAttribute(e,"true"),t.classList.remove(o))}function c(t){return t.scrollHeight>t.clientHeight&&getComputedStyle(t).overflowY!=="hidden"}export{r as b};

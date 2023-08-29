@@ -1,0 +1,1 @@
+import{i as o}from"./index.b135e261.js";const s={allPromotions:o._("All Promotions"),learnMore:o._("Learn More"),readMore:o._("Read More"),promotions:o._("Promotions"),latestPromotions:o._("Latest Promotions"),noPromotions:o._("No Promotions"),failedToLoadPromotions:o._("Failed to load Promotions")};export{s as m};

@@ -1,0 +1,1 @@
+import{c as o}from"./create.0055b1ad.js";import{M as r,L as i}from"./index.03b5aaf0.js";const s="__stores__userNotificationsEmitter",a=()=>{const t={emitter:o()};return i(s,t),t},m=()=>r(s);export{a as c,m as g};

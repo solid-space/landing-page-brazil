@@ -1,0 +1,1 @@
+const o=(e,n)=>{const t=r=>{!e||e.contains(r.target)||n&&n(r)};return document.addEventListener("mousedown",t),document.addEventListener("touchstart",t),{destroy:()=>{document.removeEventListener("mousedown",t),document.removeEventListener("touchstart",t)}}};export{o as c};

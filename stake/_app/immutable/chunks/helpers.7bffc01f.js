@@ -1,0 +1,1 @@
+import{R as a}from"./utils.a61f0d73.js";import{w as r}from"./index.d67a6375.js";import{f as t}from"./loadHelpers.abbaab45.js";async function l(o){return await t({doc:a,variables:{},load:o})||null}const c=r(null);export{c as d,l};

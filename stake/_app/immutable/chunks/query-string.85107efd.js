@@ -1,0 +1,1 @@
+import{_ as o}from"./lodash.9552c526.js";const i=r=>{const e=new URLSearchParams(r),n={};for(const s of e){const[t,c]=s;n[t]=c}return n},a=r=>new URLSearchParams(r).toString(),h=({pageQuery:r,search:e})=>{const s={...o.fromPairs([...(r||new URLSearchParams(window.location.search)).entries()]),...e};return`?${a(s)}`},m={parse:i,stringify:a,generate:h};export{m as q};

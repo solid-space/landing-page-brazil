@@ -1,0 +1,1 @@
+import{i as e}from"./index.b135e261.js";const t={lobby:e._("Lobby"),live:e._("Live Events"),upcoming:e._("Starting Soon"),popular:e._("Popular Events"),favorite:e._("Favorite"),myBets:e._("My Bets"),favourites:e._("Favourites"),viewAllLiveSport:o=>({id:"View All",values:{sportName:o}})};export{t as m};
