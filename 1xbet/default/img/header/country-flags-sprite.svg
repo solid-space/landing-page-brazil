@@ -1,0 +1,229 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <symbol fill="none" viewBox="0 0 25 14" id="ru">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#fff" d="M0 0h25v14H0V0Z"/>
+            <path fill="#0039A6" d="M0 4.7h25V14H0V4.7Z"/>
+            <path fill="#D52B1E" d="M0 9.3h25V14H0V9.3Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="tr">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#D80A27" d="M0 0h25v14H0V0Z"/>
+            <path fill="#fff" d="M14.9 7.2c0 2-1.6 3.5-3.6 3.5S7.8 9.1 7.8 7.2s1.5-3.5 3.5-3.5S15 5.3 15 7.2Z"/>
+            <path fill="#E30A17" d="M15 7.2c0 1.6-1.2 2.8-2.8 2.8a2.8 2.8 0 0 1-2.8-2.8 2.8 2.8 0 0 1 5.7 0Z"/>
+            <path fill="#fff" d="M15.6 5.6v1.3l-1.3.3 1.2.4v1.2l.8-1 1.1.5-.6-1 .8-1-1.3.4-.7-1.1Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="ua">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#FFDA44" d="M0 0h25v14H0V0Z"/>
+            <path fill="#338AF3" d="M0 0h25v7H0V0Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="uz">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#6DA544" d="M0 9h25v5H0V9Z"/>
+            <path fill="#338AF3" d="M0 0h25v5H0V0Z"/>
+            <path fill="#D80027" d="M0 4.5h25v5H0v-5Z"/>
+            <path fill="#fff" d="M0 5h25v4H0V5Zm6.6-1a1.7 1.7 0 1 0 0-3.4 1.7 1.7 0 0 0 0 3.3Z"/>
+            <path fill="#338AF3" d="M7.1 4a1.7 1.7 0 1 0 0-3.4 1.7 1.7 0 0 0 0 3.3Z"/>
+            <path fill="#fff" d="m10.3 3.2-.1.4h.1"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="kr">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#fff" d="M25 14H0V0h25v14Z"/>
+            <path fill="#fff" d="M12.7 6.9a3 3 0 1 1-5.9 0 3 3 0 0 1 5.9 0Z"/>
+            <path fill="#D80027" d="M16.3 7c0 2.2-1.7 3.9-3.7 3.9a3.8 3.8 0 0 1 0-7.6c2 0 3.7 1.7 3.7 3.8Z"/>
+            <path fill="#000" d="M4.8 3.5 7 1l.5.4L5.3 4l-.5-.5Zm.7.6 2.2-2.5.5.5-2.1 2.5-.6-.5Z"/>
+            <path fill="#000" d="M4.8 3.5 7 1l.5.4L5.3 4l-.5-.5Z"/>
+            <path fill="#000" d="M4.8 3.5 7 1l.5.4L5.3 4l-.5-.5Zm1.5 1.3 2.1-2.6.6.5-2.2 2.5-.5-.4Z"/>
+            <path fill="#000" d="M4.8 3.5 7 1l.5.4L5.3 4l-.5-.5Z"/>
+            <path fill="#000" d="M4.8 3.5 7 1l.5.4L5.3 4l-.5-.5ZM18.1 1l2.1 2.5-.5.5-2.2-2.6.6-.4Zm-1.5 1.2 2.2 2.6-.5.4L16 2.7l.5-.5Z"/>
+            <path fill="#fff" d="m17 3.7 2-1.8.4.5-2.2 2-.2-.7Z"/>
+            <path fill="#000" d="m19.5 10-2.1 2.4-.5-.4 2-2.5.6.4Zm-2.2-8.4 2.2 2.5-.5.5L16.8 2l.5-.5Zm2.9 8.9-2 2.5-.6-.4 2-2.5.6.4Zm-1.4-1.2-2.1 2.5-.5-.4 2-2.5.6.4Z"/>
+            <path fill="#3D5897" d="M8.8 6.4c.2 1 .3 2 1.8 2.1.6 0 1.6-.1 2-1.6.5-1.5 2-1.9 3-1 .5.3.7.9.7 1.3 0 1.4-.8 2.6-1.9 3.2-1.2.7-2.8.7-4.3-.4a4 4 0 0 1-1.3-3.6Z"/>
+            <path fill="#fff" d="m17.5 9.9 2 1.7-.4.5-2.2-1.9.6-.3Z"/>
+            <path fill="#000" d="m6 9.5 2.2 2.6-.5.4L5.5 10l.6-.5Z"/>
+            <path fill="#fff" d="m5.7 11.6 2-1.8.4.5-2.2 2-.2-.7Z"/>
+            <path fill="#000" d="m6.8 9 2.1 2.4-.5.5-2.1-2.5.5-.5ZM5.3 10l2.2 2.6-.5.4-2.2-2.5.5-.5Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="in">
+        <mask id="a" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="14">
+            <path d="M3 0h22l-3 14H0L3 0Z" fill="#C4C4C4"/>
+        </mask>
+        <g mask="url(#a)">
+            <path d="M0 0h25v5H0V0Z" fill="#FF9811"/>
+            <path d="M0 5h25v4H0V5Z" fill="#fff"/>
+            <path d="M0 9h25v5H0V9Z" fill="#6DA544"/>
+            <path d="M12.3332 8.86666c1.031 0 1.8667-.83573 1.8667-1.86666 0-1.03093-.8357-1.86667-1.8667-1.86667-1.0309 0-1.8666.83574-1.8666 1.86667 0 1.03093.8357 1.86666 1.8666 1.86666Z" fill="#0052B4"/>
+            <path d="M12.3333 8.63334c.902 0 1.6333-.73127 1.6333-1.63334 0-.90206-.7313-1.63333-1.6333-1.63333-.9021 0-1.6333.73127-1.6333 1.63333 0 .90207.7312 1.63334 1.6333 1.63334Z" fill="#fff"/>
+            <path d="M12.3333 7.32668c.1804 0 .3266-.14626.3266-.32667 0-.18042-.1462-.32667-.3266-.32667-.1805 0-.3267.14625-.3267.32667 0 .18041.1462.32667.3267.32667Z" fill="#0052B4"/>
+            <path d="m12.3333 8.63334.056-.98-.056-.46666-.056.46666.056.98ZM12.3333 5.31997l.056.98-.056.46666-.056-.46666.056-.98ZM10.6766 6.97665l.98.05601.4667-.05601-.4667-.056-.98.056ZM13.9899 6.97665l-.98.05601-.4667-.05601.4667-.056.98.056ZM11.5049 8.4114l.5384-.8207.1849-.43215-.2818.37615-.4415.8767ZM13.1617 5.54194l-.4415.8767-.2818.37614.1848-.43214.5385-.8207ZM10.8986 6.14832l.8207.53849.4321.18484-.3761-.28183-.8767-.4415ZM13.7678 7.805l-.8767-.4415-.3761-.28183.4321.18484.8207.53849ZM10.8987 7.80503l.8767-.4415.3761-.28183-.4321.18484-.8207.53849ZM13.7679 6.14835l-.8207.53849-.4321.18484.3761-.28183.8767-.4415ZM11.5048 5.54194l.4415.8767.2818.37614-.1848-.43214-.5385-.8207ZM13.1617 8.4114l-.5385-.8207-.1849-.43215.2818.37615.4416.8767ZM12.762 8.57688l-.1995-.9611-.1749-.43627.0667.46526.3077.93211ZM11.9045 5.37643l.3078.93212.0666.46526-.1748-.43628-.1996-.9611ZM10.7331 7.40545l.9611-.19955.4363-.17488-.4653.06669-.9321.30774ZM13.9336 6.54786l-.9321.30774-.4653.06669.4363-.17488.9611-.19955ZM11.9045 8.57687l.3078-.93211.0666-.46526-.1748.43627-.1996.9611ZM12.762 5.3764l-.1995.9611-.1749.43627.0667-.46526.3077-.93211ZM10.7332 6.54786l.9321.30774.4652.06669-.4362-.17488-.9611-.19955ZM13.9334 7.40545l-.9611-.19955-.4363-.17488.4653.06669.9321.30774ZM11.1619 8.14812l.7326-.65337.2904-.36958-.3696.29038-.6534.73257ZM13.5047 5.80523l-.6534.73256-.3696.29038.2904-.36958.7326-.65336ZM11.1618 5.8052l.6534.73256.3696.29038-.2904-.36958-.7326-.65336ZM13.5048 8.14809l-.7325-.65337-.2904-.36958.3696.29038.6533.73257Z" fill="#0052B4"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="br">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#6DA544" fill-rule="evenodd" d="M0 0h25v14H0V0Z" clip-rule="evenodd"/>
+            <path fill="#FFDA44" fill-rule="evenodd" d="M12.4 12.7 21.2 7l-8.9-5.7L3.5 7l8.9 5.7Z" clip-rule="evenodd"/>
+            <path fill="#0052B4" fill-rule="evenodd" d="M16.2 7a3.7 3.7 0 1 1-7.4 0 3.7 3.7 0 0 1 7.4 0Z" clip-rule="evenodd"/>
+            <path fill="#fff" fill-rule="evenodd" d="M11.3 9.2H11v-.1L11 9l.2-.1.1.1v.2Zm2.5.7-.2-.1-.1-.2.1-.1.1.1h.1V10Zm-1.1-1-.1-.1h-.1v-.2H12.9l-.1.1v.1Zm2.5-.4H15v-.2l.1-.1h.2l-.1.2Zm-2.6-.8h-.2v-.2l.1-.1.2.1v.2Zm-3-1.1h-.2v-.2h-.1.1v-.2l.1.1h.1V6.7ZM9.9 8h-.2v-.2l.1-.2V8h.2v.2Zm3.9-2-.1-.1h-.1V6l-.1-.1h.1v-.1l.1.1h.1V6Zm-.2 1-.1-.1h-.1v-.2h.2V7ZM9.4 8.3h-.2v-.1l.1-.2v.1h.1v.1Zm5.8.3H15v-.1h.2" clip-rule="evenodd"/>
+            <path fill="#fff" fill-rule="evenodd" d="M9.4 8.4h-.2v-.1l.1-.2v.1h.1v.1" clip-rule="evenodd"/>
+            <path fill="#fff" fill-rule="evenodd" d="M9.4 8.4h-.2v-.1l.1-.2v.1h.1v.1Zm1.2 0h-.1V8v.1h.2l-.1.1Zm-.1.4h-.1v-.1h-.1v-.2l.1.1h.1v.1ZM13 8h-.2v-.2H13.2 13v.2Zm-.7 0H12V7.7h.1l.1.1v.2Zm-2-.3h-.1v-.1.1ZM15 9.1H15v-.2h.2v.2Zm-.6 0h-.1V9h.2-.1v.1Zm.3 0h-.1v-.2.1h.1v.1Zm.8-.7-.1-.1h.1v.1Zm-1.1 1.2h-.2v-.2H14.7h-.1v.2Zm0 .3h-.1v-.2h.2l-.1.1Zm-.6-.8h-.1V9h.1v.1Zm-.5 0h-.1V9h.2-.1v.1Zm-.9-.7h-.1v-.2h.2v.2Zm.1 1.5h-.1v-.1h.1v.1Zm-1.3-2.5-.2-.1L11 7l.2-.1v.1h.1v.1M16 8.3l.1-.5a9.1 9.1 0 0 0-7-2.5L9 6a8.9 8.9 0 0 1 7 2.4Z" clip-rule="evenodd"/>
+            <path fill="#309E3A" d="M15 7.4h.1v.1h.1v-.2a.1.1 0 0 1 0-.1h.2v.1a.1.1 0 0 1 0 .1v-.1h-.1v.1a.1.1 0 0 1 0 .2H15v-.2Zm-.3-.3h.1v.1l.1.1V7h.2a.1.1 0 0 1 0 .2V7H15c-.1 0-.1 0 0 0v.1a.1.1 0 0 1 0 .1H14.7V7Zm-.4 0 .2-.4.3.1V7l-.2-.1.1.2h-.2l.1.1h-.3Zm-.6-.6h.2v.2a.3.3 0 0 1-.2 0l-.1-.1v-.1a.3.3 0 0 1 0-.2H14v.2-.1a.1.1 0 0 0-.2 0v.1a.1.1 0 0 0 0 .1h.1ZM11.1 6v-.4h.2v.3l.1-.3h.1V6h-.1v-.3.3h-.2v-.3.3H11Zm-.4 0v-.5h.3v.1h-.2l.2.1h-.2v.2h.2-.3Zm-1.4-.3v-.1a.2.2 0 0 1 .1-.1H9.7a.2.2 0 0 1 0 .2v.1a.2.2 0 0 1-.2 0 .2.2 0 0 1-.1 0v-.1Z"/>
+            <path fill="#fff" d="m9.4 5.6.1.1.1-.1v-.1a.1.1 0 0 0-.2 0Z"/>
+            <path fill="#309E3A" d="M9.8 5.8v-.4H10.1v.4-.1H9.7Z"/>
+            <path fill="#fff" d="M9.9 5.6h.1v-.1h-.1Z"/>
+            <path fill="#309E3A" d="M10.3 5.4h.2v.4H10.2v-.4Z"/>
+            <path fill="#fff" d="M10.3 5.5v.2h.2v-.2h-.1Z"/>
+            <path fill="#309E3A" d="M12.3 6.1v-.4h.2l.1.1V6a.1.1 0 0 1 0 .1h-.2v.2h-.1Z"/>
+            <path fill="#fff" d="M12.4 5.8V6h.1Z"/>
+            <path fill="#309E3A" d="m12.6 6.2.2-.3h.2v.5h-.1v-.2H12.5Z"/>
+            <path fill="#fff" d="M12.8 6h.1-.1Z"/>
+            <path fill="#309E3A" d="m13.1 6.2.1-.1h.2l.1.2-.1.2h-.2a.2.2 0 0 1 0-.1.2.2 0 0 1 0-.2Z"/>
+            <path fill="#fff" d="M13.2 6.3v.1h.2v-.2a.1.1 0 0 0-.1 0h-.1Z"/>
+            <path fill="#309E3A" d="m14 6.8.1-.4.2.1v.2h-.1V7v-.2H14l-.1.1Z"/>
+            <path fill="#fff" d="M14.1 6.6h.1-.1Z"/>
+            <path fill="#309E3A" d="M15.4 7.5H15.7a.2.2 0 0 1 .1.1v.2h-.2a.2.2 0 0 1-.1 0 .2.2 0 0 1-.1-.1v-.2Z"/>
+            <path fill="#fff" d="M15.5 7.6v.1s0 .1.1 0h.1v-.2h-.2Z"/>
+            <path fill="#309E3A" d="M11.8 6v-.3h.3-.2v.1h.1-.1V6h.1V6h-.2Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="sn">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#0B7226" fill-rule="evenodd" d="M-.3-2.5H8v19H-.3v-19Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" d="M8.1-2.5h8.5v19H8v-19Z" clip-rule="evenodd"/>
+            <path fill="#BC0000" fill-rule="evenodd" d="M16.6-2.5H25v19h-8.4v-19Z" clip-rule="evenodd"/>
+            <path fill="#0B7226" d="M13.2 6.2H16l-2.2 1.7.8 2.7L12.4 9 10 10.6l.9-2.7-2.3-1.7h2.8l.9-2.9.8 2.9Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="cm">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#007A5E" d="M0-2.8h8.3V16H0V-2.8Z"/>
+            <path fill="#CE1126" d="M8.3-2.8h8.4V16H8.3V-2.8Z"/>
+            <path fill="#FCD116" d="M16.7-2.8H25V16h-8.3V-2.8ZM13 5.8h2.4l-1.9 1.5.7 2.2-1.8-1.4-1.9 1.4.7-2.2-1.9-1.5h2.3l.8-2.3.6 2.3Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="ci">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#F67400" d="M0-2h8.3v18.8H0V-2Z"/>
+            <path fill="#fff" d="M8.3-2h8.4v18.8H8.3V-2Z"/>
+            <path fill="#029455" d="M16.7-2H25v18.8h-8.3V-2Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="md">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#00319C" fill-rule="evenodd" d="M0-2.4h8.7v19.5H0V-2.4Z" clip-rule="evenodd"/>
+            <path fill="#FFDE00" fill-rule="evenodd" d="M8.7-1.3h7.6V16H8.7V-1.3Z" clip-rule="evenodd"/>
+            <path fill="#DE2110" fill-rule="evenodd" d="M16.3-2.4H25v19.5h-8.7V-2.4Z" clip-rule="evenodd"/>
+            <path fill="#FF1900" fill-rule="evenodd" d="m14 10.3.8 1.2s.1.2 0 .2v.3c.1.2.3.2.3.1l.7-.4v-.3s-.2-.2-.3-.1l-.2-.1-.8-1.3" clip-rule="evenodd"/>
+            <path stroke="#000" stroke-width=".2" d="m14 10.3.8 1.2s.1.2 0 .2v.3c.1.2.3.2.3.1l.7-.4v-.3s-.2-.2-.3-.1l-.2-.1-.8-1.3"/>
+            <path fill="#A77B3B" fill-rule="evenodd" stroke="#000" stroke-width=".5" d="M14.3 9.4c.4.4.5 1 .3 1.1-.2.2-.7 0-1.1-.5-.4-.4-.5-1-.3-1.1.2-.2.7 0 1.1.5Z" clip-rule="evenodd"/>
+            <path fill="#FF1900" fill-rule="evenodd" d="M10.4 9.8 9.6 11s0 .1-.1 0l-.3.2v.3l.7.4s.2 0 .3-.2v-.3c-.1 0 0 0 0-.1L11 10" clip-rule="evenodd"/>
+            <path stroke="#000" stroke-width=".2" d="M10.4 9.8 9.6 11s0 .1-.1 0l-.3.2v.3l.7.4s.2 0 .3-.2v-.3c-.1 0 0 0 0-.1L11 10"/>
+            <path fill="#A77B3B" fill-rule="evenodd" stroke="#000" stroke-width=".5" d="M12.9 8.8h-.7l-.4 1.8c-.3.6-1 1.1-1 1.1l.5.2s.8-.1.9-1c0 .9-.5 1.3-.5 1.3s.9.2.9.8c0-.6.8-.8.8-.8s-.4-.4-.5-1.4c.2 1 .8 1.1.9 1.1l.6-.2s-.8-.5-1-1.1c-.3-.5-.5-1.7-.5-1.8Zm-3-4.2 1.3.5c.5 0 1-.5 1-.9 0-1-.4-1.2-.5-1.2l.1-.2-.2-.3s0-.4 1-.4c.8 0 .8.4.8.9 0 .4-.4.4-.4 1.2 0 .4.4.9.9.9l1.3-.5v4.2H9.9V4.6Z" clip-rule="evenodd"/>
+            <path d="M12 4.8v.3l.1-.3.1.3.2-.3v.3l.1-.3.2.3.1-.3.1.3v-.3"/>
+            <path d="M12.9 3.9v1m-.6-1-.2 1 .2-1Zm0 0v1-1Zm.2 0v1-1Zm.2 0 .1 1v-1Z"/>
+            <path fill="#A77B3B" fill-rule="evenodd" stroke="#000" stroke-width=".5" d="M9 2.1c-.8.4-.8 1.3-.8 1.7v8.4s0-.5.4-.8l.4-.5.5-.4c.3-.3.4-.8.4-1.2v-6S10 3 9 2.2Z" clip-rule="evenodd"/>
+            <path stroke="#000" stroke-width=".5" d="m10 3.8-.5-.4-.5.4-.4-.4-.4.4m1.7.4-.4.4-.5-.4-.4.4-.4-.4m1.7 1.3L9.5 5l-.5.4-.4-.4-.4.4"/>
+            <path stroke="#000" stroke-width=".7" d="M9.5 3.4v7.1"/>
+            <path stroke="#000" stroke-width=".6" d="M9 3.8v7.1"/>
+            <path stroke="#000" stroke-width=".7" d="M8.6 3.4v8"/>
+            <path fill="#A77B3B" fill-rule="evenodd" stroke="#000" stroke-width=".5" d="M16 2.1c1 .4 1 1.3 1 1.7v8.4s-.1-.5-.5-.8l-.4-.5-.5-.4c-.3-.3-.4-.8-.4-1.2v-6s0-.3.9-1.2Z" clip-rule="evenodd"/>
+            <path stroke="#000" stroke-width=".5" d="m15.2 3.8.4-.4.5.4.4-.4.4.4m-1.7.4.4.4.5-.4.4.4.4-.4m-1.7 1.3.4-.4.5.4.4-.4.4.4"/>
+            <path stroke="#000" stroke-width=".7" d="M15.6 3.4v7.1"/>
+            <path stroke="#000" stroke-width=".6" d="M16 3.8v7.1"/>
+            <path stroke="#000" stroke-width=".7" d="M16.5 3.4v8"/>
+            <path fill="#A77B3B" fill-rule="evenodd" stroke="#000" stroke-width=".5" d="M11.4 9.6c-.2.6-.6 1-1 .8-.2-.1-.2-.6 0-1.2s.7-.8 1-.7c.2 0 .2.6 0 1.1Z" clip-rule="evenodd"/>
+            <path fill="red" fill-rule="evenodd" d="M10 5h5.2v2.6H9.9V5Z" clip-rule="evenodd"/>
+            <path fill="#564DFF" fill-rule="evenodd" d="M10 7.6h5.2v1.2c0 .9-1.3.9-2.6 1.7-1.4-.8-2.7-.8-2.7-1.7V7.6Z" clip-rule="evenodd"/>
+            <path stroke="#FF0" stroke-width=".4" d="M10 5h5.2v3.8c0 .9-1.3.9-2.7 1.7-1.3-.8-2.6-.8-2.6-1.7V5.1Z"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".3" d="M11.6 5.2s-.9.6-.9 1.2 1 .8 1 .8-.4 0-.4.8c0 .4 1 .2 1 .4v1c0 .2-.7 0-.7.2 0 0 .5.6 1 .6s.9-.5.9-.6c0-.2-.6 0-.6-.2v-1c0-.2.9 0 .9-.4 0-.8-.3-.8-.3-.8s.9-.2.9-.8c0-.6-.9-1.2-.9-1.2s.5.8.5 1.2c0 .2-.2.6-.8.6 0 0-.2-.2-.3 0 0 0-.2-.2-.4 0 0 0 0-.2-.3 0 0 0-.1-.2-.3 0-.3 0-.9-.2-.9-.6 0-.4.6-1.2.6-1.2Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".3" d="m11.6 8.8.1.7h.5v-.7h-.6Zm1.9 0-.1.7h-.5v-.7h.6ZM12.2 8.5v.2h-.5l-.1-.2v-.1l.3-.1h.2l.1.2ZM13.5 8.5v.2H13l-.1-.2v-.1l.3-.1h.2l.1.2Z" clip-rule="evenodd"/>
+            <path fill="#000" fill-rule="evenodd" d="m13.1 9.8-.2.1-.1-.1.1-.1.2.1Zm-.8 0-.1.1-.2-.1.2-.1.1.1Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".2" d="m12.5 6.7-.1-.3H12v-.2l-.3-.2.3-.2v-.3h.3l.1-.2.2.3h.3v.2l.3.2-.3.2v.3h-.3l-.2.2ZM13.9 7.6l.5.2.5-.2-.5-.3-.5.3Zm-3.8 0 .5.2.5-.2-.5-.3-.5.3ZM14.7 9l-.6.1c-.2 0-.3.2-.3.5-.2-.3 0-.6.2-.7h.4s.2 0 .3.2ZM11 8.6v.1a.2.2 0 0 1-.2 0v-.2h.2Zm-.1.6-.2.1h-.1V9a.2.2 0 0 1 .2 0Zm-.1-.4V9H10.4v-.2a.2.2 0 0 1 .2 0Zm.4.4a.2.2 0 0 1-.3 0s0-.1 0-.1l.2-.1.1.2Zm.1-.4V9a.2.2 0 0 1-.3 0 .2.2 0 0 1 0-.3H11.3v.1Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".2" d="M11 9a.2.2 0 0 1-.2 0v-.2h.2v.1Z" clip-rule="evenodd"/>
+            <path fill="#DA4500" fill-rule="evenodd" d="M11.7 3c-.4 0-.5.1-.7.2 0-.2.5-.4 1-.4l-.3.3Z" clip-rule="evenodd"/>
+            <path fill="#CAC9C7" fill-rule="evenodd" d="m12.4 2.6-.2.2c-.1 0-.2 0-.2-.2l.2-.1.2.1Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".2" d="M10.5 2v.3h.5v1.3h.2V2.3h.5V2h-.5v-.3H11V2h-.5Z" clip-rule="evenodd"/>
+            <path fill="#DA4500" fill-rule="evenodd" d="m12 2.8-1.1.1c0-.2.3-.5.8-.5l.2.4Z" clip-rule="evenodd"/>
+            <path fill="#008500" fill-rule="evenodd" stroke="#000" stroke-width=".1" d="M7.4 7.2c-.2-.2-.2-.3 0 0l2.8 5.1H10l-2.7-5Z" clip-rule="evenodd"/>
+            <path fill="#008F00" fill-rule="evenodd" d="M9.2 10.6c0-.4-.7-.8-.7-.7 0 0 0 .2.2.3l-.5-.1.4.3h-.3c0 .1.9.6 1 .2Zm-.7-1c0-.5-.7-.9-.7-.8 0 0 0 .2.2.3L7.5 9l.4.3h-.3c0 .1.9.6 1 .2Zm-.5-1c0-.5-.7-.9-.7-.9s0 .3.2.4L6.9 8l.5.3H7c0 .1.8.6.9.2Zm-.5-1.2c0-.4-.7-.8-.7-.7l.1.3-.5-.1.4.3h-.3c0 .1 1 .6 1 .2Z" clip-rule="evenodd"/>
+            <path fill="#008F00" fill-rule="evenodd" d="M7.6 7.4c.4-.2.3-1 .3-1l-.2.3-.2-.5v.6l-.3-.2s.1 1 .4.8Zm.5 1c.4-.2.6-1 .6-1l-.3.3v-.5l-.2.5-.2-.2s-.2.9.1.8Zm.6.9c.4-.2.4-1 .3-1l-.2.4c0-.3 0-.6-.1-.5l-.1.5-.3-.2s0 1 .4.8Zm.6 1.3c.4-.2.5-1 .5-1s-.3.2-.3.4v-.6c-.2 0-.2.5-.2.6L9 9.7s-.1 1 .2.9Z" clip-rule="evenodd"/>
+            <path fill="#FF1900" fill-rule="evenodd" stroke="#000" stroke-width=".2" d="M10.2 12h-.7c-.3-.2-.4-.5-.3-.6 0-.2.4-.2.6 0 .3.1.4.4.4.5Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".1" d="M17.3 6.5v-.1H17.6l.1.1v.1h-.2v.3h-.2l.1-.3h-.1Zm-.3 1 .2.1-1.4 3.5h-.1L17 7.6Z" clip-rule="evenodd"/>
+            <path fill="#FF0" fill-rule="evenodd" stroke="#000" stroke-width=".1" d="M15.6 11h.3l-.4 1h-.2l.3-1Zm1.5-4h.4c.3.1-.3.7-.3.7h-.3s0-.8.2-.8Zm.4 0h-.2v-.1s0-.1 0 0h.2Z" clip-rule="evenodd"/>
+            <path fill="#FF1900" fill-rule="evenodd" stroke="#000" stroke-width=".2" d="M15.8 11.5c.1.1 0 .4-.2.6h-.7c-.1-.2 0-.4.3-.6s.5-.2.6 0Z" clip-rule="evenodd"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="th">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#fff" d="M0 0h25v14H0V0Z"/>
+            <path fill="#0052B4" d="M0 4.7h25v4.7H0V4.7Z"/>
+            <path fill="#D80027" d="M0 0h25v2.4H0V0Zm0 11.7h25V14H0v-2.3Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="ca">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#fff" d="M6.7-.8h11.6v16.3H6.7V-.8Z"/>
+            <path fill="#D52B1E" d="M0-.8h6.7v16.3H0V-.8Zm18.3 0H25v16.3h-6.7V-.8ZM8.5 7.1l-.5.1 2.1 1.9c.2.4 0 .6-.2.8l2.3-.3V12h.4l-.1-2.3 2.2.3c-.1-.3-.2-.5-.1-1l2-1.7h-.3c-.3-.3.1-1.2.2-1.7 0 0-1.2.4-1.3.2L15 5l-1.1 1.2c-.1 0-.2 0-.2-.2l.5-2.5-.8.5-.2-.1-.8-1.6-.8 1.7h-.1l-.8-.4.5 2.5h-.3L9.8 5c-.1.3-.2.6-.4.7l-1.2-.2c.1.5.5 1.3.3 1.6Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="ng">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+            <path fill="#fff" d="M0-2h25v18.8H0V-2Z"/>
+            <path fill="#008753" d="M16.7-2H25v18.8h-8.3V-2ZM0-2h8.3v18.8H0V-2Z"/>
+        </g>
+    </symbol>
+    <symbol fill="none" viewBox="0 0 25 14" id="gh">
+        <mask id="a" width="25" height="14" x="0" y="0" maskUnits="userSpaceOnUse">
+            <path fill="#C4C4C4" d="M3 0h22l-3 14H0L3 0Z"/>
+        </mask>
+        <g mask="url(#a)">
+            <path fill="#006B3F" d="M0 0h25v14H0V0Z"/>
+            <path fill="#FCD116" d="M0 0h25v9H0V0Z"/>
+            <path fill="#CE1126" d="M0 0h25v5H0V0Z"/>
+            <path fill="#000" d="m12.3 4.7 1.5 4.6-4-2.9h5l-4 3 1.5-4.7Z"/>
+        </g>
+    </symbol>
+</svg>

@@ -1,0 +1,512 @@
+:root {
+    /* GENERAL MOBILE AND DESKTOP SHARED BACKGROUND COLORS */
+    --overlay_bg: rgba(12, 12, 12, 0.8);
+    --white_lighter_transparent_bg: rgba(255, 255, 255, 0.75);
+    --white_middle_transparent_bg: rgba(255, 255, 255, 0.5);
+    --white_darker_transparent_bg: rgba(255, 255, 255, 0.25);
+    --black_dark_transparent_bg: rgba(0, 0, 0, 0.9);
+    --black_darker_transparent_bg: rgba(0, 0, 0, 0.75);
+    --black_middle_transparent_bg: rgba(0, 0, 0, 0.5);
+    --black_lighter_transparent_bg: rgba(0, 0, 0, 0.25);
+    --transparent_bg: transparent;
+    --primary_gradient_bg: linear-gradient(90deg, #36b060 0%, #4cb871 100%);
+    --secondary_gradient_bg: linear-gradient(90deg, #1d212a  0%, #353a4b 100%);
+    
+    
+    /***** DESKTOP *****/ 
+      
+    /* GENERAL DESKTOP BACKGROUND COLORS */
+    --primary_color: #3b3b44;    
+    --secondary_color: #12141a;
+    --tertiary_color: #1d212a;    
+    --quaternary_color: #545b74;
+    --quinary_color: #36b060; 
+    --quinary_hover_color: #4cb871; 
+    --senary_color: #353a4b;
+    --septenary_color: #40465a;
+    --octonary_color: #0d0f13;
+    --nonary_color: #252a37;
+    --grey_color: #f5f5f5;    
+    --white_color: rgba(255, 255, 255, 1);
+    --black_color: rgba(0, 0, 0, 1);
+    --light_color: rgba(255, 255, 255, 1);
+    --dark_color: rgba(0, 0, 0, 1);
+    --light_grey: rgba(243, 243, 243, 1);
+    --light_grey_hover: rgba(243, 243, 243, 0.75);
+    --helper_color_bg: transparent; /* use it for any kind of background help */
+    
+    /* GENERAL DESKTOP TEXT COLORS */
+    --primary_txt_color: rgba(255, 255, 255, 1);
+    --secondary_txt_color: rgba(0, 0, 0, 1);
+    --tertiary_txt_color: rgba(255, 255, 255, 0.5);
+    --quaternary_txt_color: var(--quinary_color);
+    --quinary_txt_color: rgba(0, 0, 0, 0.5);
+    --senary_txt_color: rgba(239, 193, 27, 1);
+    --septenary_txt_color: rgba(197, 42, 35, 1);
+    --septenary_txt_hover_color: rgba(167, 28, 22, 1);
+    
+    /* GENERAL DESKTOP BUTTON COLORS */
+    --common_button_bg: var(--tertiary_color);
+    --common_button_hover_bg: var(--quinary_color);
+    --common_button_inner_bg: var(--quinary_color);
+    --common_button_inner_hover_bg: var(--quinary_hover_color); 
+    --button_goto_top_bg: var(--quinary_color);
+    --gradient_button_bg: var(--primary_gradient_bg);
+    --gradient_button_hover_bg: var(--primary_gradient_bg);
+    --disclaimer_cookie_button_bg: var(--quinary_color);
+    
+    /* GENERAL DESKTOP BORDER COLORS */ 
+    --primary_border_color: var(--quinary_color);
+    --secondary_border_color: rgba(255, 255, 255, 1);
+    --tertiary_border_color: rgba(255, 255, 255, 0.5);
+    --quaternary_border_color: rgba(255, 255, 255, 0.15);
+    --quinary_border_color: rgba(0, 0, 0, 1);
+    --senary_border_color: rgba(0, 0, 0, 0.75);
+    --septenary_border_color: rgba(0, 0, 0, 0.5);
+    --octonary_border_color: rgba(0, 0, 0, 0.25);
+    --nonary_border_color: rgba(0, 0, 0, 0.15);
+    --tenary_border_color: rgba(255, 255, 255, 0.75);
+    --custom_border_color: rgba(68, 71, 86, 1);
+    
+    /* WEBSITE DESKTOP BACKGROUND COLORS */ 
+    --main_bg: var(--primary_color);
+    --header_bg: var(--secondary_color);
+    --header_menu_area: var(--secondary_color);
+    --top_bar_bg: var(--tertiary_color);
+    --extra_balance_info_bg: var(--tertiary_color);
+    --footer_bg: var(--secondary_color);
+    --footer_links_bg: var(--tertiary_color);
+    --footer_sponsors_bg: var(--secondary_color);
+    --footer_payments_bg: var(--secondary_color);
+    --footer_license_container_bg: var(--secondary_color);
+    --bottom_footer_bg: var(--secondary_color);
+    --divider_color_bg: var(--quinary_color);
+    --input_select_bg: var(--senary_color);
+    --section_title_bar_bg: var(--tertiary_color);
+    --bs_toggle_filters_up_bg: var(--quinary_color);
+    --dd_menu_list_bg: var(--tertiary_color);
+    --dd_menu_list_hover_bg: var(--senary_color);
+    --generic_error_bg: var(--secondary_color);
+    --social_sec_link_bg: var(--quinary_color);
+    --social_sec_link_hover_bg: var(--quinary_hover_color);
+    --scrollbar_bg: var(--light_grey);
+    --scrollbar_bg_hover: var(--light_grey_hover);
+    --side_menu_sub_container_bg: var(--secondary_color);
+    --side_menu_sub_container_link_bg: var(--secondary_color);
+    --home_txt_content_bg: var(--primary_color);
+    --language_select_bg: var(--quinary_color);
+    --cookie_disclaimer_btn_bg: var(--quinary_color);
+    --bs_search_form_bg: var(--primary_color); 
+    
+    /* DESKTOP PAGES */    
+    /* login */
+    --login_form_bg: var(--tertiary_color);
+    --login_box_popup_bg: var(--overlay_bg);
+    --login_btn_bg: var(--senary_color);
+    --login_box_form_bg: var(--tertiary_color);
+    --login_box_button_bg: var(--quinary_color);
+    --login_box_close_button_bg: var(--quinary_color);
+    --logout_btn_bg: var(--quinary_color);
+    
+    /* register */
+    --register_btn_bg: var(--quinary_color);
+    --reg_steps_wrapper_bg: var(--tertiary_color);
+    --reg_steps_bg: var(--secondary_color);
+    --reg_steps_selected_bg: var(--quinary_color);
+    --registration_table_bg: var(--tertiary_color);
+    --registration_title_bg: var(--secondary_color);
+    --registration_title_selected_sec_bg: var(--quinary_color);
+    --reg_sec_divider_bg: var(--tertiary_color);
+     
+    /* sports */    
+    /* Sport left menu area */
+    --sports_menu_bg: var(--secondary_color);
+    --sec_menu_title_bg: var(--tertiary_color);
+    --sb_blk_sec_bg: var(--secondary_color);
+    --sb_search_form_bg: var(--grey_color);
+    --featured_league_links_bg: var(--tertiary_color);
+    --menu_date_filter_bg: var(--senary_color);
+    --menu_date_filter_selected_bg: var(--quinary_color);
+    --menu_a_link_bg: var(--nonary_color);
+    --menu_a_link_hover_bg: var(--quinary_color);
+    --sports_menu_links_bg: var(--secondary_color);
+    --sports_menu_links_sec_bg: var(--senary_color);
+    --sports_menu_links_trd_bg: var(--septenary_color);
+    --sports_menu_links_trd_hover_bg: var(--quaternary_color);
+    --sports_menu_antepost_heading_bg: var(--senary_color);
+    
+    /* Sport central area */
+    --title_tr_bt_bg: var(--tertiary_color);
+    --title_tr_bt_td_bg: var(--tertiary_color);
+    --title_tr_sel_bg: var(--senary_color);
+    --odds_table_bg: var(--secondary_color);
+    --odds_table_row_hover_bg: var(--octonary_color);
+    --sports_odds_button_bg: var(--tertiary_color);
+    --sports_odds_button_hover_selected_bg: var(--quinary_color);
+    --featured_event_stats_bg: var(--secondary_color);
+    --latest_wins_list_bg: var(--secondary_color);
+    --single_event_holder_bg: var(--secondary_color);
+    --single_ev_btc_wrapper_bg: var(--nonary_color);
+    --btc_group_links_bg: var(--senary_color);
+    --btc_group_link_bg: var(--black_darker_transparent_bg);
+    --btc_group_link_hover_selected_bg: var(--quinary_color);
+    --btc_bt_links_bg: var(--senary_color);
+    --btc_bt_link_bg: var(--black_lighter_transparent_bg);
+    --btc_bt_link_hover_selected_bg: var(--quinary_color);
+    --sportodds_sec_menu_title_bg: var(--tertiary_color);
+    --team_score_bg: var(--tertiary_color);
+    --search_for_bg: var(--secondary_color);
+    --widget_stats_perc_width_bg: var(--quinary_color);
+    
+    /* Sport bet slip area */
+    --bet_slip_bg: var(--secondary_color);
+    --bslip_slip_tabs_bg: var(--tertiary_color);
+    --bslip_slip_tabs_hover_bg: var(--quinary_color);
+    --place_bet_button_bg: var(--quinary_color);
+    --place_bet_button_hover_bg: var(--quinary_color);
+    --new_slip_button_bg: var(--tertiary_color);
+    --new_slip_button_hover_bg: var(--quinary_color);
+    --no_selections_div_bg: var(--quaternary_color);
+    --slip_sel_row_bg: var(--senary_color);
+    --slip_sel_col_clear_bg: var(--white_lighter_transparent_bg);
+    --slip_sel_col_clear_hover_bg: var(--black_darker_transparent_bg);
+    --slip_teams_bg: var(--tertiary_color);
+    --bslip_fold_divide_area_bg: var(--tertiary_color);
+    --bslip_folds_header_bg: var(--quaternary_color);
+    --mm_win_text_bg: var(--tertiary_color);
+    --mm_win_val_bg: var(--senary_color);
+    
+    /* Sportslive */
+    --sports_selector_bg: var(--nonary_color);
+    --sports_selector_link_bg: var(--secondary_color);
+    --sports_selector_link_selected_bg: var(--quinary_color);
+    --slt_holder_bg: var(--tertiary_color);
+    --ml_event_score_bg: var(--nonary_color);
+    --header_sport_bt_changer_bg: var(--secondary_color);
+    --bt_links_bt_item_hover_bg: var(--tertiary_color);
+    --inhouse_sport_info_bg: var(--tertiary_color);
+    --single_ev_btc_wrapper_bci_link_bg: var(--secondary_color);
+    --single_ev_btc_wrapper_bci_link_hover_bg: var(--quinary_color);
+    --single_event_odds_open_bg: var(--secondary_color);
+    --multiview_noevent_bg: var(--secondary_color);
+    --sportscount_bg: var(--secondary_color);
+    --sportscount_selected_bg: var(--quinary_color);
+    
+    /* sports widgets */
+    --single_event_result_bg: var(--secondary_color);
+    
+    /* casino */
+    --main_bar_container_bg: var(--secondary_color);
+    --filters_container_bg: var(--senary_color);
+    --filters_container_link_selected_bg: var(--quinary_color);
+    --filter_button_bg: var(--senary_color);
+    --search_container_bg: var(--senary_color);
+    --casino_sections_menu_bg: var(--tertiary_color);
+    --casino_providers_menu_bg: var(--tertiary_color);
+    --casino_sections_swiper_container_bg: var(--tertiary_color);
+    --casino_providers_swiper_container_bg: var(--tertiary_color);
+    --casino_sections_swiper_slide_bg: var(--tertiary_color);
+    --casino_providers_swiper_slide_bg: var(--tertiary_color);
+    --casino_sections_swiper_slide_hover_selected_bg: var(--quinary_color);
+    --casino_providers_swiper_slide_hover_selected_bg: var(--quinary_color);
+    --casino_prev_next_btn_bg: var(--quinary_color);
+    --casino_section_span_after: var(--quinary_color);
+    --lobby_btn_bg: var(--tertiary_color);
+    --lobby_btn_sticky_bg: var(--quinary_color);
+    --providers_dropdown_nav_bg: var(--nonary_color);
+    --providers_dropdown_link_bg: var(--senary_color);
+    --providers_dropdown_link_hover_bg: var(--septenary_color);
+    --total_games_count_bg: var(--quinary_color);
+    --games_item_container_bg: var(--secondary_color);
+    --preloader_bg: var(--primary_color);
+    
+    /* inner pages */
+    --main_title_bar_bg: var(--tertiary_color);
+    --fields_pin_documents_container_bg: var(--tertiary_color);
+    --datagrid_th_bg: var(--nonary_color);
+    --odd_row_bg: var(--senary_color);
+    --even_row_bg: var(--nonary_color);
+    --table_header_titles_th_bg: var(--senary_color);
+    --bs_alternate_table_tr_odd_bg: var(--senary_color);
+    --bs_alternate_table_tr_even_bg: var(--nonary_color);
+    --table_header_titles_th_bg: var(--nonary_color);
+    --bs_filters_bg: var(--tertiary_color);
+    --bs_legend_bg: var(--tertiary_color);
+    --bslips_details_data_grid_tr_odd_bg: var(--tertiary_color);
+    --total_rows_bg: var(--tertiary_color);
+    --cbox_loaded_content_bg: var(--secondary_color);
+    --readonly_field_bg: var(--nonary_color);
+    --datagrid_table_bg: var(--tertiary_color);
+    
+    /* payment */
+    --payment_main_bg: var(--tertiary_color);
+    --panel_main_title_bar_bg: var(--tertiary_color);
+    --payment_method_list_link_bg: var(--tertiary_color);
+    --payment_method_list_link_hover_bg: var(--nonary_color);
+    --payment_method_list_link_selected_bg: var(--quinary_color);
+    --payment_btn_bg: var(--quinary_color);
+    --payment_btn_hover_bg: var(--quinary_color);
+    
+    /* promotions */
+    --promotion_title_bg: var(--tertiary_color);
+    --promotion_title_before_bg: var(--quinary_color);
+    --promotion_container_bg: var(--tertiary_color);
+    --promo_btn_bg: var(--quinary_color);
+    --promo_btn_hover_bg: var(--quinary_color);
+    
+    /* help */
+    --help_wrap_link_bg: var(--secondary_color);
+    --help_wrap_sec_link_bg: var(--tertiary_color);
+    --help_wrap_trd_link_bg: var(--nonary_color);
+    --help_wrap_link_hover_select_bg: var(--quinary_color);
+    
+    /* virtual */
+    --virtuals_menu_hover_selected_bg: var(--quinary_color);
+    --virtuals_menu_icon_bg: var(--tertiary_color);
+    --virtuals_menu_selected_icon_bg: var(--quinary_color);
+    
+    /* bonuses */
+    --bonuses_fields_container_bg: var(--secondary_color);
+    --bonuses_fields_container_after_bg: var(--black_middle_transparent_bg);
+    --product_wagering_box_label_bg: var(--tertiary_color);
+    --wagering_perc_bg: var(--quinary_color);
+    
+    /* registration */
+    --selected_sec_bg: var(--quinary_color);
+    --registration_tbl_bg: var(--tertiary_color);
+    --registration_btn_bg: var(--quinary_color);
+    --registration_btn_hover_bg: var(--quinary_color);
+    --reg_sec_divider_bg: var(--secondary_color);
+    
+    /* message center */
+    --msg_bs_legend_bg: var(--tertiary_color);
+    --msg_td_content_bg: var(--secondary_color);
+    --msg_table_header_titles_th_bg: var(--secondary_color);
+    --msg_stat_bg: var(--secondary_color);
+    
+    /* datepicker */
+    --datepicker_bg: var(--tertiary_color);
+    --datepicker_header_bg: var(--quinary_color);
+    --datepicker_cell_bg: var(--senary_color);
+    --datepicker_cell_hover_active_bg: var(--quinary_color);
+    --date_picker_input_select_bg: var(--senary_color);
+    
+    /* notifications */
+    --notice_bg: var(--tertiary_color);
+    
+    
+    /***** MOBILE *****/
+    
+    /*GENERAL MOBILE BAKGROUND COLORS*/
+    --mob_helper_color_bg: transparent; /* use it for any kind of background help */
+    
+    /* WEBSITE MOBILE BACKGROUND COLORS */
+    --mob_main_bg: var(--primary_color);
+    --mob_header_bg: var(--secondary_color);
+    --mob_header_login_btn_bg: var(--senary_color);
+    --mob_header_reg_btn_bg: var(--quinary_color);
+    --mob_language_drop_bg: var(--secondary_color);
+    --mob_language_drop_list_bg: var(--quinary_color);
+    --mob_username_area_close_menu_bg: var(--quinary_color);
+    --mob_main_menu_bg: var(--tertiary_color);
+    --mob_home_title_bg: var(--tertiary_color);
+    --mob_home_pods_bg: var(--tertiary_color);
+    --mob_payment_container_bg: var(--secondary_color);
+    --mob_left_menu_header: var(--secondary_color);
+    --mob_left_menu_area_bg: var(--secondary_color);
+    --mob_footer_bg: var(--secondary_color);
+    --mob_footer_nav_bg: var(--secondary_color);
+    --mob_footer_info_bg: var(--secondary_color);
+    --mob_footer_links_sec_after_bg: var(--quinary_color);
+    --mob_footer_payment_icons_bg: var(nonary_color);
+    --mob_input_select_bg: var(--transparent_bg);
+    --mob_main_title_bar_bg: var(tertiary_color);
+    --mob_page_tt_bar_bg: var(--tertiary_color);
+    --mob_login_area_header_bg: var(--tertiary_color);
+    --mob_home_title_bg: var(--tertiary_color);
+    --mob_balance_container_bg: var(--senary_color);
+    --mob_open_slip_container_bg: var(--senary_color);
+    --mob_ttl_sec_bg: var(--tertiary_color);
+    --mob_sec_menu_link_bg: var(--senary_color);
+    --mob_hom_paym_cont_bg: var(--tertiary_color);
+    --mob_cbox_loaded_content_bg: var(--secondary_color);
+    --mob_cbox_close_before_after_bg: var(--light_color);
+    --mob_panel_title_bar_bg: var(--tertiary_color);
+    --mob_mob_main_title_bar_title_txt_bg: var(--quinary_color);
+    --mob_social_sec_link_bg: var(--quinary_color);
+    --mob_cookie_disclaimer_btn_bg: var(--quinary_color);
+    --mob_go_back_btn_bg: var(--secondary_color);
+    --mob_general_hr_bg: var(--black_darker_transparent_bg);
+    
+    /* GENERAL MOBILE TEXT COLORS */
+    --mob_primary_txt_color: var(--light_color);
+    --mob_secondary_txt_color: var(--dark_color);
+    --mob_tertiary_txt_color: rgba(255, 255, 255, 0.5);
+    --mob_quaternary_txt_color: var(--quinary_color);
+    --mob_quinary_txt_color: rgba(0, 0, 0, 0.5);
+    
+    /* GENERAL MOBILE BUTTON COLORS */
+    --mob_primary_button_bg: var(--senary_color);
+    --mob_secondary_button_bg: var(--quinary_color); 
+    --mob_button_goto_top_bg: var(--quinary_color);
+    --mob_disclaimer_cookie_button_bg: var(--quinary_color);
+    
+    /* GENERAL MOBILE BORDER COLORS */ 
+    --mob_primary_border_color: var(--quinary_color);
+    --mob_secondary_border_color: rgba(255, 255, 255, 0.75);
+    --mob_tertiary_border_color: rgba(255, 255, 255, 0.5);
+    --mob_quaternary_border_color: rgba(255, 255, 255, 0.15);
+    --mob_quinary_border_color: rgba(0, 0, 0, 1);
+    --mob_senary_border_color: rgba(0, 0, 0, 0.75);
+    --mob_septenary_border_color: rgba(0, 0, 0, 0.5);
+    --mob_octonary_border_color: rgba(0, 0, 0, 0.25);
+    --mob_nonary_border_color: rgba(0, 0, 0, 0.1);
+    --mob_full_border_color: #484b57;
+    
+    /* MOBILE PAGES */
+    /* home */
+    --mob_home_section_title: var(--light_grey);
+    --mob_home_section_item: var(--light_color);
+   
+    /* login */
+    --mob_login_box_popup_bg: var(--senary_color);
+    --mob_login_btn_bg: var(--quinary_color);
+    --mob_login_title_txt: var(--quinary_color);
+    --mob_login_form_bg: var(--tertiary_color);
+    --mob_close_login_box_popup_bg: var(--secondary_color);
+    
+    /* register */
+    --mob_registration_tbl_bg: var(--senary_color);
+    --mob_registration_title_bg: var(--tertiary_color);
+    --mob_reg_btn_bg: var(--quinary_color);
+    --mob_reg_checked_step_bg: var(--quinary_color);
+    --mob_reg_sec_divider_bg: var(--senary_color);
+    --mob_reg_input_select_bg: var(--transparent_bg);
+    --mob_reg_radiobox_bg: var(--quinary_color);
+    --mob_reg_radiobox_before_bg: var(--senary_color); 
+    
+    /* sports */ 
+    --mob_sports_menu_link_bg: var(--secondary_color);
+    --mob_sports_menu_link_sec_bg: var(--tertiary_color);
+    --mob_sports_menu_link_trd_bg: var(--senary_color);
+    --mob_sports_menu_sportcount_bg: var(--tertiary_color);
+    --mob_sb_sec_title_bg: var(--tertiary_color);
+    --mob_title_tr_mobile_bg: var(--primary_color);
+    --mob_ev_name_date_bg: var(--secondary_color);
+    --mob_odds_tr_bg: var(--secondary_color);
+    --mob_ev_sel_odd_td_bg: var(--secondary_color);
+    --mob_ev_sel_odd_link_bg: var(--tertiary_color);
+    --mob_ev_sel_odd_link_selected_bg: var(--quinary_color);
+    --mob_bt_group_holder_bg: var(--quinary_color);
+    --mob_bci_link_bg: var(--tertiary_color);
+    --mob_bci_link_selected_bg: var(--quinary_color);
+    --mob_league_odd_group_item_bg: var(--tertiary_color);
+    --mob_league_odd_group_item_selected_bg: var(--quinary_color);
+    --mob_search_field_mobile_bg: var(--senary_color);
+    --mob_single_event_info_bg: var(--tertiary_color);
+    --mob_single_ev_btc_wrapper_bg: var(--quinary_color);
+    --mob_h_bt_sel_bg: var(--secondary_color);
+    --mob_menu_date_filter_bg: var(--secondary_color);
+    --mob_menu_date_filter_selected_bg: var(--quinary_color);
+    --mob_betslip_bottom_bar_bg: var(--quinary_color);
+    --mob_betslip_bottom_bar_sel_bg: var(--senary_color);
+    --mob_bs_title_bg: var(--tertiary_color);
+    --mob_bslip_slip_tabs_bg: var(--secondary_color);
+    --mob_bslip_selection_tbl_tr_bg: var(--tertiary_color);
+    --mob_bslip_info_area_bg: var(--secondary_color);
+    --mob_slip_sel_col_clear_bg: var(--secondary_color);
+    --mob_bslip_folds_header_td_bg: var(--secondary_color);
+    --mob_slip_stake_area_bg: var(--primary_color);
+    --mob_mm_win_text_bg: var(--quinary_color);
+    --mob_sports_search_field_bg: var(--senary_color);
+    --mob_live_event_time_i_bg: var(--light_grey);
+    --mob_sb_menu_sec_area_bg: var(--black_dark_transparent_bg);
+    --mob_bs_overlay_bg: var(--primary_color);
+    
+    /* sportslive */
+    --mob_toogle_sportslive_menu_bg: var(--black_middle_transparent_bg);
+    --mob_sports_menu_bg: var(--primary_color);
+    --mob_sportslive_menu_bg: var(--primary_color);
+    --mob_live_event_time_i_bg: var(--senary_color);
+    --mob_sb_l_title_bg: var(--secondary_color);
+    --mob_slt_holder_bg: var(--primary_color);
+    --mob_title_tr_bt_td_bg: var(--primary_color);
+    --mob_title_tr_sel_td_bg: var(--primary_color);
+    --mob_btsov_bg: var(--secondary_color);
+    
+    /* casino */
+    --mob_casino_search_container_bg: var(--secondary_color);
+    --mob_filter_button_bg: var(--secondary_color);
+    --mob_casino_sections_container_bg: var(--tertiary_color);
+    --mob_providers_container_bg: var(--secondary_color);
+    --mob_casino_filters_menu_bg: var(--tertiary_color);
+    --mob_providers_toggle_btn_bg: var(--tertiary_color);
+    --mob_providers_nav_dropdown_link_bg: var(--tertiary_color);
+    --mob_providers_nav_dropdown_hover_link_bg: var(--senary_color);
+    --mob_total_games_count_bg: var(--quinary_color);
+    --mob_preloader_bg: var(--primary_color);
+    --mob_casino_next_prev_btn_bg: var(--quinary_color);
+    
+    /* virtuals */
+    --mob_virtuals_menu_li_hover_selected_bg: var(--quinary_color);
+    --mob_virtuals_menu_li_icon_bg: var(--black_color);
+    --mob_virtuals_menu_li_icon_hover_selected_bg: var(--light_color);
+    
+    /* promotions if needed as desktop promotions.css is used */
+    --mob_promotion_container_bg: var(--tertiary_color);
+    --mob_promotion_btn_bg: var(--quinary_color);
+    --mob_promotion_btn_hover_bg: var(--quinary_hover_color);
+    
+    /* inner/loggedin */
+    --mob_panel_title_bar_bg: var(--tertiary_color);
+    --mob_panel_title_bar_after_bg: var(--quinary_color);
+    --mob_main_title_bar_bg: var(--tertiary_color);
+    --mob_section_title_bar_bg: var(--tertiary_color);
+    --mob_fields_pin_documents_container_bg: var(--tertiary_color);
+    
+    /* datepicker */
+    --mob_datepicker_bg: var(--tertiary_color);
+    --mob_datepicker_header_bg: var(--quinary_color);
+    --mob_datepicker_cell_bg: var(--senary_color);
+    --mob_datepicker_cell_hover_active_bg: var(--quinary_color);
+    
+    /* payments */
+    --mob_payment_method_list_bg: var(--tertiary_color);
+    --mob_payment_link_selected_bg: var(--quinary_color);
+    --mob_payment_button_bg: var(--quinary_color);
+    --mob_payment_info_hr_bg: var(--light_color);
+    
+    /* reports */
+    --mob_datagrid_pagination_row_bg: var(--tertiary_color);
+    --mob_datagrid_th_bg: var(--nonary_color);
+    --mob_datagrid_odd_row_bg: var(--nonary_color);
+    --mob_datagrid_even_row_bg: var(--secondary_color);
+    --mob_ajax_bslip_info_bg: var(--nonary_color);
+    --mob_slip_ajax_details_event_bg: var(--quinary_color);
+    --mob_bslip_det_ajax_bg: var(--tertiary_color);
+    
+    /* help if needed as desktop help.css is used */
+    --mob_help_wrap_link_bg: var(--secondary_color);
+    --mob_help_wrap_link_hover_select_bg: var(--quinary_color);
+    --mob_help_wrap_sec_link_bg: var(--tertiary_color);
+    --mob_help_wrap_trd_link_bg: var(--nonary_color);
+    
+    /* bonuses */
+    --mob_bonus_item_bg: var(--tertiary_color);
+    --mob_bonus_program_user_item_bg: var(--tertiary_color);
+    --mob_product_wagering_box_bg: var(--secondary_color);
+    --mob_product_wagering_box_th_bg: var(--secondary_color);
+    --mob_bs_alternate_table_tr_even_bg: var(--tertiary_color);
+    --mob_wagering_perc_bg: var(--quinary_color);
+    
+    /* message center */
+    --mob_msg_section_title_bg: var(--tertiary_color);
+    --mob_msg_area_bg: var(--tertiary_color);
+    --mob_msg_table_header_titles_th_bg: var(--secondary_color);
+    --mob_msg_stat_bg: var(--secondary_color);
+    --mob_msg_table_row_odd: var(--tertiary_color);
+    --mob_msg_table_row_even: var(--secondary_color);
+    --mob_read_msg_btn_bg: var(--quinary_color);
+    --mob_msg_bs_legend_bg: var(--tertiary_color);
+    --mob_msg_content_bg: var(--primary_color);
+}

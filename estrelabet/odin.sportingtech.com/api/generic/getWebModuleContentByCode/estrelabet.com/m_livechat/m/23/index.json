@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11276,
+            "webModuleId": 405,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://estrelabet.zendesk.com/hc/pt-br",
+            "deleteFlag": false,
+            "lastUpdateDate": 1677579147000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 405,
+                "moduleCode": "m_livechat",
+                "moduleName": "Mobile Live Chat Link",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "m_livechat",
+            "isPrintable": false
+        }
+    ]
+}

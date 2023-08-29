@@ -1,0 +1,718 @@
+{
+    "Error": "",
+    "ErrorCode": 0,
+    "Guid": "",
+    "Id": 0,
+    "Success": true,
+    "Value": [
+        {
+            "C": 1570,
+            "CC": 216,
+            "CID": 1,
+            "E": "Football",
+            "I": 1,
+            "N": "Futebol",
+            "R": "Футбол"
+        },
+        {
+            "C": 358,
+            "CC": 10,
+            "CID": 1,
+            "E": "Football",
+            "I": 1,
+            "MS": 3,
+            "N": "Futebol",
+            "R": "Футбол"
+        },
+        {
+            "C": 185,
+            "CC": 30,
+            "CID": 1,
+            "E": "Basketball",
+            "I": 3,
+            "N": "Basquete",
+            "R": "Баскетбол"
+        },
+        {
+            "C": 6,
+            "CC": 2,
+            "CID": 1,
+            "E": "Basketball",
+            "I": 3,
+            "MS": 9,
+            "N": "Basquete",
+            "R": "Баскетбол"
+        },
+        {
+            "C": 170,
+            "CC": 28,
+            "CID": 1,
+            "E": "Horse Racing",
+            "I": 44,
+            "N": "Corridas de Cavalos",
+            "R": "Скачки"
+        },
+        {
+            "C": 548,
+            "CC": 59,
+            "CID": 1,
+            "E": "Tennis",
+            "I": 4,
+            "N": "Tênis",
+            "R": "Теннис"
+        },
+        {
+            "C": 194,
+            "CC": 19,
+            "CID": 1,
+            "E": "Volleyball",
+            "I": 6,
+            "N": "Vôlei",
+            "R": "Волейбол"
+        },
+        {
+            "C": 183,
+            "CC": 44,
+            "CID": 1,
+            "E": "Esports",
+            "I": 40,
+            "N": "eSports",
+            "R": "КиберСпорт"
+        },
+        {
+            "C": 641,
+            "CC": 16,
+            "CID": 1,
+            "E": "Table Tennis",
+            "I": 10,
+            "N": "Pingue-Pongue",
+            "R": "Настольный теннис"
+        },
+        {
+            "C": 35,
+            "CC": 12,
+            "CID": 2,
+            "E": "Special Bets",
+            "I": 87,
+            "N": "Apostas Especiais",
+            "R": "Специальные ставки"
+        },
+        {
+            "C": 50,
+            "CC": 8,
+            "CID": 2,
+            "E": "Martial Arts",
+            "I": 56,
+            "N": "Artes Marciais",
+            "R": "Единоборства"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Motorsport",
+            "I": 18,
+            "N": "Automobilismo",
+            "R": "Автогонки"
+        },
+        {
+            "C": 65,
+            "CC": 4,
+            "CID": 2,
+            "E": "Badminton",
+            "I": 16,
+            "N": "Badminton ",
+            "R": "Бадминтон"
+        },
+        {
+            "C": 48,
+            "CC": 6,
+            "CID": 2,
+            "E": "Baseball",
+            "I": 5,
+            "N": "Beisebol",
+            "R": "Бейсбол"
+        },
+        {
+            "C": 9,
+            "CC": 1,
+            "CID": 2,
+            "E": "Bowls",
+            "I": 32,
+            "N": "Boliche",
+            "R": "Шары"
+        },
+        {
+            "C": 37,
+            "CC": 1,
+            "CID": 2,
+            "E": "Boxing",
+            "I": 9,
+            "N": "Boxe",
+            "R": "Бокс"
+        },
+        {
+            "C": 11,
+            "CC": 2,
+            "CID": 2,
+            "E": "Bare-knuckle Boxing",
+            "I": 278,
+            "N": "Boxe sem luvas",
+            "R": "Кулачные бои"
+        },
+        {
+            "C": 3,
+            "CC": 1,
+            "CID": 2,
+            "E": "Bicycle Racing",
+            "I": 36,
+            "N": "Ciclismo",
+            "R": "Велоспорт"
+        },
+        {
+            "C": 137,
+            "CC": 12,
+            "CID": 2,
+            "E": "Greyhound Racing",
+            "I": 68,
+            "N": "Corridas de galgos",
+            "R": "Собачьи бега"
+        },
+        {
+            "C": 81,
+            "CC": 33,
+            "CID": 2,
+            "E": "Cricket",
+            "I": 66,
+            "N": "Críquete",
+            "R": "Крикет"
+        },
+        {
+            "C": 25,
+            "CC": 3,
+            "CID": 2,
+            "E": "Darts",
+            "I": 21,
+            "N": "Dardos",
+            "R": "Дартс"
+        },
+        {
+            "C": 4,
+            "CC": 1,
+            "CID": 2,
+            "E": "Floorball",
+            "I": 67,
+            "N": "Floorball ",
+            "R": "Флорбол"
+        },
+        {
+            "C": 5,
+            "CC": 3,
+            "CID": 2,
+            "E": "Formula 1",
+            "I": 26,
+            "N": "Fórmula 1",
+            "R": "Формула-1"
+        },
+        {
+            "C": 159,
+            "CC": 3,
+            "CID": 2,
+            "E": "American Football",
+            "I": 13,
+            "N": "Futebol Americano",
+            "R": "Американский футбол"
+        },
+        {
+            "C": 6,
+            "CC": 5,
+            "CID": 2,
+            "E": "Futsal",
+            "I": 14,
+            "N": "Futsal ",
+            "R": "Футзал"
+        },
+        {
+            "C": 34,
+            "CC": 21,
+            "CID": 2,
+            "E": "Golf",
+            "I": 41,
+            "N": "Golfe",
+            "R": "Гольф"
+        },
+        {
+            "C": 7,
+            "CC": 1,
+            "CID": 2,
+            "E": "Greyhound Racing AntePost",
+            "I": 151,
+            "N": "Greyhound AntePost",
+            "R": "Собачьи бега. Долгосрочные"
+        },
+        {
+            "C": 28,
+            "CC": 5,
+            "CID": 2,
+            "E": "Handball",
+            "I": 8,
+            "N": "Handebol",
+            "R": "Гандбол"
+        },
+        {
+            "C": 134,
+            "CC": 17,
+            "CID": 2,
+            "E": "Ice Hockey",
+            "I": 2,
+            "N": "Hóquei no gelo",
+            "R": "Хоккей"
+        },
+        {
+            "C": 73,
+            "CC": 7,
+            "CID": 2,
+            "E": "Horse Racing AntePost",
+            "I": 132,
+            "N": "Horse Racing AntePost",
+            "R": "Скачки. Долгосрочные"
+        },
+        {
+            "C": 168,
+            "CC": 27,
+            "CID": 2,
+            "E": "TV Games",
+            "I": 20,
+            "N": "Jogos de TV",
+            "R": "ТВ-игры"
+        },
+        {
+            "C": 3,
+            "CC": 1,
+            "CID": 2,
+            "E": "Lacrosse",
+            "I": 48,
+            "N": "Lacrosse ",
+            "R": "Лакросс"
+        },
+        {
+            "C": 321,
+            "CC": 61,
+            "CID": 2,
+            "E": "Lottery",
+            "I": 82,
+            "N": "Loteria",
+            "R": "Лотерея"
+        },
+        {
+            "C": 109,
+            "CC": 13,
+            "CID": 2,
+            "E": "Politics",
+            "I": 202,
+            "N": "Política",
+            "R": "Политика"
+        },
+        {
+            "C": 57,
+            "CC": 1,
+            "CID": 2,
+            "E": "Weather",
+            "I": 176,
+            "N": "Previsão do Tempo",
+            "R": "Погода"
+        },
+        {
+            "C": 13,
+            "CC": 2,
+            "CID": 2,
+            "E": "Australian Rules",
+            "I": 28,
+            "N": "Regras Australianas",
+            "R": "Австралийский футбол"
+        },
+        {
+            "C": 48,
+            "CC": 8,
+            "CID": 2,
+            "E": "Rugby",
+            "I": 7,
+            "N": "Rúgbi",
+            "R": "Регби"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Speedway",
+            "I": 102,
+            "N": "Speedway",
+            "R": "Спидвей"
+        },
+        {
+            "C": 6,
+            "CC": 1,
+            "CID": 2,
+            "E": "Toto",
+            "I": 69,
+            "N": "Toto ",
+            "R": "Тото"
+        },
+        {
+            "C": 114,
+            "CC": 12,
+            "CID": 2,
+            "E": "Trotting",
+            "I": 92,
+            "N": "Trotando",
+            "R": "Троттинг"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Trotting AntePost",
+            "I": 133,
+            "N": "Trotting AntePost",
+            "R": "Троттинг. Долгосрочные"
+        },
+        {
+            "C": 63,
+            "CC": 8,
+            "CID": 2,
+            "E": "UFC",
+            "I": 189,
+            "N": "UFC",
+            "R": "UFC"
+        },
+        {
+            "C": 14,
+            "CC": 3,
+            "CID": 2,
+            "E": "Chess",
+            "I": 11,
+            "N": "Xadrez",
+            "R": "Шахматы"
+        },
+        {
+            "C": 199,
+            "CC": 55,
+            "CID": 1,
+            "E": "Football",
+            "I": 1,
+            "MS": 7,
+            "N": "Futebol",
+            "R": "Футбол"
+        },
+        {
+            "C": 66,
+            "CC": 22,
+            "CID": 1,
+            "E": "Basketball",
+            "I": 3,
+            "MS": 7,
+            "N": "Basquete",
+            "R": "Баскетбол"
+        },
+        {
+            "C": 7,
+            "CC": 7,
+            "CID": 1,
+            "E": "Tennis",
+            "I": 4,
+            "MS": 7,
+            "N": "Tênis",
+            "R": "Теннис"
+        },
+        {
+            "C": 5,
+            "CC": 5,
+            "CID": 1,
+            "E": "Volleyball",
+            "I": 6,
+            "MS": 7,
+            "N": "Vôlei",
+            "R": "Волейбол"
+        },
+        {
+            "C": 6,
+            "CC": 6,
+            "CID": 2,
+            "E": "Motorsport",
+            "I": 18,
+            "MS": 7,
+            "N": "Automobilismo",
+            "R": "Автогонки"
+        },
+        {
+            "C": 18,
+            "CC": 2,
+            "CID": 2,
+            "E": "Baseball",
+            "I": 5,
+            "MS": 7,
+            "N": "Beisebol",
+            "R": "Бейсбол"
+        },
+        {
+            "C": 9,
+            "CC": 7,
+            "CID": 2,
+            "E": "Biathlon",
+            "I": 19,
+            "MS": 7,
+            "N": "Biatlo",
+            "R": "Биатлон"
+        },
+        {
+            "C": 16,
+            "CC": 2,
+            "CID": 2,
+            "E": "Boxing",
+            "I": 9,
+            "MS": 7,
+            "N": "Boxe",
+            "R": "Бокс"
+        },
+        {
+            "C": 2,
+            "CC": 1,
+            "CID": 2,
+            "E": "Bicycle Racing",
+            "I": 36,
+            "MS": 7,
+            "N": "Ciclismo",
+            "R": "Велоспорт"
+        },
+        {
+            "C": 15,
+            "CC": 10,
+            "CID": 2,
+            "E": "Cricket",
+            "I": 66,
+            "MS": 7,
+            "N": "Críquete",
+            "R": "Крикет"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Darts",
+            "I": 21,
+            "MS": 7,
+            "N": "Dardos",
+            "R": "Дартс"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Skiing",
+            "I": 24,
+            "MS": 7,
+            "N": "Esqui",
+            "R": "Лыжи"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Alpine Skiing",
+            "I": 22,
+            "MS": 7,
+            "N": "Esqui Alpino",
+            "R": "Горные лыжи"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Eurovision",
+            "I": 216,
+            "MS": 7,
+            "N": "Eurovision",
+            "R": "Евровидение"
+        },
+        {
+            "C": 4,
+            "CC": 2,
+            "CID": 2,
+            "E": "Formula 1",
+            "I": 26,
+            "MS": 7,
+            "N": "Fórmula 1",
+            "R": "Формула-1"
+        },
+        {
+            "C": 128,
+            "CC": 7,
+            "CID": 2,
+            "E": "American Football",
+            "I": 13,
+            "MS": 7,
+            "N": "Futebol Americano",
+            "R": "Американский футбол"
+        },
+        {
+            "C": 13,
+            "CC": 13,
+            "CID": 2,
+            "E": "Gaelic Football",
+            "I": 80,
+            "MS": 7,
+            "N": "Futebol Gaélico",
+            "R": "Гэльский футбол"
+        },
+        {
+            "C": 8,
+            "CC": 7,
+            "CID": 2,
+            "E": "Golf",
+            "I": 41,
+            "MS": 7,
+            "N": "Golfe",
+            "R": "Гольф"
+        },
+        {
+            "C": 14,
+            "CC": 14,
+            "CID": 2,
+            "E": "Handball",
+            "I": 8,
+            "MS": 7,
+            "N": "Handebol",
+            "R": "Гандбол"
+        },
+        {
+            "C": 56,
+            "CC": 16,
+            "CID": 2,
+            "E": "Ice Hockey",
+            "I": 2,
+            "MS": 7,
+            "N": "Hóquei no gelo",
+            "R": "Хоккей"
+        },
+        {
+            "C": 11,
+            "CC": 11,
+            "CID": 2,
+            "E": "Hurling",
+            "I": 126,
+            "MS": 7,
+            "N": "Hurling",
+            "R": "Херлинг"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Lacrosse",
+            "I": 48,
+            "MS": 7,
+            "N": "Lacrosse ",
+            "R": "Лакросс"
+        },
+        {
+            "C": 4,
+            "CC": 4,
+            "CID": 2,
+            "E": "Motorbikes",
+            "I": 31,
+            "MS": 7,
+            "N": "Motociclismo",
+            "R": "Мотогонки"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "Olympics",
+            "I": 50,
+            "MS": 7,
+            "N": "Olimpíada",
+            "R": "Олимпиада"
+        },
+        {
+            "C": 8,
+            "CC": 6,
+            "CID": 2,
+            "E": "Australian Rules",
+            "I": 28,
+            "MS": 7,
+            "N": "Regras Australianas",
+            "R": "Австралийский футбол"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Rowing",
+            "I": 62,
+            "MS": 7,
+            "N": "Remo",
+            "R": "Гребля"
+        },
+        {
+            "C": 41,
+            "CC": 15,
+            "CID": 2,
+            "E": "Rugby",
+            "I": 7,
+            "MS": 7,
+            "N": "Rúgbi",
+            "R": "Регби"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Ski Jumping",
+            "I": 23,
+            "MS": 7,
+            "N": "Salto de esqui",
+            "R": "Прыжки с трамплина"
+        },
+        {
+            "C": 3,
+            "CC": 3,
+            "CID": 2,
+            "E": "Snooker",
+            "I": 30,
+            "MS": 7,
+            "N": "Sinuca",
+            "R": "Снукер"
+        },
+        {
+            "C": 5,
+            "CC": 5,
+            "CID": 2,
+            "E": "Speedway",
+            "I": 102,
+            "MS": 7,
+            "N": "Speedway",
+            "R": "Спидвей"
+        },
+        {
+            "C": 2,
+            "CC": 2,
+            "CID": 2,
+            "E": "Surfing",
+            "I": 138,
+            "MS": 7,
+            "N": "Surfing",
+            "R": "Сёрфинг"
+        },
+        {
+            "C": 1,
+            "CC": 1,
+            "CID": 2,
+            "E": "UFC",
+            "I": 189,
+            "MS": 7,
+            "N": "UFC",
+            "R": "UFC"
+        }
+    ]
+}

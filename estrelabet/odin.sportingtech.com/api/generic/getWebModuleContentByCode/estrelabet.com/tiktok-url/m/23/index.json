@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11257,
+            "webModuleId": 2612,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://www.tiktok.com/@estrela.bet?_t=8YB3pTYie05&_r=1",
+            "deleteFlag": false,
+            "lastUpdateDate": 1671192138000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 2612,
+                "moduleCode": "tiktok-url",
+                "moduleName": "TikTok URL",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "tiktok-url",
+            "isPrintable": false
+        }
+    ]
+}

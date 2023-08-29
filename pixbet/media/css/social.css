@@ -1,0 +1,56 @@
+.social_sec .social_link {
+    float: right;
+    background-image: none;
+    background-color: white;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 25px;
+    mask-size: 25px;
+    line-height: 25px;  
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.social_sec .social_link span{
+    display: none;
+}
+
+.social_sec .social_link_fb {
+    -webkit-mask-image: url(../images/icons/social/fb.svg?v=1);
+    mask-image: url(../images/icons/social/fb.svg?v=1);
+
+}
+
+.social_sec .social_link_tw {
+    -webkit-mask-image: url(../images/icons/social/tw.svg?v=1);
+    mask-image: url(../images/icons/social/tw.svg?v=1);
+
+}
+
+.social_sec .social_link_yt {
+    -webkit-mask-image: url(../images/icons/social/yt.svg?v=1);
+    mask-image: url(../images/icons/social/yt.svg?v=1);
+}
+
+.social_sec .social_link_ig {
+    -webkit-mask-image: url(../images/icons/social/ig.svg?v=1);
+    mask-image: url(../images/icons/social/ig.svg?v=1);
+}
+
+.social_sec .social_link_li {
+    -webkit-mask-image: url(../images/icons/social/ln.svg?v=1);
+    mask-image: url(../images/icons/social/ln.svg?v=1);
+}
+
+.social_sec .social_link_tg {
+    -webkit-mask-image: url(../images/icons/social/tg.svg?v=1);
+    mask-image: url(../images/icons/social/tg.svg?v=1);
+}
+
+.social_sec .social_link_wa {
+    -webkit-mask-image: url(../images/icons/social/wa.svg?v=1);
+    mask-image: url(../images/icons/social/wa.svg?v=1);
+}
+
+

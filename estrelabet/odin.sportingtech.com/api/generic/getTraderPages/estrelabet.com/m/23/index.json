@@ -1,0 +1,2710 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderPageTitleAndMetaId": 5258,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>EstrelaBet: Apostas Online com as Melhores Odds e Bônus</title>\r\n<meta name=\"description\" content=\"Apostas Online com segurança na Casa de Apostas que mais cresce no Brasil. EstrelaBet a bet das apostas aqui você pode confiar!\">",
+            "traderPageMasterIdKey": 1,
+            "traderPageMaster": {
+                "traderPageMasterId": 1,
+                "pageCode": "main",
+                "description": "Main"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5874,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Bingo Online, Aposte e Ganhe na EstrelaBET</title>\r\n\r\n<meta name=\"description\" content=\"Bingo Online, Aposte e Ganhe. Jogue Online na EstrelaBet, o Maior Site de Apostas Online do Brasil com Odds Especiais. Cadastre-se Já!.\">\r\n\r\n",
+            "traderPageMasterIdKey": 2,
+            "traderPageMaster": {
+                "traderPageMasterId": 2,
+                "pageCode": "bingo",
+                "description": "Bingo"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 3,
+            "traderPageMaster": {
+                "traderPageMasterId": 3,
+                "pageCode": "sports.season-detail",
+                "description": "Season Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 4,
+            "traderPageMaster": {
+                "traderPageMasterId": 4,
+                "pageCode": "virtualSports.tennis",
+                "description": "Virtual Tennis"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 5,
+            "traderPageMaster": {
+                "traderPageMasterId": 5,
+                "pageCode": "sportsbet.fixtureDetail",
+                "description": "Fixture Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 6,
+            "traderPageMaster": {
+                "traderPageMasterId": 6,
+                "pageCode": "virtualSports.football-euro-cup",
+                "description": "Virtual Football Euro Cup"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 7,
+            "traderPageMaster": {
+                "traderPageMasterId": 7,
+                "pageCode": "virtualSports.dogs",
+                "description": "Virtual Dogs"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5875,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Poker Online, Caça-níquel e Mais. Aposte e Ganhe na EstrelaBET</title>\r\n\r\n<meta name=\"description\" content=\"Poker Online. Aposte e Ganhe Com os Melhores Slots. Dê Chances para sua Sorte Online e Ganhe Dinheiro!\">\r\n\r\n\r\n",
+            "traderPageMasterIdKey": 8,
+            "traderPageMaster": {
+                "traderPageMasterId": 8,
+                "pageCode": "poker",
+                "description": "Poker"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5882,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "d",
+            "metas": "<title>Aposte em Futebol Virtual | EstrelaBET</title>\r\n\r\n<meta name=\"description\" content=\"Aposte e Ganhe em Futebol Virtual na maior Casa de Apostas Esportivas do Brasil: Estrela Bet. Pix Mais Rápido e Seguro. Sua Sorte está Online!.\">\r\n\r\n",
+            "traderPageMasterIdKey": 9,
+            "traderPageMaster": {
+                "traderPageMasterId": 9,
+                "pageCode": "virtualSports.football",
+                "description": "Virtual Football"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5884,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Cassino Online na EstrelaBet: Motograu, Aviator c/ Bônus R$200</title>\r\n\r\n<meta name=\"description\" content=\"Cassino Online na EstrelaBet: Motograu, Aviator, Bingo, Poker, Roletinha, Foguetinho e outros Jogos de Aposta. Aproveite o Bônus!\">\r\n\r\n",
+            "traderPageMasterIdKey": 10,
+            "traderPageMaster": {
+                "traderPageMasterId": 10,
+                "pageCode": "casinoDetail",
+                "description": "Casino Detail"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5886,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Aviator, Mines, Roleta e Mais! Melhores Jogos de Cassino da EstrelaBet</title>\r\n\r\n<meta name=\"description\" content=\"Aviator, Mines, Roleta e outros Jogos da Sorte! Melhores Jogos de Cassino estão na EstrelaBet. Aposte e Ganhe!\">\r\n",
+            "traderPageMasterIdKey": 11,
+            "traderPageMaster": {
+                "traderPageMasterId": 11,
+                "pageCode": "casinoDemoDetail",
+                "description": "Casino Demo Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 12,
+            "traderPageMaster": {
+                "traderPageMasterId": 12,
+                "pageCode": "sportsbet.season",
+                "description": "Sportsbet Season"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5881,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Apostas Esportivas de Vários Jogos com as Melhores Odds | EstrelaBet</title>\r\n\r\n<meta name=\"description\" content=\"Aposte e Ganhe em Apostas Esportivas Online e de Vários Jogos com as Melhores Odds. Divirta-se Jogando na Maior Casa de Apostas do Brasil. EstrelaBet, Apostou Brilhou!.\">\r\n",
+            "traderPageMasterIdKey": 13,
+            "traderPageMaster": {
+                "traderPageMasterId": 13,
+                "pageCode": "livebet.main",
+                "description": "Livebet Main"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5266,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "d",
+            "metas": "    <meta charset=\"utf-8\">\r\n        <meta name=\"language\" content=\"pt-BR\">\r\n        <title>Home EstrelaBet- A maior casa de apostas online do Brasil. Depósitos e Saques via Pix </title>\r\n        <meta name=\"description\" content=\"A EstrelaBet é a maior casa de apostas esportivas do Brasil.Temos esportes como futebol, basquete e vôlei. Além de um cassino com poker, Black Jack e Mais \">\r\n        <meta name=\"robots\" content=\"follow\">\r\n        <meta name=\"author\" content=\"EstrelaBet\">\r\n        <meta name=\"keywords\" content=\"estrelabet, apostas, cassino, e sports, esportes, futebol, basquete, poker, valorant, gremio, globo esporte, brasileirão série a, brasileirão série b, flamengo hoje, campeonato brasileiro série a, campeonato brasileiro série b, série a, apostas esportivas,  apostas online, casa de apostas , apostas esportivas ,poker online, inglaterra fc,euro copa, campeonato alemão, futebol hoje,\">\r\n\r\n        <meta property=\"og:type\" content=\"page\">\r\n        <meta property=\"og:url\" content=\"https://estrelabet.com/ptb\">\r\n        <meta property=\"og:title\" content=\"Home EstrelaBet- A maior casa de apostas online do Brasil\">\r\n        <meta property=\"og:image\" content=\"\">\r\n        <meta property=\"og:description\" content=\"A EstrelaBet é a maior casa de apostas esportivas do Brasil.Temos esportes como futebol, basquete e vôlei. Além de um cassino com poker, Black Jack e Mais \">\r\n\r\n        <meta property=\"article:author\" content=\"EstrelaBet\">\r\n\r\n        <meta name=\"twitter:card\" content=\"summary\">\r\n        <meta name=\"twitter:site\" content=\"@\">\r\n        <meta name=\"twitter:title\" content=\"\">\r\n        <meta name=\"twitter:creator\" content=\"@\">\r\n        <meta name=\"twitter:description\" content=\"A EstrelaBet é a maior casa de apostas esportivas do Brasil.Temos esportes como futebol, basquete e vôlei. Além de um cassino com poker, Black Jack e Mais \">\r\n",
+            "traderPageMasterIdKey": 14,
+            "traderPageMaster": {
+                "traderPageMasterId": 14,
+                "pageCode": "contents",
+                "description": "Contents"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 15,
+            "traderPageMaster": {
+                "traderPageMasterId": 15,
+                "pageCode": "error",
+                "description": "Error"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5924,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Casas de Apostas com Bônus EstrelaBet: Bônus de Cassino e Mais!</title>\r\n\r\n<meta name=\"description\" content=\"Casas de Apostas com bônus EstrelaBet: Bônus de Cassino, Freebet, Bônus de Cadastro e Boas Vindas. Aproveite sua Sorte Online. Aposte e Ganhe!\">\r\n",
+            "traderPageMasterIdKey": 16,
+            "traderPageMaster": {
+                "traderPageMasterId": 16,
+                "pageCode": "promotions",
+                "description": "Promotions"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 17,
+            "traderPageMaster": {
+                "traderPageMasterId": 17,
+                "pageCode": "betongames",
+                "description": "Beton Games"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5256,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "d",
+            "metas": "  <meta charset=\"utf-8\">\r\n        <meta name=\"language\" content=\"\">\r\n        <title>Aposte em seus Esportes Favoritos com a EstrelaBet </title>\r\n        <meta name=\"description\" content=\"Nos esportes temos boxe, basquete, hóquei, tênis, futsal, futebol,futebol americano e muito mais.Sem falar da NBA,NBB,série A e série B do Campeonato Brasileiro\">\r\n        <meta name=\"robots\" content=\"follow\">\r\n        <meta name=\"author\" content=\"EstrelaBet\">\r\n        <meta name=\"keywords\" content=\"esportes,boxe, basquete, futebol, hoquei, tenis, volei, handbol, futsal, futebol americano, brasileirão série a, brasileirão série b, campeonato brasileiro série a, campeonato brasileiro série b, série a,futebol ao vivo, campeonato alemão, eurocopa, vôlei masculino,vôlei feminino,basquetebol, tabela nba,nba,rodada nba,tenis esporte,nbb,hoquei no gelo\">\r\n\r\n        <meta property=\"og:type\" content=\"page\">\r\n        <meta property=\"og:url\" content=\"https://estrelabet.com/ptb/bet/main\">\r\n        <meta property=\"og:title\" content=\"Aposte em seus Esportes Favoritos com a maior casa de Apostas\">\r\n        <meta property=\"og:image\" content=\"\">\r\n        <meta property=\"og:description\" content=\"Nos esportes temos boxe, basquete, hóquei, tênis, futsal, futebol,futebol americano e muito mais.Sem falar da NBA,NBB,série A e série B do Campeonato Brasileiro\">\r\n\r\n        <meta property=\"article:author\" content=\"EstrelaBet\">\r\n\r\n        <meta name=\"twitter:card\" content=\"summary\">\r\n        <meta name=\"twitter:site\" content=\"@\">\r\n        <meta name=\"twitter:title\" content=\"\">\r\n        <meta name=\"twitter:creator\" content=\"@\">\r\n        <meta name=\"twitter:description\" content=\"Nos esportes temos boxe, basquete, hóquei, tênis, futsal, futebol,futebol americano e muito mais.Sem falar da NBA,NBB,série A e série B do Campeonato Brasileiro\">\r\n",
+            "traderPageMasterIdKey": 18,
+            "traderPageMaster": {
+                "traderPageMasterId": 18,
+                "pageCode": "sports",
+                "description": "Sports"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 19,
+            "traderPageMaster": {
+                "traderPageMasterId": 19,
+                "pageCode": "sports.list",
+                "description": "Sports List"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 20,
+            "traderPageMaster": {
+                "traderPageMasterId": 20,
+                "pageCode": "virtualSports.horses",
+                "description": "Virtual Horses"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 21,
+            "traderPageMaster": {
+                "traderPageMasterId": 21,
+                "pageCode": "virtualSports.basketball",
+                "description": "Virtual Basketball"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5871,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>EstrelaBet: Apostas Esportivas, Jogos, Cassino ao Vivo e Mais!</title>\r\n\r\n<meta name=\"description\" content=\"Faça suas Apostas Esportivas na Maior Casa de Apostas e Palpites Online do Brasil. As melhores Odds do Mercado. Aposte, Ganhe e Receba Rápido no PIX!\">\r\n",
+            "traderPageMasterIdKey": 22,
+            "traderPageMaster": {
+                "traderPageMasterId": 22,
+                "pageCode": "sportsbet.main",
+                "description": "Sportsbet Main"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5872,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Cassino Online: Slots, Caça-Níqueis e Mais | EstrelaBet</title>\r\n\r\n<meta name=\"description\" content=\"Aposte e Ganhe com os Melhores Jogos de Cassino Online: Slots, Caça-Níqueis, Roleta, Blackjack, Bacará Cassino Ao Vivo e muito mais!.\">\r\n\r\n<meta name=\"keywords\" content=\"estrela bet, estrelabet, apostas, cassino, e sports, esportes, futebol, basquete, poker, valorant, gremio, globo esporte, brasileirão série a, brasileirão série b, flamengo hoje, campeonato brasileiro série a, campeonato brasileiro série b, série a, apostas esportivas,  apostas online, casa de apostas , apostas esportivas ,poker online, inglaterra fc,euro copa, campeonato alemão, futebol hoje\" />",
+            "traderPageMasterIdKey": 23,
+            "traderPageMaster": {
+                "traderPageMasterId": 23,
+                "pageCode": "casino",
+                "description": "Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 24,
+            "traderPageMaster": {
+                "traderPageMasterId": 24,
+                "pageCode": "liveCasino",
+                "description": "Live Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 25,
+            "traderPageMaster": {
+                "traderPageMasterId": 25,
+                "pageCode": "liveCasinoDetail",
+                "description": "Live Casino Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 34,
+            "traderPageMaster": {
+                "traderPageMasterId": 34,
+                "pageCode": "sports.detail",
+                "description": "Sports Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 35,
+            "traderPageMaster": {
+                "traderPageMasterId": 35,
+                "pageCode": "sports.country-detail",
+                "description": "Country Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 36,
+            "traderPageMaster": {
+                "traderPageMasterId": 36,
+                "pageCode": "signin",
+                "description": "Sign in"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 37,
+            "traderPageMaster": {
+                "traderPageMasterId": 37,
+                "pageCode": "signup",
+                "description": "Sign up"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 38,
+            "traderPageMaster": {
+                "traderPageMasterId": 38,
+                "pageCode": "sendResetlink",
+                "description": "Send Reset Link"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 39,
+            "traderPageMaster": {
+                "traderPageMasterId": 39,
+                "pageCode": "sportsbet.todayEvents",
+                "description": "Sportsbet Today Events"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 40,
+            "traderPageMaster": {
+                "traderPageMasterId": 40,
+                "pageCode": "sportsbet.country",
+                "description": "Sportsbet Country"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5880,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Aposta Esportiva Online Ao Vivo e de Vários Jogos | EstrelaBet</title>\r\n\r\n<meta name=\"description\" content=\"Aposte e Ganhe em Apostas Esportivas Ao vivo e de Vários Jogos. Divirta-se Jogando na Maior Casa de Apostas do Brasil. EstrelaBet, Apostou Brilhou!.\">\r\n\r\n\r\n",
+            "traderPageMasterIdKey": 41,
+            "traderPageMaster": {
+                "traderPageMasterId": 41,
+                "pageCode": "livebet.detail",
+                "description": "Livebet Detail"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5926,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Casas de Apostas com Bônus EstrelaBet: Bônus de Cassino e Mais!</title>\r\n\r\n<meta name=\"description\" content=\"Casas de Apostas com bônus EstrelaBet: Bônus de Cassino, Freebet, Bônus de Cadastro e Boas Vindas. Aproveite sua Sorte Online. Aposte e Ganhe!\">\r\n\r\n",
+            "traderPageMasterIdKey": 42,
+            "traderPageMaster": {
+                "traderPageMasterId": 42,
+                "pageCode": "contents.promotions-general-rules",
+                "description": "Promotions - General Rules"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5273,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "d",
+            "metas": "<title>EstrelaBet- A maior casa de apostas online do Brasil. Depósitos e Saques via Pix</title>\r\n<meta name=\"description\" content=\" Aposte na maior casa de apostas do Brasil, a EstrelaBet. Deposite e saque via pix e receba seu dinheiro na hora! Se junte a mais de 1 milhão de estrelas e aposte com as melhores odds.\">\r\n<meta name=\"keywords\" content=\"estrela bet, estrelabet, apostas, cassino, e sports, esportes, futebol, basquete, poker, valorant, gremio, globo esporte, brasileirão série a, brasileirão série b, flamengo hoje, campeonato brasileiro série a, campeonato brasileiro série b, série a, apostas esportivas,  apostas online, casa de apostas , apostas esportivas ,poker online, inglaterra fc,euro copa, campeonato alemão, futebol hoje\" />",
+            "traderPageMasterIdKey": 43,
+            "traderPageMaster": {
+                "traderPageMasterId": 43,
+                "pageCode": "sports.detail",
+                "description": "Sports Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 44,
+            "traderPageMaster": {
+                "traderPageMasterId": 44,
+                "pageCode": "sports.country-detail",
+                "description": "Country Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 45,
+            "traderPageMaster": {
+                "traderPageMasterId": 45,
+                "pageCode": "signin",
+                "description": "Signin"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 46,
+            "traderPageMaster": {
+                "traderPageMasterId": 46,
+                "pageCode": "signup",
+                "description": "Signup"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 47,
+            "traderPageMaster": {
+                "traderPageMasterId": 47,
+                "pageCode": "sendResetlink",
+                "description": "Send Reset Link"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5877,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>Aposta Esportiva do Dia: Vários Esportes | EstrelaBet, Apostou Brilhou!</title>\r\n\r\n<meta name=\"description\" content=\"Aposta Esportiva do Dia: Vários Esportes. Aposte na Maior Casa de Apostas do Brasil, a EstrelaBet. Deposite e Saque via PIX. Receba seu dinheiro na hora com as melhores odds!\">\r\n\r\n",
+            "traderPageMasterIdKey": 48,
+            "traderPageMaster": {
+                "traderPageMasterId": 48,
+                "pageCode": "sportsbet.todayEvents",
+                "description": "Sportsbet Today Events"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 49,
+            "traderPageMaster": {
+                "traderPageMasterId": 49,
+                "pageCode": "sportsbet.country",
+                "description": "Sportsbet Country"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 50,
+            "traderPageMaster": {
+                "traderPageMasterId": 50,
+                "pageCode": "livebet.detail",
+                "description": "Livebet Detail"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5260,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "m",
+            "metas": "<title>EstrelaBet - A maior casa de apostas online do Brasil. Depósitos e Saques via Pix</title>\r\n\r\n<meta name=\"description\" content=\"Aposte na maior casa de apostas do Brasil, a EstrelaBet. Deposite e saque via pix e receba seu dinheiro na hora! Se junte a mais de 1 milhão de estrelas e aposte com as melhores odds.\">\r\n\r\n<meta name=\"keywords\" content=\"estrela bet, estrelabet, apostas, cassino, e sports, esportes, futebol, basquete, poker, valorant, gremio, globo esporte, brasileirão série a, brasileirão série b, flamengo hoje, campeonato brasileiro série a, campeonato brasileiro série b, série a, apostas esportivas,  apostas online, casa de apostas , apostas esportivas ,poker online, inglaterra fc,euro copa, campeonato alemão, futebol hoje\" />\r\n",
+            "traderPageMasterIdKey": 51,
+            "traderPageMaster": {
+                "traderPageMasterId": 51,
+                "pageCode": "generic",
+                "description": "Generic"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 52,
+            "traderPageMaster": {
+                "traderPageMasterId": 52,
+                "pageCode": "virtualSports.football-league-mode",
+                "description": "Virtual Football League Mode"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 53,
+            "traderPageMaster": {
+                "traderPageMasterId": 53,
+                "pageCode": "virtualSports.football-nation-cup",
+                "description": "Virtual Football Nation Cup"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 54,
+            "traderPageMaster": {
+                "traderPageMasterId": 54,
+                "pageCode": "contents.about-us",
+                "description": "Contents About Us"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 55,
+            "traderPageMaster": {
+                "traderPageMasterId": 55,
+                "pageCode": "contents.about-us-gen-terms-cond",
+                "description": "Contents About Us General Terms Conditions"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 56,
+            "traderPageMaster": {
+                "traderPageMasterId": 56,
+                "pageCode": "contents.about-us-responsible-gaming",
+                "description": "Contents About Us Responsible Gaming"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 57,
+            "traderPageMaster": {
+                "traderPageMasterId": 57,
+                "pageCode": "contents.about-us-privacy-policy",
+                "description": "Contents About Us Privacy Policy"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 58,
+            "traderPageMaster": {
+                "traderPageMasterId": 58,
+                "pageCode": "contents.about-us-terms-of-use",
+                "description": "Contents About Us Terms of Use"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 59,
+            "traderPageMaster": {
+                "traderPageMasterId": 59,
+                "pageCode": "contents.about-us-contact",
+                "description": "Contents About Us Contact"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 60,
+            "traderPageMaster": {
+                "traderPageMasterId": 60,
+                "pageCode": "contents.support-rules",
+                "description": "Contents Support Rules"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 61,
+            "traderPageMaster": {
+                "traderPageMasterId": 61,
+                "pageCode": "contents.support-faq",
+                "description": "Contents Support FAQ"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 62,
+            "traderPageMaster": {
+                "traderPageMasterId": 62,
+                "pageCode": "contents.support-withdrawal",
+                "description": "Contents Support Withdrawal"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 63,
+            "traderPageMaster": {
+                "traderPageMasterId": 63,
+                "pageCode": "contents.support-deposit",
+                "description": "Contents Support Deposit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 64,
+            "traderPageMaster": {
+                "traderPageMasterId": 64,
+                "pageCode": "contents.support-payments",
+                "description": "Contents Support Payments"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 65,
+            "traderPageMaster": {
+                "traderPageMasterId": 65,
+                "pageCode": "contents.promotions",
+                "description": "Contents Support Promotions"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 66,
+            "traderPageMaster": {
+                "traderPageMasterId": 66,
+                "pageCode": "forgotPassword",
+                "description": "Forgot Password"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 67,
+            "traderPageMaster": {
+                "traderPageMasterId": 67,
+                "pageCode": "sendResetlink",
+                "description": "Send Reset Link"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 68,
+            "traderPageMaster": {
+                "traderPageMasterId": 68,
+                "pageCode": "resetPassword",
+                "description": "Reset Password"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 69,
+            "traderPageMaster": {
+                "traderPageMasterId": 69,
+                "pageCode": "dashboard",
+                "description": "Dashboard"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 70,
+            "traderPageMaster": {
+                "traderPageMasterId": 70,
+                "pageCode": "dashboard.userInfo",
+                "description": "Dashboard - User Info"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 71,
+            "traderPageMaster": {
+                "traderPageMasterId": 71,
+                "pageCode": "dashboard.userInfo.userSettings",
+                "description": "Dashboard - User Settings"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 72,
+            "traderPageMaster": {
+                "traderPageMasterId": 72,
+                "pageCode": "dashboard.userInfo.userDetail",
+                "description": "Dashboard - User Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 73,
+            "traderPageMaster": {
+                "traderPageMasterId": 73,
+                "pageCode": "dashboard.userInfo.uploadDocument",
+                "description": "Dashboard - Upload Document"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 74,
+            "traderPageMaster": {
+                "traderPageMasterId": 74,
+                "pageCode": "dashboard.userInfo.limitSettings",
+                "description": "Dashboard - Limit Settings"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 75,
+            "traderPageMaster": {
+                "traderPageMasterId": 75,
+                "pageCode": "dashboard.userInfo.changePassword",
+                "description": "Dashboard - Chance Password"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 76,
+            "traderPageMaster": {
+                "traderPageMasterId": 76,
+                "pageCode": "dashboard.userInfo.accountDetail",
+                "description": "Dashboard - Account Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 77,
+            "traderPageMaster": {
+                "traderPageMasterId": 77,
+                "pageCode": "dashboard.privacy",
+                "description": "Privacy"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 78,
+            "traderPageMaster": {
+                "traderPageMasterId": 78,
+                "pageCode": "dashboard.privacy.privacySettings",
+                "description": "Privacy Settings"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 79,
+            "traderPageMaster": {
+                "traderPageMasterId": 79,
+                "pageCode": "dashboard.privacy.securitySettings",
+                "description": "Security Settings"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 80,
+            "traderPageMaster": {
+                "traderPageMasterId": 80,
+                "pageCode": "dashboard.payments",
+                "description": "Payments"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 81,
+            "traderPageMaster": {
+                "traderPageMasterId": 81,
+                "pageCode": "dashboard.payments.depositMoney",
+                "description": "Payments - Deposit Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 82,
+            "traderPageMaster": {
+                "traderPageMasterId": 82,
+                "pageCode": "dashboard.payments.transfer",
+                "description": "Payments - Transfer"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 83,
+            "traderPageMaster": {
+                "traderPageMasterId": 83,
+                "pageCode": "dashboard.payments.withdrawMoney",
+                "description": "Payments - Withdraw Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 84,
+            "traderPageMaster": {
+                "traderPageMasterId": 84,
+                "pageCode": "dashboard.accountActivity",
+                "description": "Account Activity"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 85,
+            "traderPageMaster": {
+                "traderPageMasterId": 85,
+                "pageCode": "dashboard.accountActivity.freeSpin",
+                "description": "Free Spin"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 86,
+            "traderPageMaster": {
+                "traderPageMasterId": 86,
+                "pageCode": "dashboard.accountActivity.financialTransactions",
+                "description": "Financial Transactions"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 87,
+            "traderPageMaster": {
+                "traderPageMasterId": 87,
+                "pageCode": "dashboard.accountActivity.casinoProHistory",
+                "description": "Casinopro History"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 88,
+            "traderPageMaster": {
+                "traderPageMasterId": 88,
+                "pageCode": "dashboard.accountActivity.bonusActivities",
+                "description": "Bonus Activities"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 89,
+            "traderPageMaster": {
+                "traderPageMasterId": 89,
+                "pageCode": "dashboard.accountActivity.betHistory",
+                "description": "Bet History"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 90,
+            "traderPageMaster": {
+                "traderPageMasterId": 90,
+                "pageCode": "signin",
+                "description": "Singin"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 91,
+            "traderPageMaster": {
+                "traderPageMasterId": 91,
+                "pageCode": "signup",
+                "description": "Singup"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 92,
+            "traderPageMaster": {
+                "traderPageMasterId": 92,
+                "pageCode": "virtualSportsPage",
+                "description": "Virtual Sports"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 93,
+            "traderPageMaster": {
+                "traderPageMasterId": 93,
+                "pageCode": "virtualSports.football-world-cup",
+                "description": "Virtual Football World Cup"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 94,
+            "traderPageMaster": {
+                "traderPageMasterId": 94,
+                "pageCode": "sportsbet.world-cup-2018",
+                "description": "World Cup 2018"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 95,
+            "traderPageMaster": {
+                "traderPageMasterId": 95,
+                "pageCode": "aml-policy",
+                "description": "AML Policy"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 96,
+            "traderPageMaster": {
+                "traderPageMasterId": 96,
+                "pageCode": "e-sports.list",
+                "description": "E-Sports List"
+            }
+        },
+        {
+            "traderPageTitleAndMetaId": 5265,
+            "traderId": 536,
+            "languageId": 23,
+            "device": "d",
+            "metas": "<title>EstrelaBet - A maior casa de apostas online do Brasil. Depósitos e Saques via Pix</title>\r\n\r\n<meta name=\"description\" content=\"Aposte na maior casa de apostas do Brasil, a EstrelaBet. Deposite e saque via pix e receba seu dinheiro na hora! Se junte a mais de 1 milhão de estrelas e aposte com as melhores odds.\">\r\n\r\n<meta name=\"keywords\" content=\"estrela bet, estrelabet, apostas, cassino, e sports, esportes, futebol, basquete, poker, valorant, gremio, globo esporte, brasileirão série a, brasileirão série b, flamengo hoje, campeonato brasileiro série a, campeonato brasileiro série b, série a, apostas esportivas,  apostas online, casa de apostas , apostas esportivas ,poker online, inglaterra fc,euro copa, campeonato alemão, futebol hoje\" />",
+            "traderPageMasterIdKey": 97,
+            "traderPageMaster": {
+                "traderPageMasterId": 97,
+                "pageCode": "e-sports.detail",
+                "description": "E-Sports Detail"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 98,
+            "traderPageMaster": {
+                "traderPageMasterId": 98,
+                "pageCode": "e-sports.countries",
+                "description": "Mobile E-Sports Countries"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 99,
+            "traderPageMaster": {
+                "traderPageMasterId": 99,
+                "pageCode": "e-sports.seasons",
+                "description": "Mobile E-Sports Seasons"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 100,
+            "traderPageMaster": {
+                "traderPageMasterId": 100,
+                "pageCode": "e-sports.detail.59",
+                "description": "E-Sports Detail 59"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 101,
+            "traderPageMaster": {
+                "traderPageMasterId": 101,
+                "pageCode": "e-sports.detail.58",
+                "description": "E-Sports Detail 58"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 102,
+            "traderPageMaster": {
+                "traderPageMasterId": 102,
+                "pageCode": "e-sports.detail.48",
+                "description": "E-Sports Detail 48"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 103,
+            "traderPageMaster": {
+                "traderPageMasterId": 103,
+                "pageCode": "e-sports.detail.47",
+                "description": "E-Sports Detail 47"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 104,
+            "traderPageMaster": {
+                "traderPageMasterId": 104,
+                "pageCode": "dashboard.userInfo.personalAndAccountDetail",
+                "description": "Dashboard Personal Account Info"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 105,
+            "traderPageMaster": {
+                "traderPageMasterId": 105,
+                "pageCode": "contents.online-betting",
+                "description": "Contents Online Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 106,
+            "traderPageMaster": {
+                "traderPageMasterId": 106,
+                "pageCode": "contents.online-casino",
+                "description": "Contents Online Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 107,
+            "traderPageMaster": {
+                "traderPageMasterId": 107,
+                "pageCode": "contents.online-slots",
+                "description": "Contents Online Slots"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 108,
+            "traderPageMaster": {
+                "traderPageMasterId": 108,
+                "pageCode": "contents.online-sportwetten",
+                "description": "Contents Online Sportwetten"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 109,
+            "traderPageMaster": {
+                "traderPageMasterId": 109,
+                "pageCode": "contents.live-oddsen",
+                "description": "Contents Live Oddsen"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 110,
+            "traderPageMaster": {
+                "traderPageMasterId": 110,
+                "pageCode": "contents.tipping",
+                "description": "Contents Tipping"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 111,
+            "traderPageMaster": {
+                "traderPageMasterId": 111,
+                "pageCode": "contents.odds",
+                "description": "Contents Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 112,
+            "traderPageMaster": {
+                "traderPageMasterId": 112,
+                "pageCode": "contents.spill-casino-online",
+                "description": "Contents Spill Casino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 114,
+            "traderPageMaster": {
+                "traderPageMasterId": 114,
+                "pageCode": "contents.nett-casino",
+                "description": "Contents Nett Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 115,
+            "traderPageMaster": {
+                "traderPageMasterId": 115,
+                "pageCode": "contents.casino-spill",
+                "description": "Contents Casino Spill"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 116,
+            "traderPageMaster": {
+                "traderPageMasterId": 116,
+                "pageCode": "contents.live-veto",
+                "description": "Contents Live Veto"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 117,
+            "traderPageMaster": {
+                "traderPageMasterId": 117,
+                "pageCode": "contents.netti-kasino",
+                "description": "Contents Netti Kasino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 118,
+            "traderPageMaster": {
+                "traderPageMasterId": 118,
+                "pageCode": "contents.netti-kasinot",
+                "description": "Contents Netti Kasinot"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 119,
+            "traderPageMaster": {
+                "traderPageMasterId": 119,
+                "pageCode": "contents.vedonlyonti",
+                "description": "Contents Vedonlyonti"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 120,
+            "traderPageMaster": {
+                "traderPageMasterId": 120,
+                "pageCode": "contents.apuestasdeportivas",
+                "description": "Contents Apuestas Deportivas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 121,
+            "traderPageMaster": {
+                "traderPageMasterId": 121,
+                "pageCode": "contents.sportsbetting",
+                "description": "Contents Sports Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 122,
+            "traderPageMaster": {
+                "traderPageMasterId": 122,
+                "pageCode": "contents.vedonlyöntibonukset",
+                "description": "Contents Vedonlyönti Bonukset"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 123,
+            "traderPageMaster": {
+                "traderPageMasterId": 123,
+                "pageCode": "contents.sportwetten-tipps",
+                "description": "Contents Sportwetten Tipps "
+            }
+        },
+        {
+            "traderPageMasterIdKey": 124,
+            "traderPageMaster": {
+                "traderPageMasterId": 124,
+                "pageCode": "contents.apostas-esportivas",
+                "description": "Contents Apuestas Esportivas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 125,
+            "traderPageMaster": {
+                "traderPageMasterId": 125,
+                "pageCode": "contents.sport",
+                "description": "Contents Sport"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 126,
+            "traderPageMaster": {
+                "traderPageMasterId": 126,
+                "pageCode": "contents.paris-sportifs",
+                "description": "Contents Paris Sportifs"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 127,
+            "traderPageMaster": {
+                "traderPageMasterId": 127,
+                "pageCode": "contents.bonuses",
+                "description": "Contents Bonuses"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 128,
+            "traderPageMaster": {
+                "traderPageMasterId": 128,
+                "pageCode": "contents.best-odds",
+                "description": "Contents Best Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 129,
+            "traderPageMaster": {
+                "traderPageMasterId": 129,
+                "pageCode": "contents.online-sports-betting",
+                "description": "Contents Online Sports Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 130,
+            "traderPageMaster": {
+                "traderPageMasterId": 130,
+                "pageCode": "contents.sportwetten",
+                "description": "Sportwetten"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 131,
+            "traderPageMaster": {
+                "traderPageMasterId": 131,
+                "pageCode": "contents.apuestas-deportivas-en-linea",
+                "description": "Apuestas Deportivas en Linea"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 132,
+            "traderPageMaster": {
+                "traderPageMasterId": 132,
+                "pageCode": "contents.apostas-esportivas-online",
+                "description": "Apostas Esportivas Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 133,
+            "traderPageMaster": {
+                "traderPageMasterId": 133,
+                "pageCode": "contents.internetvedonlyontiin",
+                "description": "Internetvedonlyöntiin"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 134,
+            "traderPageMaster": {
+                "traderPageMasterId": 134,
+                "pageCode": "contents.paris-sportifs-en-ligne",
+                "description": "Paris Sportifs en Ligne"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 135,
+            "traderPageMaster": {
+                "traderPageMasterId": 135,
+                "pageCode": "contents.casino-en-linea",
+                "description": "Casino en Linea"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 136,
+            "traderPageMaster": {
+                "traderPageMasterId": 136,
+                "pageCode": "contents.casino-online",
+                "description": "Casino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 137,
+            "traderPageMaster": {
+                "traderPageMasterId": 137,
+                "pageCode": "contents.casino-en-ligne",
+                "description": "Casino en Ligne"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 138,
+            "traderPageMaster": {
+                "traderPageMasterId": 138,
+                "pageCode": "contents.apostas-online",
+                "description": "Apostas Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 139,
+            "traderPageMaster": {
+                "traderPageMasterId": 139,
+                "pageCode": "contents.apuestas-en-linea",
+                "description": "Apuestas en Linea"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 140,
+            "traderPageMaster": {
+                "traderPageMasterId": 140,
+                "pageCode": "contents.big-top-casino",
+                "description": "Big Top Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 141,
+            "traderPageMaster": {
+                "traderPageMasterId": 141,
+                "pageCode": "contents.boni-und-mehr",
+                "description": "Boni Und Mehr"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 142,
+            "traderPageMaster": {
+                "traderPageMasterId": 142,
+                "pageCode": "contents.bonos-y-mas",
+                "description": "Bonos y Mas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 143,
+            "traderPageMaster": {
+                "traderPageMasterId": 143,
+                "pageCode": "contents.bonus-e-mais",
+                "description": "Bonus e Mais"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 144,
+            "traderPageMaster": {
+                "traderPageMasterId": 144,
+                "pageCode": "contents.bonuser-og-mer",
+                "description": "Bonuser og Mer"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 145,
+            "traderPageMaster": {
+                "traderPageMasterId": 145,
+                "pageCode": "contents.cassino-online",
+                "description": "Cassino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 146,
+            "traderPageMaster": {
+                "traderPageMasterId": 146,
+                "pageCode": "contents.online-casino",
+                "description": "Online Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 147,
+            "traderPageMaster": {
+                "traderPageMasterId": 147,
+                "pageCode": "contents.paris-en-ligne",
+                "description": "Paris en Ligne"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 148,
+            "traderPageMaster": {
+                "traderPageMasterId": 148,
+                "pageCode": "contents.vedonlyontibonukset",
+                "description": "Vedonlyontibonukset"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 149,
+            "traderPageMaster": {
+                "traderPageMasterId": 149,
+                "pageCode": "contents.vedonlyontiin-ja-kertoimiin",
+                "description": "Vedonlyontiin ja Kertoimiin"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 150,
+            "traderPageMaster": {
+                "traderPageMasterId": 150,
+                "pageCode": "euro2020",
+                "description": "Contents Euro 2020"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 151,
+            "traderPageMaster": {
+                "traderPageMasterId": 151,
+                "pageCode": "betting-tips",
+                "description": "Contents Betting Tips"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 152,
+            "traderPageMaster": {
+                "traderPageMasterId": 152,
+                "pageCode": "how-to-win-at-sports-betting",
+                "description": "Contents How to Win at Sports Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 153,
+            "traderPageMaster": {
+                "traderPageMasterId": 153,
+                "pageCode": "betting-odds",
+                "description": "Contents Betting Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 154,
+            "traderPageMaster": {
+                "traderPageMasterId": 154,
+                "pageCode": "world-cup-live-betting",
+                "description": "Contents World Cup Live Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 155,
+            "traderPageMaster": {
+                "traderPageMasterId": 155,
+                "pageCode": "online-betting-odds",
+                "description": "Contents Online Betting Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 156,
+            "traderPageMaster": {
+                "traderPageMasterId": 156,
+                "pageCode": "online-bookmaker",
+                "description": "Contents Online Bookmaker"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 157,
+            "traderPageMaster": {
+                "traderPageMasterId": 157,
+                "pageCode": "betting-odds",
+                "description": "Contents Betting Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 158,
+            "traderPageMaster": {
+                "traderPageMasterId": 158,
+                "pageCode": "no-deposit-bonus",
+                "description": "Contents No Deposit Bonus"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 159,
+            "traderPageMaster": {
+                "traderPageMasterId": 159,
+                "pageCode": "parhaat-vedonlyontikertoimet",
+                "description": "Contents Parhaat Vedonlyontikertoimet"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 160,
+            "traderPageMaster": {
+                "traderPageMasterId": 160,
+                "pageCode": "slik-leser-man-odds",
+                "description": "Contents Slik Leser Man-odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 161,
+            "traderPageMaster": {
+                "traderPageMasterId": 161,
+                "pageCode": "kuinka-kertoimia-luetaan",
+                "description": "Contents Kuinka Kertoimia Luetaan"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 162,
+            "traderPageMaster": {
+                "traderPageMasterId": 162,
+                "pageCode": "beste-wettquoten",
+                "description": "Contents Beste Wettquoten"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 163,
+            "traderPageMaster": {
+                "traderPageMasterId": 163,
+                "pageCode": "tippe-pa-odds",
+                "description": "Contents Tippe Pa Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 164,
+            "traderPageMaster": {
+                "traderPageMasterId": 164,
+                "pageCode": "so-lesen-sie-quoten",
+                "description": "Contents So Lesen Sie Quoten"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 165,
+            "traderPageMaster": {
+                "traderPageMasterId": 165,
+                "pageCode": "miten-voittaa-jatkuvasti-urheiluvedonlyonnissa",
+                "description": "Contents Miten Voittaa Jatkuvasti Urheiluvedonlyonnissa"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 166,
+            "traderPageMaster": {
+                "traderPageMasterId": 166,
+                "pageCode": "hvordan-alltid-vinne-i-tipping",
+                "description": "Contents Hvordan Alltid Vinne i Tipping"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 167,
+            "traderPageMaster": {
+                "traderPageMasterId": 167,
+                "pageCode": "wie-man-bei-Sportwetten-immer-gewinnt",
+                "description": "Contents Wie Man Bei Sportwetten Immer Gewinnt"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 168,
+            "traderPageMaster": {
+                "traderPageMasterId": 168,
+                "pageCode": "vedonlyontistrategiat",
+                "description": "Contents Vedonlyontistrategiat"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 169,
+            "traderPageMaster": {
+                "traderPageMasterId": 169,
+                "pageCode": "beste-oddsstrategier",
+                "description": "Contents Beste Oddsstrategier"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 170,
+            "traderPageMaster": {
+                "traderPageMasterId": 170,
+                "pageCode": "euroopan-mestaruuskilpailuista",
+                "description": "Contents Euroopan Mestaruuskilpailuista"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 171,
+            "traderPageMaster": {
+                "traderPageMasterId": 171,
+                "pageCode": "europamesterskapet-i-fotball-2020",
+                "description": "Contents Europamesterskapet i Fotball 2020"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 172,
+            "traderPageMaster": {
+                "traderPageMasterId": 172,
+                "pageCode": "europameisterschaft-2020",
+                "description": "Contents Europameisterschaft 2020"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 173,
+            "traderPageMaster": {
+                "traderPageMasterId": 173,
+                "pageCode": "ecopays",
+                "description": "Contents Ecopays"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 174,
+            "traderPageMaster": {
+                "traderPageMasterId": 174,
+                "pageCode": "muchbetter",
+                "description": "Contents Muchbetter"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 180,
+            "traderPageMaster": {
+                "traderPageMasterId": 180,
+                "pageCode": "contents.virtualsports",
+                "description": "Contents Virtual Sports"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 181,
+            "traderPageMaster": {
+                "traderPageMasterId": 181,
+                "pageCode": "slots-for-fun",
+                "description": "Contents Slots for Fun"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 182,
+            "traderPageMaster": {
+                "traderPageMasterId": 182,
+                "pageCode": "jackpot-6000",
+                "description": "Contents Jackpot 6000"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 183,
+            "traderPageMaster": {
+                "traderPageMasterId": 183,
+                "pageCode": "free-betting",
+                "description": "Contents Free Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 184,
+            "traderPageMaster": {
+                "traderPageMasterId": 184,
+                "pageCode": "signup",
+                "description": "Contents Sign Up"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 185,
+            "traderPageMaster": {
+                "traderPageMasterId": 185,
+                "pageCode": "online-real-money-casino-slot-games",
+                "description": "Contents Online Real Money Casino Slot Games"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 186,
+            "traderPageMaster": {
+                "traderPageMasterId": 186,
+                "pageCode": "top-casino-games-real-money",
+                "description": "Contents Top Casino Games Real Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 187,
+            "traderPageMaster": {
+                "traderPageMasterId": 187,
+                "pageCode": "mobile-casino-games-for-real-money",
+                "description": "Contents Mobile Casino Games for Real Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 188,
+            "traderPageMaster": {
+                "traderPageMasterId": 188,
+                "pageCode": "play-casino-games-for-real-money",
+                "description": "Contents Play Casino Games for Real Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 189,
+            "traderPageMaster": {
+                "traderPageMasterId": 189,
+                "pageCode": "online-casino-games-for-real-money",
+                "description": "Contents Online Casino Games for Real Money"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 190,
+            "traderPageMaster": {
+                "traderPageMasterId": 190,
+                "pageCode": "real-money-casino-games",
+                "description": "Contents Real Money Casino Games"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 191,
+            "traderPageMaster": {
+                "traderPageMasterId": 191,
+                "pageCode": "oikean-rahan-kasinopelit",
+                "description": "Contents Oikean Rahan Kasinopelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 192,
+            "traderPageMaster": {
+                "traderPageMasterId": 192,
+                "pageCode": "oikean-rahan-nettikasinopelit",
+                "description": "Contents Oikean Rahan Nettikasinopelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 193,
+            "traderPageMaster": {
+                "traderPageMasterId": 193,
+                "pageCode": "pelaa-kasinopeleja-oikeallarahalla",
+                "description": "Contents Pelaa Kasinopeleja Oikeallarahalla"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 194,
+            "traderPageMaster": {
+                "traderPageMasterId": 194,
+                "pageCode": "oikean-rahan-mobiilikasinopelit",
+                "description": "Contents Oikean Rahan Mobiilikasinopelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 195,
+            "traderPageMaster": {
+                "traderPageMasterId": 195,
+                "pageCode": "ilmaiset-slotit",
+                "description": "Contents Ilmaiset Slotit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 196,
+            "traderPageMaster": {
+                "traderPageMasterId": 196,
+                "pageCode": "parhaat-oikean-rahan-kasinopelit",
+                "description": "Contents Parhaat Oikean Rahan Kasinopelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 197,
+            "traderPageMaster": {
+                "traderPageMasterId": 197,
+                "pageCode": "casinospill-med-ekte-penger",
+                "description": "Contents Casinospill Med Ekte Penger"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 198,
+            "traderPageMaster": {
+                "traderPageMasterId": 198,
+                "pageCode": "casinospill-pa-nettet-ekte-penger",
+                "description": "Contents Casinospill Pa Nettet Ekte Penger"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 199,
+            "traderPageMaster": {
+                "traderPageMasterId": 199,
+                "pageCode": "spille-casinospill-med-ekte-penger",
+                "description": "Contents Spille Casinospill Med Ekte Penger"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 200,
+            "traderPageMaster": {
+                "traderPageMasterId": 200,
+                "pageCode": "casinospill-pa-mobilen-med-ekte-penger",
+                "description": "Contents Casinospill Pa Mobilen Med Ekte Penger"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 201,
+            "traderPageMaster": {
+                "traderPageMasterId": 201,
+                "pageCode": "gratis-spilleautomater",
+                "description": "Contents Gratis Spilleautomater"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 202,
+            "traderPageMaster": {
+                "traderPageMasterId": 202,
+                "pageCode": "beste-casinospill-med-ekte-penger",
+                "description": "Contents Beste Casinospill Med Ekte Penger"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 204,
+            "traderPageMaster": {
+                "traderPageMasterId": 204,
+                "pageCode": "contents.echtgeld-casino-spiele",
+                "description": "Contents Echtgeld Casino Spiele"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 205,
+            "traderPageMaster": {
+                "traderPageMasterId": 205,
+                "pageCode": "contents.online-casino-spiele-um-echtes-geld",
+                "description": "Contents Online Casino Spiele Um Echtes Geld"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 206,
+            "traderPageMaster": {
+                "traderPageMasterId": 206,
+                "pageCode": "contents.spielen-sie-casino-spiele-um-echtes-geld",
+                "description": "Contents Spielen Sie Casino Spiele Um Echtes Gelde"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 207,
+            "traderPageMaster": {
+                "traderPageMasterId": 207,
+                "pageCode": "contents.mobile-casinospiele-fur-echtes-geld",
+                "description": "Contents Mobile Casinospiele Fur Echtes Geld"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 208,
+            "traderPageMaster": {
+                "traderPageMasterId": 208,
+                "pageCode": "contents.gratis-slots",
+                "description": "Contents Gratis Slots"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 209,
+            "traderPageMaster": {
+                "traderPageMasterId": 209,
+                "pageCode": "contents.top-casino-spiele-um-echtgeld",
+                "description": "Contents Top Casino Spiele Um Echtgeld"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 210,
+            "traderPageMaster": {
+                "traderPageMasterId": 210,
+                "pageCode": "contents.juegos-de-casino-con-dinero-real",
+                "description": "Contents Juegos De Casino Con Dinero Real"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 211,
+            "traderPageMaster": {
+                "traderPageMasterId": 211,
+                "pageCode": "contents.juegos-de-casino-en-linea-con-dinero-real",
+                "description": "Contents Juegos De Casino En Linea Con Dinero Real"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 212,
+            "traderPageMaster": {
+                "traderPageMasterId": 212,
+                "pageCode": "contents.jugar-juegos-de-casino-con-dinero-real",
+                "description": "Contents Jugar Juegos De Casino Con Dinero Real"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 213,
+            "traderPageMaster": {
+                "traderPageMasterId": 213,
+                "pageCode": "contents.slots-gratis",
+                "description": "Contents Slots Gratis"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 214,
+            "traderPageMaster": {
+                "traderPageMasterId": 214,
+                "pageCode": "contents.mejores-juegos-de-casino-con-dinero-real",
+                "description": "Contents Mejores Juegos De Casino Con Dinero Real"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 215,
+            "traderPageMaster": {
+                "traderPageMasterId": 215,
+                "pageCode": "vip-club",
+                "description": "Contents VIP Club"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 216,
+            "traderPageMaster": {
+                "traderPageMasterId": 216,
+                "pageCode": "shop",
+                "description": "Contents Shop"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 217,
+            "traderPageMaster": {
+                "traderPageMasterId": 217,
+                "pageCode": "tournament",
+                "description": "Contents Tournament"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 218,
+            "traderPageMaster": {
+                "traderPageMasterId": 218,
+                "pageCode": "sportsbet.live-racing",
+                "description": "Sports Bet Live Racing"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 219,
+            "traderPageMaster": {
+                "traderPageMasterId": 219,
+                "pageCode": "beste-oddstips",
+                "description": "Contents Beste Oddstips"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 220,
+            "traderPageMaster": {
+                "traderPageMasterId": 220,
+                "pageCode": "gratis-bonus-uten-innskudd",
+                "description": "Contents Gratis Bonus Uten Innskudd"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 221,
+            "traderPageMaster": {
+                "traderPageMasterId": 221,
+                "pageCode": "nettavisen-sport",
+                "description": "Contents Nettavisen Sport"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 222,
+            "traderPageMaster": {
+                "traderPageMasterId": 222,
+                "pageCode": "netticasino",
+                "description": "Contents Netticasino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 223,
+            "traderPageMaster": {
+                "traderPageMasterId": 223,
+                "pageCode": "odds-tips-football",
+                "description": "Contents Odds Tips Football"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 224,
+            "traderPageMaster": {
+                "traderPageMasterId": 224,
+                "pageCode": "oddstips",
+                "description": "Contents Oddstips"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 225,
+            "traderPageMaster": {
+                "traderPageMasterId": 225,
+                "pageCode": "online-kasino",
+                "description": "Contents Online Kasino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 226,
+            "traderPageMaster": {
+                "traderPageMasterId": 226,
+                "pageCode": "spille-spill",
+                "description": "Contents Spille Spill"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 227,
+            "traderPageMaster": {
+                "traderPageMasterId": 227,
+                "pageCode": "sport-og-spill",
+                "description": "Contents Sport Og Spill"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 228,
+            "traderPageMaster": {
+                "traderPageMasterId": 228,
+                "pageCode": "uudet-bonuskoodit",
+                "description": "Contents Uudet Bonuskoodit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 230,
+            "traderPageMaster": {
+                "traderPageMasterId": 230,
+                "pageCode": "vedonlyonti-sivut",
+                "description": "Contents Vedonlyonti Sivut"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 231,
+            "traderPageMaster": {
+                "traderPageMasterId": 231,
+                "pageCode": "vedonlyonti-vihjeet",
+                "description": "Contents Vedonlyonti Vihjeet"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 232,
+            "traderPageMaster": {
+                "traderPageMasterId": 232,
+                "pageCode": "vedonlyontikertoimien-esittely",
+                "description": "Contents Vedonlyontikertoimien Esittely"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 233,
+            "traderPageMaster": {
+                "traderPageMasterId": 233,
+                "pageCode": "veikkaus-sovellus",
+                "description": "Contents Veikkaus Sovellus"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 234,
+            "traderPageMaster": {
+                "traderPageMasterId": 234,
+                "pageCode": "veikkaus-tulokset",
+                "description": "Contents Veikkaus Tulokset"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 235,
+            "traderPageMaster": {
+                "traderPageMasterId": 235,
+                "pageCode": "best-sport-to-bet-on",
+                "description": "Contents Best Sport to Bet On"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 236,
+            "traderPageMaster": {
+                "traderPageMasterId": 236,
+                "pageCode": "video-poker-strategy",
+                "description": "Contents Video Poker Strategy"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 238,
+            "traderPageMaster": {
+                "traderPageMasterId": 238,
+                "pageCode": "basketball-teaser-odds",
+                "description": "Contents Basketball Teaser Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 239,
+            "traderPageMaster": {
+                "traderPageMasterId": 239,
+                "pageCode": "best-online-blackjack-canada",
+                "description": "Contents Best Online Blackjack Canada"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 240,
+            "traderPageMaster": {
+                "traderPageMasterId": 240,
+                "pageCode": "classic-roulette",
+                "description": "Contents Classic Roulette"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 241,
+            "traderPageMaster": {
+                "traderPageMasterId": 241,
+                "pageCode": "golf-betting-rules",
+                "description": "Contents Golf Betting Rules"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 242,
+            "traderPageMaster": {
+                "traderPageMasterId": 242,
+                "pageCode": "slot-machines-canada",
+                "description": "Contents Slot Machines Canada"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 243,
+            "traderPageMaster": {
+                "traderPageMasterId": 243,
+                "pageCode": "how-to-read-nhl-odds",
+                "description": "Contents How to Read Nhl Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 244,
+            "traderPageMaster": {
+                "traderPageMasterId": 244,
+                "pageCode": "norsktipping",
+                "description": "Contents Norsktipping"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 245,
+            "traderPageMaster": {
+                "traderPageMasterId": 245,
+                "pageCode": "hva-er-esport",
+                "description": "Contents Hva Er Esport"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 246,
+            "traderPageMaster": {
+                "traderPageMasterId": 246,
+                "pageCode": "live-odds",
+                "description": "Contents Live Odds"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 247,
+            "traderPageMaster": {
+                "traderPageMasterId": 247,
+                "pageCode": "casinospill",
+                "description": "Contents Casino Spill"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 248,
+            "traderPageMaster": {
+                "traderPageMasterId": 248,
+                "pageCode": "virtuelle-sporter",
+                "description": "Contents Virtuelle Sporter"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 249,
+            "traderPageMaster": {
+                "traderPageMasterId": 249,
+                "pageCode": "nettcasino",
+                "description": "Contents Nett Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 250,
+            "traderPageMaster": {
+                "traderPageMasterId": 250,
+                "pageCode": "spill-casino",
+                "description": "Contents Spill Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 251,
+            "traderPageMaster": {
+                "traderPageMasterId": 251,
+                "pageCode": "casino-norge",
+                "description": "Contents Casino Norge"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 252,
+            "traderPageMaster": {
+                "traderPageMasterId": 252,
+                "pageCode": "virtual-sports-betting",
+                "description": "Contents Virtual Sports Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 253,
+            "traderPageMaster": {
+                "traderPageMasterId": 253,
+                "pageCode": "betting-online",
+                "description": "Contents Betting Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 254,
+            "traderPageMaster": {
+                "traderPageMasterId": 254,
+                "pageCode": "live-betting",
+                "description": "Contents Live Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 255,
+            "traderPageMaster": {
+                "traderPageMasterId": 255,
+                "pageCode": "free-slots-online",
+                "description": "Contents Free Slots Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 256,
+            "traderPageMaster": {
+                "traderPageMasterId": 256,
+                "pageCode": "live-casino-online",
+                "description": "Contents Live Casino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 257,
+            "traderPageMaster": {
+                "traderPageMasterId": 257,
+                "pageCode": "esports-betting",
+                "description": "Contents Esports Betting"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 258,
+            "traderPageMaster": {
+                "traderPageMasterId": 258,
+                "pageCode": "casino-games",
+                "description": "Contents Casino Games"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 259,
+            "traderPageMaster": {
+                "traderPageMasterId": 259,
+                "pageCode": "kasino-poytapelit",
+                "description": "Contents Kasino Poytapelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 260,
+            "traderPageMaster": {
+                "traderPageMasterId": 260,
+                "pageCode": "e-urheilu",
+                "description": "Contents E Urheilu"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 261,
+            "traderPageMaster": {
+                "traderPageMasterId": 261,
+                "pageCode": "live-kasino",
+                "description": "Contents Live Kasino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 262,
+            "traderPageMaster": {
+                "traderPageMasterId": 262,
+                "pageCode": "live-vedonlyonti",
+                "description": "Contents Live Vedonlyonti"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 263,
+            "traderPageMaster": {
+                "traderPageMasterId": 263,
+                "pageCode": "paras-nettikasino",
+                "description": "Contents Paras Nettikasino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 264,
+            "traderPageMaster": {
+                "traderPageMasterId": 264,
+                "pageCode": "ilmaisia-lahtopaikkoja",
+                "description": "Contents Ilmaisia Lahtopaikkoja"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 265,
+            "traderPageMaster": {
+                "traderPageMasterId": 265,
+                "pageCode": "betzest-vedonlyonti",
+                "description": "Contents Betzest Vedonlyonti"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 266,
+            "traderPageMaster": {
+                "traderPageMasterId": 266,
+                "pageCode": "virtuaalivedot",
+                "description": "Contents Virtuaalivedot"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 267,
+            "traderPageMaster": {
+                "traderPageMasterId": 267,
+                "pageCode": "contents.online-betting-canada",
+                "description": "Contents Online Betting Canada"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 268,
+            "traderPageMaster": {
+                "traderPageMasterId": 268,
+                "pageCode": "online-casino-canada",
+                "description": "Contents Online Casino Canada"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 269,
+            "traderPageMaster": {
+                "traderPageMasterId": 269,
+                "pageCode": "ice-hockey-canada",
+                "description": "Contents Ice Hockey Canada"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 270,
+            "traderPageMaster": {
+                "traderPageMasterId": 270,
+                "pageCode": "betzest-cricket",
+                "description": "Contents Betzest Cricket"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 271,
+            "traderPageMaster": {
+                "traderPageMasterId": 271,
+                "pageCode": "licence-certificate",
+                "description": "Licence Certificate"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 272,
+            "traderPageMaster": {
+                "traderPageMasterId": 272,
+                "pageCode": "topp-spilleautomater",
+                "description": "Contents Topp Spilleautomater"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 273,
+            "traderPageMaster": {
+                "traderPageMasterId": 273,
+                "pageCode": "casinospill-tips",
+                "description": "Contents Casinospill Tips"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 274,
+            "traderPageMaster": {
+                "traderPageMasterId": 274,
+                "pageCode": "oddstips-i-2021",
+                "description": "Contents Oddstips i 2021"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 275,
+            "traderPageMaster": {
+                "traderPageMasterId": 275,
+                "pageCode": "live-casino-spill",
+                "description": "Contents Live Casino Spill"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 276,
+            "traderPageMaster": {
+                "traderPageMasterId": 276,
+                "pageCode": "blackjack-strategien",
+                "description": "Contents Blackjack Strategien"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 277,
+            "traderPageMaster": {
+                "traderPageMasterId": 277,
+                "pageCode": "tippe-fordelene",
+                "description": "Contents Tippe Fordelene"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 278,
+            "traderPageMaster": {
+                "traderPageMasterId": 278,
+                "pageCode": "nye-spilleautomater",
+                "description": "Contents Nye Spilleautomater"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 279,
+            "traderPageMaster": {
+                "traderPageMasterId": 279,
+                "pageCode": "spilleautomater-fordeler",
+                "description": "Contents Spilleautomater Fordeler"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 280,
+            "traderPageMaster": {
+                "traderPageMasterId": 280,
+                "pageCode": "nettislottien",
+                "description": "Contents Nettislottien"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 281,
+            "traderPageMaster": {
+                "traderPageMasterId": 281,
+                "pageCode": "uutta-nettislottia",
+                "description": "Contents Uutta Nettislottia"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 282,
+            "traderPageMaster": {
+                "traderPageMasterId": 282,
+                "pageCode": "urheiluvedonlyonnista",
+                "description": "Contents Urheiluvedonlyonnista"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 283,
+            "traderPageMaster": {
+                "traderPageMasterId": 283,
+                "pageCode": "blackjack-perusstrategiaa",
+                "description": "Contents Blackjack Perusstrategiaa"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 284,
+            "traderPageMaster": {
+                "traderPageMasterId": 284,
+                "pageCode": "livekasino-pelata",
+                "description": "Contents Livekasino Pelata"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 285,
+            "traderPageMaster": {
+                "traderPageMasterId": 285,
+                "pageCode": "vedonlyontivihjeita",
+                "description": "Contents Vedonlyontivihjeita"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 286,
+            "traderPageMaster": {
+                "traderPageMasterId": 286,
+                "pageCode": "slottivinkeista",
+                "description": "Contents Slottivinkeista"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 287,
+            "traderPageMaster": {
+                "traderPageMasterId": 287,
+                "pageCode": "suosituinta-slottipelia",
+                "description": "Contents Suosituinta Slottipelia"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 289,
+            "traderPageMaster": {
+                "traderPageMasterId": 289,
+                "pageCode": "vantagens-de-slots",
+                "description": "Contents Vantagens de Slots"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 290,
+            "traderPageMaster": {
+                "traderPageMasterId": 290,
+                "pageCode": "novos-jogos-de-slot",
+                "description": "Contents Novos Jogos de Slot"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 291,
+            "traderPageMaster": {
+                "traderPageMasterId": 291,
+                "pageCode": "vantagens-apostas-online",
+                "description": "Contents Vantagens Apostas Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 292,
+            "traderPageMaster": {
+                "traderPageMasterId": 292,
+                "pageCode": "blackjack-estrategia",
+                "description": "Contents Blackjack Estrategia"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 293,
+            "traderPageMaster": {
+                "traderPageMasterId": 293,
+                "pageCode": "cassino-ao-vivo",
+                "description": "Contents Cassino ao Vivo"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 294,
+            "traderPageMaster": {
+                "traderPageMasterId": 294,
+                "pageCode": "dicas-apostas-esportivas",
+                "description": "Contents Dicas Apostas Esportivas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 295,
+            "traderPageMaster": {
+                "traderPageMasterId": 295,
+                "pageCode": "dicas-principais-de-slots",
+                "description": "Contents Dicas Principais de Slots"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 296,
+            "traderPageMaster": {
+                "traderPageMasterId": 296,
+                "pageCode": "slot-mais-populares",
+                "description": "Contents Slot Mais Populares"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 297,
+            "traderPageMaster": {
+                "traderPageMasterId": 297,
+                "pageCode": "ultimos-jogos-de-slots",
+                "description": "Contents Ultimos Jogos de Slots"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 298,
+            "traderPageMaster": {
+                "traderPageMasterId": 298,
+                "pageCode": "jogar-slots-gratis",
+                "description": "Contents Jogar Slots Gratis"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 299,
+            "traderPageMaster": {
+                "traderPageMasterId": 299,
+                "pageCode": "odds-basquete-universitario",
+                "description": "Contents Odds Basquete Universitario"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 300,
+            "traderPageMaster": {
+                "traderPageMasterId": 300,
+                "pageCode": "jogos-de-cassino-ao-vivo",
+                "description": "Contents Jogos de Cassino ao Vivo"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 301,
+            "traderPageMaster": {
+                "traderPageMasterId": 301,
+                "pageCode": "odds-de-basquete-da-nba",
+                "description": "Contents Odds de Basquete da NBA"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 302,
+            "traderPageMaster": {
+                "traderPageMasterId": 302,
+                "pageCode": "apostas-esportivas-explicadas",
+                "description": "Contents Apostas Esportivas Explicadas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 303,
+            "traderPageMaster": {
+                "traderPageMasterId": 303,
+                "pageCode": "vantagens-de-jogos-de-cassino-online",
+                "description": "Contents Vantagens de Jogos de Cassino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 304,
+            "traderPageMaster": {
+                "traderPageMasterId": 304,
+                "pageCode": "vantagens-de-jogos-de-cassino-online",
+                "description": "Contents Vantagens de Jogos de Cassino Online"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 305,
+            "traderPageMaster": {
+                "traderPageMasterId": 305,
+                "pageCode": "promocoes-de-cassino-ao-vivo",
+                "description": "Contents Promocoes de Cassino ao Vivo"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 306,
+            "traderPageMaster": {
+                "traderPageMasterId": 306,
+                "pageCode": "melhores-estrategias-de-apostas",
+                "description": "Contents Melhores Estrategias de Apostas"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 307,
+            "traderPageMaster": {
+                "traderPageMasterId": 307,
+                "pageCode": "maiores-vitorias-de-blackjack",
+                "description": "Contents Maiores Vitorias de Blackjack"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 311,
+            "traderPageMaster": {
+                "traderPageMasterId": 311,
+                "pageCode": "parhaita-slottipeleja",
+                "description": "Contents Parhaita Slottipeleja"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 312,
+            "traderPageMaster": {
+                "traderPageMasterId": 312,
+                "pageCode": "pelata-ilmaisia-slottipeleja",
+                "description": "Contents Pelata Ilmaisia Slottipeleja"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 313,
+            "traderPageMaster": {
+                "traderPageMasterId": 313,
+                "pageCode": "lukea-yliopistokoripallon-kertoimia",
+                "description": "Contents Lukea Yliopistokoripallon Kertoimia"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 314,
+            "traderPageMaster": {
+                "traderPageMasterId": 314,
+                "pageCode": "livekasinopelit-vs-nettikasinopelit",
+                "description": "Contents Livekasinopelit vs Nettikasinopelit"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 315,
+            "traderPageMaster": {
+                "traderPageMasterId": 315,
+                "pageCode": "nba-vedonlyontikertoimet",
+                "description": "Contents NBA Vedonlyontikertoimet"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 316,
+            "traderPageMaster": {
+                "traderPageMasterId": 316,
+                "pageCode": "vedonlyontikertoimet-selitettyna",
+                "description": "Contents Vedonlyontikertoimet Selitettyna"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 317,
+            "traderPageMaster": {
+                "traderPageMasterId": 317,
+                "pageCode": "kasinopelien-pelaamisen-edut",
+                "description": "Contents Kasinopelien Pelaamisen Edut"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 319,
+            "traderPageMaster": {
+                "traderPageMasterId": 319,
+                "pageCode": "livekasinokampanjat",
+                "description": "Contents Livekasinokampanjat"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 320,
+            "traderPageMaster": {
+                "traderPageMasterId": 320,
+                "pageCode": "jalkapallo-vedonlyonnissa",
+                "description": "Contents Jalkapallo Vedonlyonnissa"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 321,
+            "traderPageMaster": {
+                "traderPageMasterId": 321,
+                "pageCode": "voittoja-nettikasinolla-blackjackista",
+                "description": "Contents Voittoja Nettikasinolla Blackjackista"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 322,
+            "traderPageMaster": {
+                "traderPageMasterId": 322,
+                "pageCode": "beste-spilleautomatene",
+                "description": "Contents Beste Spilleautomatene"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 323,
+            "traderPageMaster": {
+                "traderPageMasterId": 323,
+                "pageCode": "prove-gratis-spilleautomater",
+                "description": "Contents Prove Gratis Spilleautomater"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 324,
+            "traderPageMaster": {
+                "traderPageMasterId": 324,
+                "pageCode": "odds-pa-college-basketball",
+                "description": "Contents Odds Pa College Basketball"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 325,
+            "traderPageMaster": {
+                "traderPageMasterId": 325,
+                "pageCode": "live-casinospill-pa-nett",
+                "description": "Contents Live Casinospill Pa Nett"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 326,
+            "traderPageMaster": {
+                "traderPageMasterId": 326,
+                "pageCode": "odds-pa-nba",
+                "description": "Contents Odds Pa NBA"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 327,
+            "traderPageMaster": {
+                "traderPageMasterId": 327,
+                "pageCode": "odds-pa-sport-forklart",
+                "description": "Contents Odds Pa Sport Forklart"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 328,
+            "traderPageMaster": {
+                "traderPageMasterId": 328,
+                "pageCode": "fordelene-spille-casino",
+                "description": "Contents Fordelene Spille Casino"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 329,
+            "traderPageMaster": {
+                "traderPageMasterId": 329,
+                "pageCode": "beste-live-casino-kampanjene",
+                "description": "Contents Beste Live Casino Kampanjene"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 330,
+            "traderPageMaster": {
+                "traderPageMasterId": 330,
+                "pageCode": "beste-strategiene-for-odds-pa-fotball",
+                "description": "Contents Beste Strategiene for Odds Pa Fotball"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 331,
+            "traderPageMaster": {
+                "traderPageMasterId": 331,
+                "pageCode": "storste-gevinstene-i-blackjack",
+                "description": "Contents Storste Gevinstene i Blackjack"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 332,
+            "traderPageMaster": {
+                "traderPageMasterId": 332,
+                "pageCode": "casual-games-bottom",
+                "description": "Casual games bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 333,
+            "traderPageMaster": {
+                "traderPageMasterId": 333,
+                "pageCode": "feature-slot-bottom",
+                "description": "Feature slot bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 334,
+            "traderPageMaster": {
+                "traderPageMasterId": 334,
+                "pageCode": "new-slots-bottom",
+                "description": "New slots bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 335,
+            "traderPageMaster": {
+                "traderPageMasterId": 335,
+                "pageCode": "other-games-bottom",
+                "description": "Other games bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 336,
+            "traderPageMaster": {
+                "traderPageMasterId": 336,
+                "pageCode": "popular-slots-bottom",
+                "description": "Popular Slots Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 337,
+            "traderPageMaster": {
+                "traderPageMasterId": 337,
+                "pageCode": "baccarat-bottom",
+                "description": "Baccarat Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 338,
+            "traderPageMaster": {
+                "traderPageMasterId": 338,
+                "pageCode": "bonus-slots-bottom",
+                "description": "Bonus Slots Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 339,
+            "traderPageMaster": {
+                "traderPageMasterId": 339,
+                "pageCode": "blackjack-bottom",
+                "description": "Blackjack Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 340,
+            "traderPageMaster": {
+                "traderPageMasterId": 340,
+                "pageCode": "mini-games-bottom",
+                "description": "Mini Games Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 341,
+            "traderPageMaster": {
+                "traderPageMasterId": 341,
+                "pageCode": "progresive-slots-bottom",
+                "description": "Progresive Slots Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 342,
+            "traderPageMaster": {
+                "traderPageMasterId": 342,
+                "pageCode": "roulette-bottom",
+                "description": "Roulette Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 343,
+            "traderPageMaster": {
+                "traderPageMasterId": 343,
+                "pageCode": "scratch-card-bottom",
+                "description": "Scratch Card Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 344,
+            "traderPageMaster": {
+                "traderPageMasterId": 344,
+                "pageCode": "slots-bottom",
+                "description": "Slots Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 345,
+            "traderPageMaster": {
+                "traderPageMasterId": 345,
+                "pageCode": "table-games-bottom",
+                "description": "Table Games Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 346,
+            "traderPageMaster": {
+                "traderPageMasterId": 346,
+                "pageCode": "video-bingo-bottom",
+                "description": "Video Bingo Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 347,
+            "traderPageMaster": {
+                "traderPageMasterId": 347,
+                "pageCode": "video-poker-bottom",
+                "description": "Video Poker Bottom"
+            }
+        },
+        {
+            "traderPageMasterIdKey": 348,
+            "traderPageMaster": {
+                "traderPageMasterId": 348,
+                "pageCode": "video-slots-bottom",
+                "description": "Video Slots Bottom"
+            }
+        }
+    ]
+}

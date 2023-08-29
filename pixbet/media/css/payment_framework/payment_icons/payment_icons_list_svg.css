@@ -1,0 +1,195 @@
+#fe_footer .footer_payments .inner div{
+    background-color: rgba(255, 255, 255, 1);
+    content: "";
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 65px;
+    mask-size: 65px;
+    -webkit-mask-position: center;
+    mask-position: top center;
+    width: 75px;
+    height: 30px;
+}
+
+#fe_footer .footer_payments .inner div.visa{
+      -webkit-mask-image: url(/media/images/icons/payments/svg/visa.svg);
+    mask-image: url(/media/images/icons/payments/svg/visa.svg);
+       
+}
+#fe_footer .footer_payments .inner div.electron{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/visa-electron.svg);
+    mask-image: url(/media/images/icons/payments/svg/visa-electron.svg); 
+    -webkit-mask-size: 45px;
+    mask-size: 45px;
+    width: 55px;
+}
+#fe_footer .footer_payments .inner div.mastercard{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/mastercard.svg);
+    mask-image: url(/media/images/icons/payments/svg/mastercard.svg); 
+    -webkit-mask-size: 31px;
+    mask-size: 31px;
+    width: 41px;
+}
+
+#fe_footer .footer_payments .inner div.cepbank{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/cepbank.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/cepbank.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+
+#fe_footer .footer_payments .inner div.dpm{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/direct-payment.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/direct-payment.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+
+#fe_footer .footer_payments .inner div.ecopayz{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/ecopayz.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/ecopayz.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.astropay{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/astropay.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/astropay.svg?v=1);
+}   
+
+#fe_footer .footer_payments .inner div.banktransfer{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/bank_trans.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/bank_trans.svg?v=1);
+    -webkit-mask-size: 45px;
+    mask-size: 45px;
+    width: 55px;
+}
+
+#fe_footer .footer_payments .inner div.crossbanking{
+   -webkit-mask-image: url(/media/images/icons/payments/svg/aninda-havale.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/aninda-havale.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.envoy{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/hizli-havale.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/hizli-havale.svg?v=1);
+    -webkit-mask-size: 45px;
+    mask-size: 45px;
+    width: 45px;
+}
+
+#fe_footer .footer_payments .inner div.bitcoin{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/bitcoin.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/bitcoin.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+#fe_footer .footer_payments .inner div.dash{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/dash.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/bitcoin.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+#fe_footer .footer_payments .inner div.ethereum{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/etherium.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/etherium.svg?v=1);
+    -webkit-mask-size: 11px;
+    mask-size: 11px;
+    width: 22px;
+}
+#fe_footer .footer_payments .inner div.litecoin{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/litecoin.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/litecoin.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+#fe_footer .footer_payments .inner div.mithril{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/mithril.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/mithril.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+#fe_footer .footer_payments .inner div.ripple{
+      -webkit-mask-image: url(/media/images/icons/payments/svg/ripple.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/ripple.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+
+#fe_footer .footer_payments .inner div.flutterwave{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/flutterwave.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/flutterwave.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.mft{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/mft.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/mft.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.qr{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/mkarekod.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/mkarekod.svg?v=1);
+    -webkit-mask-size: 20px;
+    mask-size: 20px;
+    width: 30px;
+}
+
+#fe_footer .footer_payments .inner div.opay{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/opay.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/opay.svg?v=1);
+    -webkit-mask-size: 15px;
+    mask-size: 15px;
+    width:28px;
+}
+
+#fe_footer .footer_payments .inner div.papara{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/papara.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/papara.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.payfix{
+    -webkit-mask-image: url(/media/images/icons/payments/svg/payfix.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/payfix.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.paygate{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/paygate.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/paygate.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.paykwik{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/paykwik.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/paykwik.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.payznet{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/payznet.svg?v=2);
+    mask-image: url(/media/images/icons/payments/svg/payznet.svg?v=2);
+}
+
+#fe_footer .footer_payments .inner div.paystack{
+     -webkit-mask-image: url(/media/images/icons/payments/svg/paystack.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/paystack.svg?v=1);
+}
+
+#fe_footer .footer_payments .inner div.aninda{
+   -webkit-mask-image: url(/media/images/icons/payments/svg/aninda-papara.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/aninda-papara.svg?v=1); 
+}
+
+#fe_footer .footer_payments .inner div.vistapara{
+   -webkit-mask-image: url(/media/images/icons/payments/svg/vistapara.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/vistapara.svg?v=1); 
+}
+
+#fe_footer .footer_payments .inner div.virtualpos{
+   -webkit-mask-image: url(/media/images/icons/payments/svg/virtualpos.svg?v=1);
+    mask-image: url(/media/images/icons/payments/svg/virtualpos.svg?v=1); 
+}
+
+

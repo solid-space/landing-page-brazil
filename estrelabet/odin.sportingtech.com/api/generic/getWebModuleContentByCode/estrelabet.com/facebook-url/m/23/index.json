@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11258,
+            "webModuleId": 310,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://www.facebook.com/brilhenaestrelabet",
+            "deleteFlag": false,
+            "lastUpdateDate": 1686148721000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 310,
+                "moduleCode": "facebook-url",
+                "moduleName": "Facebook URL",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "facebook-url",
+            "isPrintable": false
+        }
+    ]
+}

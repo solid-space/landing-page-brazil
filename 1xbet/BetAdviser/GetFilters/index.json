@@ -1,0 +1,91 @@
+{
+    "Error": "",
+    "ErrorCode": 0,
+    "Guid": "",
+    "Id": 0,
+    "Success": true,
+    "Value": {
+        "C": [
+            {
+                "ID": 1,
+                "N": "Aposta simples"
+            },
+            {
+                "ID": 2,
+                "N": "Acumulador de 2 eventos"
+            },
+            {
+                "ID": 3,
+                "N": "Acumulador de 3 eventos"
+            },
+            {
+                "ID": 4,
+                "N": "Acumulador de 4 eventos"
+            },
+            {
+                "ID": 5,
+                "N": "Acumulador de 5 eventos"
+            }
+        ],
+        "S": [
+            {
+                "ID": 6,
+                "N": "Vôlei"
+            },
+            {
+                "ID": 4,
+                "N": "Tênis"
+            },
+            {
+                "ID": 10,
+                "N": "Pingue-Pongue"
+            },
+            {
+                "ID": 1,
+                "N": "Futebol"
+            },
+            {
+                "ID": 14,
+                "N": "Futsal "
+            },
+            {
+                "ID": 2,
+                "N": "Hóquei no gelo"
+            },
+            {
+                "ID": 5,
+                "N": "Beisebol"
+            },
+            {
+                "ID": 3,
+                "N": "Basquete"
+            },
+            {
+                "ID": 66,
+                "N": "Críquete"
+            }
+        ],
+        "T": [
+            {
+                "ID": 1,
+                "N": "Apostas no resultado da partida\/período"
+            },
+            {
+                "ID": 2,
+                "N": "Totais"
+            },
+            {
+                "ID": 3,
+                "N": "Totais individuais"
+            },
+            {
+                "ID": 4,
+                "N": "Handicaps"
+            },
+            {
+                "ID": 100,
+                "N": "Outros resultados"
+            }
+        ]
+    }
+}

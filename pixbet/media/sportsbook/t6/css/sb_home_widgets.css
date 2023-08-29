@@ -1,0 +1,620 @@
+.soh_content { margin: 0; }
+
+.soh_content_feat_stats {
+    position: relative;
+    overflow: hidden;
+}
+
+.soh_content_feat_stats .featured_event_stats {
+    padding-top: 0;
+    margin-top: 0;
+    overflow: hidden;
+    min-height: 185px; 
+}
+
+.soh_content_feat_stats .featured_event_stats .sb_sec_title div.league_info { display: inline-block; }
+.soh_content_feat_stats .featured_event_stats .sb_sec_title div.ev_datetime { float: right; }
+
+.soh_content_feat_stats .full .teams_area {
+    float: left;
+    width: 330px;
+}
+
+.soh_content_feat_stats .featured_ev_holder.full .teams_area .team_name { 
+    margin-left: 20px;
+    font-size: 15px;
+    width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.soh_content_feat_stats .full .stats_area { 
+    padding-top: 10px;
+    margin-left: 340px;
+    padding-right: 0; 
+}
+
+.soh_content_feat_stats .stats_area {
+    padding-top: 10px;
+    margin-left: 340px;
+    padding-right: 0;
+}
+
+.soh_content_feat_stats .teams_area {
+    float: left;
+    width: 272px;
+    position: relative;
+    top: 15px;
+}
+
+.soh_content_feat_stats .perc_bg {
+    background-color: #666;
+    background-color: rgba(0,0,0,0.45);
+    border: 0;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 1px 0px rgba(0,0,0,0.25) inset, 0 1px 0 rgba(255,255,255,0.1);
+}
+
+
+.soh_content_feat_stats .sel_perc .perc_width:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent), color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)), color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent), to(transparent) );
+    background-image: -moz-linear-gradient( -45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent );
+    z-index: 1;
+    -webkit-background-size: 20px 20px;
+    -moz-background-size: 20px 20px;
+    background-size: 20px 20px;
+}
+
+.soh_market_movers .single_market_mover_event {
+    width: 100%;
+}
+.soh_market_movers .market_movers_events.cycle-slideshow .cycle-carousel-wrap {right: 0; }
+
+.soh_market_movers .single_market_mover_event .selname { display:block; }
+.soh_market_movers .single_market_mover_event td.selname { display:table-cell; }
+
+.soh_market_movers .ev_sel_odd a,
+.soh_market_movers .ev_sel_odd a:hover,
+.soh_market_movers  .ev_sel_odd a:visited {
+    padding-left: 12px;
+    padding-right: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+.soh_market_movers .ev_sel_odd a:after {
+    background: #fff;
+    opacity: 0.2;
+}
+
+
+.home_center_hdiv { height: 10px; }
+
+
+/*** widgets - upcoming event version3 */
+.t2_home_upcoming_tbl { background-color: #202020;border-spacing: 0; }
+.t2_home_upcoming_tbl tr > td { border-top: 1px solid #000;}
+.t2_home_upcoming_area td.ev_s {
+    width: 30px;
+    text-align: center;
+    height: 30px;
+}
+.t2_home_upcoming_area td.ev_sport {
+    width: 30px;
+    height: 30px;
+}
+.t2_home_upcoming_area .ev_sport span {
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+.t2_home_upcoming_area .ev_datetime { width: 80px; }
+
+.t2_home_upcoming_tbl.t2_home_upcoming_tbl_threeway .competitor_1, 
+.t2_home_upcoming_tbl.t2_home_upcoming_tbl_threeway .competitor_2 {
+    width: 33.3333333%;
+}
+.t2_home_upcoming_tbl.t2_home_upcoming_tbl_twoway .competitor_1,
+.t2_home_upcoming_tbl.t2_home_upcoming_tbl_twoway .competitor_2 {
+    width: 275px;
+}
+.t2_home_upcoming_area .evcount,
+.t2_home_upcoming_area .ev_upcoming_stats {
+    width: 30px;
+    text-align: center;
+    padding-right: 0;
+}
+.t2_home_upcoming_area .ev_upcoming_stats.ev_name_wrp .icons_area {
+    position: relative;
+    margin-left: 5px;
+}
+/*** END: widgets - upcoming event version3 */
+
+.sports_pie_holder {
+    position: relative;
+    display: inline-block;
+    font-size: 0;
+    width: 80px;
+    height: 80px;
+    margin: 0 10px;
+}
+
+.sports_pie_holder .pie {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.sports_pie_holder .pie canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.sports_pie_holder .percent {
+  display: inline-block;
+  line-height: 110px;
+  z-index: 2;
+}
+.sports_pie_holder .percent:after {
+  content: '%';
+  margin-left: 0.1em;
+  font-size: .8em;
+}
+.sports_pie_holder .angular {
+  margin-top: 100px;
+}
+.sports_pie_holder .pie_val {
+    text-align: center;
+    display: block;
+    font-size: 11px;
+    z-index: 3;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin-top: -25%;
+}
+.sports_pie_holder .pie_val .bts_name { font-size: 13px;font-weight: bold;display: block; }
+
+.featured_event_pie_stats {
+    position: relative;
+}
+.featured_event_pie_stats .teams_area {
+    position: absolute;
+    float: none;
+    width: auto;
+    left: 0;
+    right: 0;
+    top: 45px;
+}
+.featured_event_pie_stats .teams_area .ev_team.team1,
+.featured_event_pie_stats .teams_area .ev_team.team2 {
+    position: absolute;
+    top: 0;
+    width: 180px;
+}
+.featured_event_pie_stats .teams_area .ev_team.team1 {
+    left: 0;
+}
+.featured_event_pie_stats .teams_area .ev_team.team2 {
+    right: 0;
+}
+
+.soh_content_feat_stats .featured_event_pie_stats .teams_area .team_name,
+.soh_content_feat_stats .featured_event_pie_stats .teams_area .team_logo {
+    display: block;
+    text-align: center;
+}
+.soh_content_feat_stats .featured_event_pie_stats .teams_area .team_name {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    margin-top: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.soh_content_feat_stats .featured_pie_teams_spacer { height: 110px; }
+.soh_content_feat_stats .featured_event_pie_stats .teams_area img { margin: auto;width:60px;height: 60px; }
+
+.featured_event_pie_stats .stats_area {
+    position: relative;
+    padding: 0 145px;
+    margin: 0;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.featured_pie_odds { padding: 0 20px; }
+.featured_pie_odds table td.competitor_0 { width: 90px; }
+
+.featured_event_pie_stats .event_link {
+    padding-top: 10px;
+}
+
+.soh_content_feat_stats .featured_event_game_bar_stats .stats_area {
+    padding-right: 20px;
+}
+.featured_event_game_bar_stats .ev_team.team1,
+.featured_event_game_bar_stats .ev_team.team2 {
+    padding: 20px 0 0 20px;
+}
+.featured_event_game_bar_stats .stats_area .bts_odd_area .sel_name,
+.featured_event_game_bar_stats .stats_area .bts_odd_area .ev_sel_odd {
+    width: 100%;
+}
+.featured_event_game_bar_stats .stats_area .bts_odd_area .sel_name {
+    padding-right: 0;
+    text-align: center;
+}
+.featured_event_game_bar_stats .ev_team .team_name {
+    font-size: 15px;
+}
+
+#sports_odds .sb_sec_title {
+    font-size: 12px;
+}
+
+/*.com widgets*/
+#sports_container.wide #sports_odds .soh_bnr_win .soh_banner_area, #sports_container.wide #sports_odds .soh_bnr_win .featured_ev_holder {
+    max-width: 800px;
+    width: 70%;
+}
+#sports_container.wide #sports_odds .soh_bnr_win .odds_tr, #sports_container.wide #sports_odds .soh_bnr_win .odds_tr_dyn {
+    padding: 0;
+    display: inline-block;
+}
+#sports_container.wide td.sel_perc {
+    display: block;
+}
+#sports_container.wide .soh_content_feat_stats .perc_bg {
+    height: 50px;
+    position: relative;
+}
+#sports_container.wide .soh_content_feat_stats .sel_perc .perc_width {
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 0;
+}
+#sports_container.wide .featured_event_stats {
+    background-color: #141414;
+    background-image: url(/images/sportsbook/bg_blk_ln.PNG);
+    background-position: 0 0;
+    background-repeat: repeat-x;
+    position: relative;
+    margin: 0 10px;
+}
+#sports_container.wide .featured_event_stats .sb_sec_title div.ev_datetime {
+    float: right;
+}
+#sports_container.wide .featured_event_stats .sb_sec_title div.league_info {
+    display: inline-block;
+}
+#sports_container.wide .featured_event_stats  .teams_area {
+    position: relative;
+    top: 10px;
+    width: 100%;
+    padding: 0 10%;
+    box-sizing: border-box;
+    text-align: center;
+}
+#sports_container.wide .featured_event_stats  .teams_area .ev_team.team1{
+    float: left;
+}
+#sports_container.wide .featured_event_stats  .teams_area .ev_team.team2{
+    float: right;
+}
+#sports_container.wide .featured_event_stats  .stats_area table {
+    margin: 0 auto;
+    top: 10px;
+}
+#sports_container.wide .featured_event_stats .widget_cont_area {
+    position: relative;
+    text-align: center;
+    padding: 20px 0;
+}
+#sports_container.wide .ev_team, #sports_container.wide .stats_area {display: inline-block; vertical-align: top;}
+#sports_container.wide .stats_area {padding: 20px 0;}
+#sports_container.wide .event_link {
+    padding: 0 20px 20px;
+    text-align: right;
+    font-size: 18px;
+    text-transform: uppercase;
+    display: block;
+    position: relative;
+}
+#sports_container.wide .event_link a {
+    text-decoration: none;
+}
+#sports_container.wide .featured_event_stats .sel_perc {
+    padding: 0px 35px;
+    position: relative;
+}
+#sports_container.wide .featured_event_stats .ev_sel_odd {
+    padding: 0 35px;
+}
+#sports_container.wide .featured_event_stats  .perc_bg {
+    background-color: #666;
+    background-color: rgba(0,0,0,0.45);
+    border: 0;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 1px 0px rgba(0,0,0,0.25) inset, 0 1px 0 rgba(255,255,255,0.1);
+    height: 80px;
+    width: 40px;
+    position: relative;
+}
+#sports_container.wide .sel_perc_val {
+    position: absolute;
+    bottom: 25px;
+    right: -5px;
+    font-size: 20px;
+    padding: 3px;
+    background: rgba(255,255,255,0.3);
+    color: #000;
+    z-index: 99;
+}
+#sports_container.wide .featured_event_stats .sel_name {
+    font-size: 16px;
+    padding: 10px;
+}
+#sports_container.wide .featured_event_stats .sel_perc .perc_width {
+    width: 40px;
+    background-color: #CCC;
+    position: relative;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+}
+#sports_container.wide .featured_event_stats .prc_min .sel_perc .perc_width {
+    background-color: rgba(246, 123, 17, 0.5);
+}
+#sports_container.wide .featured_event_stats .prc_mid .sel_perc .perc_width {
+    background-color: rgba(246, 123, 17, 0.8);
+}
+#sports_container.wide .featured_event_stats .prc_max .sel_perc .perc_width {
+    background-color: rgba(246, 123, 17, 1);
+}
+#sports_container.wide .featured_event_stats .sel_perc .perc_width:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background-color: rgba(255,255,255,0.1);
+    content: " ";
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+#sports_container.wide .sel_perc .perc_width:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent), color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)), color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent), to(transparent) );
+    background-image: -moz-linear-gradient( -45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent );
+    z-index: 1;
+    -webkit-background-size: 20px 20px;
+    -moz-background-size: 20px 20px;
+    background-size: 20px 20px;
+}
+#sports_container.wide .featured_event_stats .team_name {
+    font-size: 18px;
+    padding: 5px;
+}
+@media screen and (min-width: 1200px) {
+    #sports_container.wide .ev_team, #sports_container.wide .stats_area {
+        width: 33%;
+        box-sizing: border-box;
+    }
+}
+
+.slive_current_live_events .sb_sec_title .icon {
+    display: inline-block;
+    margin-right: 7px;
+}
+.slive_current_live_events .sb_sec_title .icon.icon-sec:before {
+    content: "\f080";
+}
+
+
+/******************/
+
+
+.slive_current_live_events .ev_liveinfo .live_event_time .ev_mt_min { display: none; }
+.slive_current_live_events .ev_liveinfo .live_event_ts_div { display: inline-block;padding: 0 4px; }
+.slive_current_live_events .ev_liveinfo .live_event_ts_div {
+    font-size: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    display: inline-block;
+    color: rgba(255,255,255,0.75);
+}
+.slive_current_live_events .ev_liveinfo .live_event_ts_div:after {
+    content: "\f017";
+    font-family: "FontAwesome";
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score {
+    line-height: 30px;
+    vertical-align: middle;
+    text-align: center;
+    padding-left: 65px;
+    position: relative;
+}
+
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .ml_event_score,
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .event_time_holder { display: inline-block;vertical-align: middle; }
+
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .ml_event_score {
+    width: 61px;
+    background-color: rgba(0,0,0,0.65);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .ml_event_score {
+    font-size: 0;
+    vertical-align: middle;
+}
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .ml_event_score .ev_m_score {
+    width: 30px;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+}
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .ml_event_score .ev_m_score_div {
+    font-size: 0;
+    height: 100%;
+    width: 1px;
+    overflow: hidden;
+    background-color: rgba(255,255,255,0.1);
+    display: inline-block;
+    vertical-align: middle;
+}
+.slive_current_live_events .ev_liveinfo .ev_list_area_time_score .event_time_holder {
+    margin-left: 1px;
+}
+
+.slive_current_live_events .ev_liveinfo {
+    padding-left: 3px;
+    text-align: center;
+    width: 165px;
+    background-color: rgba(255,255,255,0.01);
+    white-space: nowrap;
+}
+
+.br_status {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    color: rgba(255,255,255,0.75);
+}
+.br_status_pause:after {
+    content: "\f04c";
+    font-family: "FontAwesome";
+    font-size: 12px;
+}
+.br_status_in_prog:after {
+    content: "\f04b";
+    font-family: "FontAwesome";
+    font-size: 12px;
+}
+
+
+
+.featured_leagues_list { padding-top: 5px; }
+
+.featured_league_link a,
+.featured_league_link a:hover,
+.featured_league_link a:visited {
+    display: block;
+    position: relative;
+    padding-left: 55px;
+    height: 50px;
+    text-decoration: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding-top: 10px;
+    background: rgba(49,49,49,1);
+    background: -moz-linear-gradient(top, rgba(49,49,49,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(49,49,49,1)), color-stop(89%, rgba(20,20,20,1)), color-stop(100%, rgba(20,20,20,1)));
+    background: -webkit-linear-gradient(top, rgba(49,49,49,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -o-linear-gradient(top, rgba(49,49,49,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -ms-linear-gradient(top, rgba(49,49,49,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: linear-gradient(to bottom, rgba(49,49,49,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#313131', endColorstr='#141414', GradientType=0 );
+    border: 0 solid #444;
+    border-top-width: 1px;
+    border-bottom: 1px solid #101010;
+    overflow: hidden;
+    color: #fff;
+    margin: 0 5px 5px 5px;
+}
+.featured_league_link a:hover {
+    background: rgba(35,35,35,1);/*
+    background: -moz-linear-gradient(top, rgba(97,97,97,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(97,97,97,1)), color-stop(89%, rgba(20,20,20,1)), color-stop(100%, rgba(20,20,20,1)));
+    background: -webkit-linear-gradient(top, rgba(97,97,97,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -o-linear-gradient(top, rgba(97,97,97,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: -ms-linear-gradient(top, rgba(97,97,97,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    background: linear-gradient(to bottom, rgba(97,97,97,1) 0%, rgba(20,20,20,1) 89%, rgba(20,20,20,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#313131', endColorstr='#141414', GradientType=0 );*/
+}
+.featured_league_link span.img_opt {
+    display: block;
+    width: 40px;
+    height: 40px;
+    left: 5px;
+    top: 5px;
+    position: absolute;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.featured_league_link span.sport_name {
+    display: block;
+    font-size: 10px;
+    line-height: 14px;
+}
+.featured_league_link span.league_name {
+    display: block;
+    font-size: 12px;
+    line-height: 20px;
+}
+.toggle_popular_leagues {
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(/media/sportsbook/t1/images/sport_icons/sports_menu_icon.svg?v=1);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 65%;
+    padding: 0px 4px;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 16px;
+    height: 22px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.toggle_popular_leagues a {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/*Upcoming events side widget*/                                
+.upcoming_events_side .single_event_result .bet_type_result {margin-left: 0;}
+
+.upcoming_events_side .team_names .league_ev_dt {
+    color: #ccc;
+    font-weight: normal;
+}

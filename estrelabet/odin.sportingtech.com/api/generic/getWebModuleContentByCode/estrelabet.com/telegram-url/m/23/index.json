@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11364,
+            "webModuleId": 2634,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://t.me/estrelabetoficial",
+            "deleteFlag": false,
+            "lastUpdateDate": 1645112971000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 2634,
+                "moduleCode": "telegram-url",
+                "moduleName": "Telegram Url",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "telegram-url",
+            "isPrintable": false
+        }
+    ]
+}

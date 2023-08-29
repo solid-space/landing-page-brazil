@@ -1,0 +1,522 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "parameter": "BetradarMatchTracker",
+            "parameterDescription": "Betradar Maç Traker Adresi",
+            "value": "//cs-cdn001.akamaized.net/ls/widgets/?/sportingtech/<LANGUAGE>/<TIMEZONE>/widgetloader/widgets"
+        },
+        {
+            "parameter": "BetradarMatchTrackerV3",
+            "parameterDescription": "BetradarMatchTrackerV3",
+            "value": "https://ws-cdn001.akamaized.net/<CLIENTID>/widgetloader"
+        },
+        {
+            "parameter": "alert-service-delay-time-condition",
+            "parameterDescription": "Alert delay time bigger than ",
+            "value": "20000"
+        },
+        {
+            "parameter": "alert-service-last-activity-time-condition",
+            "parameterDescription": "Alert last activity time bigger than/equal to ",
+            "value": "60000"
+        },
+        {
+            "parameter": "aviator-game-id",
+            "parameterDescription": "Aviator Game Id",
+            "value": "7787"
+        },
+        {
+            "parameter": "aviator-prod-id",
+            "parameterDescription": "Aviator Prod ID",
+            "value": "7787"
+        },
+        {
+            "parameter": "aviator-sl-id",
+            "parameterDescription": "Aviator Sl ID",
+            "value": "12901"
+        },
+        {
+            "parameter": "balloon-game-id",
+            "parameterDescription": "Balloon Game Id",
+            "value": "13475"
+        },
+        {
+            "parameter": "balloon-machine-d-game-id",
+            "parameterDescription": "The Incredible Balloon Machine Desktop Game Id",
+            "value": "7302"
+        },
+        {
+            "parameter": "balloon-machine-m-game-id",
+            "parameterDescription": "The Incredible Balloon Machine Mobile Game Id",
+            "value": "7303"
+        },
+        {
+            "parameter": "betbuilder-enabled",
+            "parameterDescription": "Betbuilder Enabled (0-1)",
+            "value": "1"
+        },
+        {
+            "parameter": "betgenius-partner-id",
+            "parameterDescription": "Betgenius Partner Account Id",
+            "value": "1"
+        },
+        {
+            "parameter": "betongames-vendor-id",
+            "parameterDescription": "Beton Games Vendor Id",
+            "value": "4"
+        },
+        {
+            "parameter": "betradar-livescore-url",
+            "parameterDescription": "Betradar Livescore servisi URL",
+            "value": "1"
+        },
+        {
+            "parameter": "betradar-partner-id",
+            "parameterDescription": "Betradar Partner Account Id",
+            "value": "1"
+        },
+        {
+            "parameter": "betradar-statics-url",
+            "parameterDescription": "Betradar Statics servisi URL",
+            "value": "1"
+        },
+        {
+            "parameter": "betradar-virtual-basketball",
+            "parameterDescription": "Virtual Basketball Statisctics URL",
+            "value": "http://vfl3.betradar.com/s4/?clientid=3510&language="
+        },
+        {
+            "parameter": "betradar-virtual-football",
+            "parameterDescription": "Virtual Football Statisctics URL",
+            "value": "http://vfl3.betradar.com/s4/?clientid=903&language="
+        },
+        {
+            "parameter": "betradar-virtual-tennis",
+            "parameterDescription": "Virtual Tennis Statisctics URL",
+            "value": "http://vfl3.betradar.com/s4/?clientid=790&language="
+        },
+        {
+            "parameter": "bonus-activation-limit",
+            "parameterDescription": "Number indicating time limit, before which the user can activate bonus, given in hours.",
+            "value": "36"
+        },
+        {
+            "parameter": "bragi-url",
+            "parameterDescription": "Bragi URL",
+            "value": "http://bragi.sportingtech.com/"
+        },
+        {
+            "parameter": "bragi-ws-mobile-url",
+            "parameterDescription": "Bragi Mobile Websocket URL",
+            "value": "http://bragi-ws.sportingtech.com"
+        },
+        {
+            "parameter": "bragi-ws-url",
+            "parameterDescription": "Bragi Websocket URL",
+            "value": "http://bragi-ws.sportingtech.com/websocket"
+        },
+        {
+            "parameter": "cappadocia-game-id",
+            "parameterDescription": "Cappadocia Game Id",
+            "value": "13470"
+        },
+        {
+            "parameter": "cashorcrash-game-id",
+            "parameterDescription": "Cash or Crash Game Id",
+            "value": "15909"
+        },
+        {
+            "parameter": "cdn-url",
+            "parameterDescription": "Cdn Url",
+            "value": "http://static.sportingtech.com/"
+        },
+        {
+            "parameter": "esa-partner-id",
+            "parameterDescription": "ESA Gaming vendor partner id",
+            "value": "sportingtech"
+        },
+        {
+            "parameter": "fe-client-version",
+            "parameterDescription": "FE Client Version",
+            "value": "0"
+        },
+        {
+            "parameter": "fieldbook-ws-url",
+            "parameterDescription": "TA Fieldbook(liability-ws) Page websocket url",
+            "value": "wss://fieldbook.sportingtech.com/full"
+        },
+        {
+            "parameter": "fugaso-jackpot-banner-feed-url",
+            "parameterDescription": "Fugaso jackpot banner feed url",
+            "value": "https://gs.fugaso.com/dashboard-admin/jackpot/list?userId=20"
+        },
+        {
+            "parameter": "goalmine-game-id",
+            "parameterDescription": "Goal Mine Game ID",
+            "value": "10128"
+        },
+        {
+            "parameter": "helio-vendor-id",
+            "parameterDescription": "Helio Vendor Id",
+            "value": "109"
+        },
+        {
+            "parameter": "high-striker-game-id",
+            "parameterDescription": "High Striker Game Id",
+            "value": "6291"
+        },
+        {
+            "parameter": "iframe-virtual-basketball",
+            "parameterDescription": "Virtual Basketball Iframe Link",
+            "value": "/vbl/vbl/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "iframe-virtual-dog",
+            "parameterDescription": "Virtual Dog Iframe Link",
+            "value": "/vdk/vdk/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "iframe-virtual-eurocup",
+            "parameterDescription": "Virtual Eurocup Iframe Link",
+            "value": "/vfec/vfec/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "iframe-virtual-football",
+            "parameterDescription": "Virtual Football Iframe Link",
+            "value": "/vfl/vleague.php?clientid=3510&lang="
+        },
+        {
+            "parameter": "iframe-virtual-horse",
+            "parameterDescription": "Virtual Horse Iframe Link",
+            "value": "/vhk/vhk/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "iframe-virtual-tennis",
+            "parameterDescription": "Virtual Tennis Iframe Link",
+            "value": "/vti/vti/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "is-casino-api-open",
+            "parameterDescription": "Casino Api nin açık olup olmadığı",
+            "value": "1"
+        },
+        {
+            "parameter": "is-iframe-bet-open",
+            "parameterDescription": "is-iframe-bet-open",
+            "value": "1"
+        },
+        {
+            "parameter": "is-iframe-bet-open-betmakers",
+            "parameterDescription": "is-iframe-betmakers-bet-open",
+            "value": "1"
+        },
+        {
+            "parameter": "is-iframe-bet-open-goldenrace",
+            "parameterDescription": "is-iframe-goldenrace-bet-open",
+            "value": "1"
+        },
+        {
+            "parameter": "is-iframe-bet-open-ultraplay",
+            "parameterDescription": "is-iframe-ultraplay-bet-open",
+            "value": "1"
+        },
+        {
+            "parameter": "jetx-game-id",
+            "parameterDescription": "Jet-X Game Id",
+            "value": "13477"
+        },
+        {
+            "parameter": "kilic-prod-id",
+            "parameterDescription": "Kilic Prod ID",
+            "value": "4466"
+        },
+        {
+            "parameter": "kilic-sl-id",
+            "parameterDescription": "Kilic Sl ID",
+            "value": "9106"
+        },
+        {
+            "parameter": "live-bet-open",
+            "parameterDescription": "Is live betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "login-sms-token-timeout",
+            "parameterDescription": "login-sms-token-timeout",
+            "value": "180000"
+        },
+        {
+            "parameter": "max-different-number-of-events-in-system-coupon",
+            "parameterDescription": "Max different number of events in a system coupon",
+            "value": "18"
+        },
+        {
+            "parameter": "max-number-of-events-in-coupon",
+            "parameterDescription": "Max number of events in a combined coupon",
+            "value": "18"
+        },
+        {
+            "parameter": "minPlayAmount",
+            "parameterDescription": "Minimum play amount",
+            "value": "0.10"
+        },
+        {
+            "parameter": "mobile-virtual-sports",
+            "parameterDescription": "Mobile Virtual Sports URL",
+            "value": "https://vsw.betradar.com/ls/mobile/?/sportingtech/"
+        },
+        {
+            "parameter": "money-flow-priority-enabled",
+            "parameterDescription": "Money flow priority feature flag",
+            "value": "1"
+        },
+        {
+            "parameter": "newmessage-notification-interval",
+            "parameterDescription": "New message notification interval in seconds",
+            "value": "60"
+        },
+        {
+            "parameter": "over-under-prod-id",
+            "parameterDescription": "Over Under Prod ID",
+            "value": "3975"
+        },
+        {
+            "parameter": "over-under-sl-id",
+            "parameterDescription": "Over Under Sl ID",
+            "value": "8302"
+        },
+        {
+            "parameter": "password-is-digit-default",
+            "parameterDescription": "Default setting to specify if password need to contains digit (0-false, 1-true)",
+            "value": "1"
+        },
+        {
+            "parameter": "password-is-lower-case-default",
+            "parameterDescription": "Default setting to specify if password need to contains lower case char (0-false, 1-true)",
+            "value": "1"
+        },
+        {
+            "parameter": "password-is-only-digit-default",
+            "parameterDescription": "Default setting to specify if password contains only digits (0-false, 1-true)",
+            "value": "0"
+        },
+        {
+            "parameter": "password-is-upper-case-default",
+            "parameterDescription": "Default setting to specify if password need to contains upper case char (0-false, 1-true)",
+            "value": "1"
+        },
+        {
+            "parameter": "password-length-default",
+            "parameterDescription": "Default password length requirement value",
+            "value": "8"
+        },
+        {
+            "parameter": "platform-version",
+            "parameterDescription": "Platform Version",
+            "value": "1.0.0"
+        },
+        {
+            "parameter": "pre-live-bet-open",
+            "parameterDescription": "Is prelive betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "ps-update-period",
+            "parameterDescription": "Register SMS Check Timeout",
+            "value": "5"
+        },
+        {
+            "parameter": "regcheck-sms-timeout",
+            "parameterDescription": "Register SMS Check Timeout",
+            "value": "240000"
+        },
+        {
+            "parameter": "sharing-platform-url-facebook",
+            "parameterDescription": "Facebook sharing url",
+            "value": "https://www.facebook.com/sharer/sharer.php?u=<trader_domain>/bookabet/<booking_code>&quote=<booking_info>"
+        },
+        {
+            "parameter": "sharing-platform-url-mail",
+            "parameterDescription": "Mail sharing url",
+            "value": "mailto:?subject=<booking_info>&body=<trader_domain>/bookabet/<booking_code>"
+        },
+        {
+            "parameter": "sharing-platform-url-twitter",
+            "parameterDescription": "Twitter sharing url",
+            "value": "https://twitter.com/intent/tweet?url=<trader_domain>/bookabet/<booking_code>&text=<booking_info>"
+        },
+        {
+            "parameter": "sharing-platform-url-whatsapp",
+            "parameterDescription": "Whatsapp sharing url",
+            "value": "https://api.whatsapp.com/send?text=<booking_info>"
+        },
+        {
+            "parameter": "spinx-game-id",
+            "parameterDescription": "Spinx Game ID",
+            "value": "15686"
+        },
+        {
+            "parameter": "statscore-livescore-url",
+            "parameterDescription": "Statscore live score URL (for live events).",
+            "value": "https://live.statscore.com/livescorepro/generator"
+        },
+        {
+            "parameter": "statscore-match-tracker",
+            "parameterDescription": "Statscore Match Tracker URL.",
+            "value": "https://wgt-s3-cdn.statscore.com/bundle/Embeder.js"
+        },
+        {
+            "parameter": "statscore-prematch-url",
+            "parameterDescription": "Statscore prematch statistics URL (for prelive events).",
+            "value": "https://prematch.statscore.com/prematchcenter/generator"
+        },
+        {
+            "parameter": "statscore-scoreframe-url",
+            "parameterDescription": "Statscore Scoreframe URL",
+            "value": "https://sportingtech.scoreframe.statscore.com/"
+        },
+        {
+            "parameter": "ta-bragi-ws-url-for-score",
+            "parameterDescription": "TA sample Bragi websocket url for getting score",
+            "value": "wss://bragi-ws.sportingtech.com/fixture/betzest.com/"
+        },
+        {
+            "parameter": "tombala-api-key",
+            "parameterDescription": "Tombala Api Key",
+            "value": "eyJhbGciOiJIUzI1NiJ9.eyJhcGlLZXkiOiJDUW9NRm9PdiIsImV4cCI6MTYxNDYwMzYwMCwiaWF0IjoxNTgzMDY3NjAwLCJ1c2VyIjp7Imd1ZXN0Ijp0cnVlfSwianRpIjoiamFja3BvdC13aWRnZXQifQ.qvUPoao7TJS_scEHwyIqweuNUPMrmV-19YupGK_fW7c"
+        },
+        {
+            "parameter": "tombala-game-dev-id",
+            "parameterDescription": "Tombala Game Dev ID",
+            "value": "1993"
+        },
+        {
+            "parameter": "tombala-game-id",
+            "parameterDescription": "Tombala Game ID",
+            "value": "1196"
+        },
+        {
+            "parameter": "tombala-game-prod-id",
+            "parameterDescription": "Tombala Game Prod ID",
+            "value": "1196"
+        },
+        {
+            "parameter": "tombala-prod-id",
+            "parameterDescription": "Tombala Prod ID",
+            "value": "1196"
+        },
+        {
+            "parameter": "tombala-sl-id",
+            "parameterDescription": "Tombala Sl ID",
+            "value": "1993"
+        },
+        {
+            "parameter": "tombala-slot-prod-id",
+            "parameterDescription": "Tombala Prod Sl ID",
+            "value": "4467"
+        },
+        {
+            "parameter": "tombala-slot-sl-id",
+            "parameterDescription": "Tombala Slot Sl ID",
+            "value": "9105"
+        },
+        {
+            "parameter": "update-expired-date-announcements-to-passive-period",
+            "parameterDescription": "Update expired date announcements to passive period",
+            "value": "3600"
+        },
+        {
+            "parameter": "virtual-basketball-bet-open",
+            "parameterDescription": "Is virtual basketball betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-bet-open",
+            "parameterDescription": "Is virtual betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-dog-bet-open",
+            "parameterDescription": "Is virtual dog racing betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-eurocup-bet-open",
+            "parameterDescription": "Is virtual euro cup betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-football-asian-cup",
+            "parameterDescription": "Virtaul Football Asian Cup Iframe Link",
+            "value": "/vfas/desktop/index?clientid=4552&layout=Vfas1&lang="
+        },
+        {
+            "parameter": "virtual-football-bet-open",
+            "parameterDescription": "Is virtual football betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-football-bundesliga",
+            "parameterDescription": "Virtual Football Bundesliga (VFB Desktop) Iframe Link",
+            "value": "/vfstaging.aitcloud.de/vfbstaging/desktop/index?clientid=4915&lang=en&layout=Vfb1"
+        },
+        {
+            "parameter": "virtual-football-bundesliga-mobile",
+            "parameterDescription": "Virtual Football Bundesliga (VFB Mobile) Iframe Link",
+            "value": "/vswstaging.betradar.com/ls/mobile/?/universalss2/en/page/vsmobile_demo"
+        },
+        {
+            "parameter": "virtual-football-champions-cup",
+            "parameterDescription": "Virtaul Football Champions Cup Iframe Link",
+            "value": "/vfcc/desktop/index?clientid=4552&layout=Vfcc1&lang="
+        },
+        {
+            "parameter": "virtual-football-league-mode",
+            "parameterDescription": "Virtual Football League Mode",
+            "value": "/vflm/vflm/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "virtual-football-league-mode-open",
+            "parameterDescription": "Is virtual football league mode betting open ?",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-football-nation-cup",
+            "parameterDescription": "Virtual Football Nation Cup",
+            "value": "/vfnc/vfnc/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "virtual-football-nation-cup-open",
+            "parameterDescription": "Is virtual football nation cup betting open ?",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-football-world-cup",
+            "parameterDescription": "Virtual Football World Cup",
+            "value": "/vfwc/vfwc/index?clientid=4552&lang={lang}"
+        },
+        {
+            "parameter": "virtual-football-world-cup-open",
+            "parameterDescription": "Is virtual football world cup betting open ?",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-horse-bet-open",
+            "parameterDescription": "Is virtual horce racing betting open",
+            "value": "1"
+        },
+        {
+            "parameter": "virtual-tennis-bet-open",
+            "parameterDescription": "Is virtual tennis betting open",
+            "value": "1"
+        }
+    ]
+}

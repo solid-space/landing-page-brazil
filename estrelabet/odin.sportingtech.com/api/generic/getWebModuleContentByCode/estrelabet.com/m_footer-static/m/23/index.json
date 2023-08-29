@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11427,
+            "webModuleId": 135,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "Este site é operado por Stars Investments N.V., registrada em Curaçao sob o nº 158499, com endereço em Zuikertuintjeweg Z/N (Zuikertuin Tower), Curaçao, autorizada pelo Governo Geral de Curaçao através da Antillephone N.V. sob a licença especial para gambling nº 8048-JAZ2022-010 que opera esse site.<br><br>Para fins de processamento de pagamentos via Paysafe Group, incluindo, mas não limitado a Neteller e Skrill, a entidade de processamento de transações será Stars Investments NV, registrada em Curaçao sob o número 158499, com endereço em Zuikertuintjeweg Z/N (Zuikertuin Tower), Curaçao.\r\n<style>body.page-signup .register-info{display: none;}</style>",
+            "deleteFlag": false,
+            "lastUpdateDate": 1671568537000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 135,
+                "moduleCode": "m_footer-static",
+                "moduleName": "Mobile Footer Static",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "m_footer-static",
+            "isPrintable": false
+        }
+    ]
+}

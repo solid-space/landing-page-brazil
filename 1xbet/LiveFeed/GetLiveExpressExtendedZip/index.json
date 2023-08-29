@@ -1,0 +1,133 @@
+{
+    "Error": "",
+    "ErrorCode": 0,
+    "Guid": "",
+    "Id": 0,
+    "Success": true,
+    "Value": {
+        "C": "5.902",
+        "E": [
+            {
+                "CF": 1.69,
+                "CP": 2,
+                "EG": 2,
+                "EI": 7105,
+                "GS": 3,
+                "GT": "",
+                "GV": "",
+                "ID": 472574925,
+                "L": "Campeonato da Argentina. Feminino",
+                "LE": "Argentina Championship. Women",
+                "LI": 220557,
+                "MN": "Handicap 1 (-1)",
+                "N": 18172,
+                "O1": "CA Independiente (Women)",
+                "O1E": "CA Independiente (Women)",
+                "O1I": 376193,
+                "O1IMG": [
+                    "e1f604b9ba6ff594b99a6a328372dcc7.png"
+                ],
+                "O2": "Social Atletico Television (Women)",
+                "O2E": "Social Atletico Television (Women)",
+                "O2I": 3006001,
+                "O2IMG": [
+                    "1a68e53fa1c5b072f25d191461034def.png"
+                ],
+                "P": -1,
+                "PS": "",
+                "S": 1,
+                "S1": 1,
+                "SE": "Football",
+                "SN": "Futebol",
+                "ST": 1693245600,
+                "T": 7,
+                "TD": true,
+                "TS": 4113,
+                "VE": ""
+            },
+            {
+                "CF": 1.936,
+                "CP": 2,
+                "EG": 2,
+                "EI": 7105,
+                "GS": 3,
+                "GT": "",
+                "GV": "",
+                "ID": 472576836,
+                "L": "Brasil. Campeonato Alagoano Sub-20",
+                "LE": "Brazil. Campeonato Alagoano U20",
+                "LI": 1949844,
+                "MN": "Handicap 1 (1)",
+                "N": 77074,
+                "O1": "Ubertec U20",
+                "O1E": "Ubertec U20",
+                "O1I": 7812525,
+                "O1IMG": [
+                    "a2d3c307f8c6fbc557c3092db09ffb5c.png"
+                ],
+                "O2": "Santa Cruz Alagoas U20",
+                "O2E": "Santa Cruz Alagoas U20",
+                "O2I": 1199525,
+                "O2IMG": [
+                    "1199525.png"
+                ],
+                "P": 1,
+                "PS": "",
+                "S": 1,
+                "S2": 1,
+                "SE": "Football",
+                "SN": "Futebol",
+                "ST": 1693245600,
+                "T": 7,
+                "TD": true,
+                "TS": 4675,
+                "VE": ""
+            },
+            {
+                "CF": 1.64,
+                "CP": 2,
+                "EG": 2,
+                "EI": 7105,
+                "GS": 3,
+                "GT": "",
+                "GV": "",
+                "ID": 472578867,
+                "L": "Campeonato do Brasil Sub-20",
+                "LE": "Brazil Championship U20",
+                "LI": 59787,
+                "MN": "Handicap 2 (1)",
+                "N": 11319,
+                "O1": "Londrina U20",
+                "O1E": "Londrina U20",
+                "O1I": 524719,
+                "O1IMG": [
+                    "524719.png"
+                ],
+                "O2": "Coritiba U20",
+                "O2E": "Coritiba U20",
+                "O2I": 98825,
+                "O2IMG": [
+                    "98825.png"
+                ],
+                "P": 1,
+                "PS": "",
+                "S": 1,
+                "S1": 1,
+                "SE": "Football",
+                "SN": "Futebol",
+                "ST": 1693246500,
+                "T": 8,
+                "TD": true,
+                "TS": 3191,
+                "VE": ""
+            },
+            {
+                "CF": 1.1,
+                "EI": 7105,
+                "ID": 384962132,
+                "T": 707
+            }
+        ],
+        "T": 5
+    }
+}

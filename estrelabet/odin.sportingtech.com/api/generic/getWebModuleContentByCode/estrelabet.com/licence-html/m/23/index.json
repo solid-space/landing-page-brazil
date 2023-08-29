@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11361,
+            "webModuleId": 570,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "<div id=\"apg-ee3da582-eb33-405d-ac34-c75167511b48\" data-apg-seal-id=\"ee3da582-eb33-405d-ac34-c75167511b48\" data-apg-image-size=\"256\" data-apg-image-type=\"basic-light-large\"></div>",
+            "deleteFlag": false,
+            "lastUpdateDate": 1645084295000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 570,
+                "moduleCode": "licence-html",
+                "moduleName": "Lisans HTML",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "licence-html",
+            "isPrintable": false
+        }
+    ]
+}

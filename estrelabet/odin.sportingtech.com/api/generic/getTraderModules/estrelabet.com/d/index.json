@@ -1,0 +1,317 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "moduleId": 1,
+            "moduleName": "Top List",
+            "isActive": true,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "top-list",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [
+                {
+                    "moduleDataId": 12604,
+                    "moduleId": 1,
+                    "leagueId": 956685,
+                    "betTypeId": 0,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 1,
+                    "hasImage": false
+                },
+                {
+                    "moduleDataId": 27873,
+                    "moduleId": 1,
+                    "leagueId": 948948,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 1,
+                    "device": "m,d,t",
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 12607,
+                    "moduleId": 1,
+                    "leagueId": 954679,
+                    "betTypeId": 0,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 5,
+                    "hasImage": false
+                },
+                {
+                    "moduleDataId": 27872,
+                    "moduleId": 1,
+                    "leagueId": 949006,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 5,
+                    "device": "m,d,t",
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 24636,
+                    "moduleId": 1,
+                    "leagueId": 948988,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 10,
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 24637,
+                    "moduleId": 1,
+                    "leagueId": 948942,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 15
+                },
+                {
+                    "moduleDataId": 26098,
+                    "moduleId": 1,
+                    "leagueId": 950472,
+                    "traderId": 536,
+                    "active": true,
+                    "device": "m,d,t",
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 28956,
+                    "moduleId": 1,
+                    "leagueId": 949012,
+                    "traderId": 536,
+                    "active": true,
+                    "device": "m,d,t",
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 28959,
+                    "moduleId": 1,
+                    "leagueId": 950930,
+                    "traderId": 536,
+                    "active": true,
+                    "device": "m,d,t",
+                    "isScheduled": false
+                },
+                {
+                    "moduleDataId": 28957,
+                    "moduleId": 1,
+                    "leagueId": 949040,
+                    "traderId": 536,
+                    "active": true,
+                    "device": "m,d,t"
+                }
+            ],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 3,
+            "moduleName": "Today Matches",
+            "isActive": true,
+            "orderBy": 40,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "today-matches",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 4,
+            "moduleName": "Upcoming Matches",
+            "isActive": true,
+            "orderBy": 30,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "upcoming-matches",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 7,
+            "moduleName": "Ante Post Matches",
+            "isActive": true,
+            "orderBy": 200,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "ante-post-matches",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [
+                {
+                    "moduleDataId": 24643,
+                    "moduleId": 7,
+                    "fixtureId": 44620389,
+                    "traderId": 536,
+                    "active": true,
+                    "isScheduled": false
+                }
+            ],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 8,
+            "moduleName": "Card",
+            "isActive": false,
+            "orderBy": 100,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "card",
+            "manual": false,
+            "whichSide": "Right",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 9,
+            "moduleName": "League Card",
+            "isActive": true,
+            "orderBy": 115,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "league-card",
+            "manual": false,
+            "whichSide": "Right",
+            "moduleData": [
+                {
+                    "moduleDataId": 25049,
+                    "moduleId": 9,
+                    "leagueId": 774091,
+                    "betTypeId": 0,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 5,
+                    "hasImage": true
+                },
+                {
+                    "moduleDataId": 24688,
+                    "moduleId": 9,
+                    "leagueId": 771220,
+                    "betTypeId": 0,
+                    "traderId": 536,
+                    "active": true,
+                    "orderBy": 10,
+                    "hasImage": true,
+                    "isScheduled": false
+                }
+            ],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 11,
+            "moduleName": "Detail Card",
+            "isActive": false,
+            "orderBy": 105,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "detail-card",
+            "manual": false,
+            "whichSide": "Right",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 14,
+            "moduleName": "Ante Post Events",
+            "isActive": true,
+            "orderBy": 205,
+            "isShowHomePage": true,
+            "isShowLandingPage": true,
+            "moduleCode": "ante-post-events",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": true
+        },
+        {
+            "moduleId": 16,
+            "moduleName": "Live at Now",
+            "isActive": true,
+            "orderBy": 1,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "live-at-now",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 20,
+            "moduleName": "Popular Casino Games",
+            "isActive": true,
+            "orderBy": 25,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "pop-casino-games",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 26,
+            "moduleName": "Popular Live Casino Games",
+            "isActive": true,
+            "orderBy": 210,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "pop-live-casino-games",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 34,
+            "moduleName": "Popular Odds",
+            "isActive": true,
+            "orderBy": 110,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "popular-odds",
+            "manual": false,
+            "whichSide": "UnderCoupon",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        },
+        {
+            "moduleId": 36,
+            "moduleName": "Popular Events Card",
+            "isActive": true,
+            "orderBy": 10,
+            "isShowHomePage": true,
+            "isShowLandingPage": false,
+            "moduleCode": "popular-events-card",
+            "manual": false,
+            "whichSide": "Left",
+            "moduleData": [],
+            "showHomePage": true,
+            "showLandingPage": false
+        }
+    ]
+}

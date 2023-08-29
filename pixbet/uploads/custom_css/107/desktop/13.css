@@ -1,0 +1,64 @@
+.button_top a {
+	background: #a6e82c url(https://pixbet.com/uploads/files/seta-cima-png-61262eab2b6bf.png) center no-repeat !important;
+	background-size: 20px !important;
+	color: #0d3a5e;
+	text-indent: -10000000px !important;
+	height: 50px !important;
+    transition: 0.4s;
+}
+.button_top a:hover {
+	background: #2c8de8 url(https://pixbet.com/uploads/files/seta-cima-branca-png-61266ca51b03b.png) center no-repeat !important;
+    background-size: 20px !important;
+	text-indent: -10000000px !important;
+	height: 50px !important;
+}
+#fe_footer .made_by_brazil .inner{
+    border-top: 1px solid #072f4d;
+}
+.made_by_brazil img {
+	margin: 0 auto;
+	width: 45px;
+}
+
+.bottom_footer .copyright {
+    color: #fff;
+}
+.reg_login_btn_area .login_btn{
+    font-size: 14px;
+    text-transform: capitalize;
+    transition: 0.4s;
+}
+.reg_login_btn_area .login_btn:hover{
+    background: #1098ff;
+    color: #fff;
+    
+}
+.reg_login_btn_area .reg_btn{
+	transition: 0.4s;
+}
+.reg_login_btn_area .reg_btn:hover{
+	background: #1098ff;
+    color: #fff;
+}
+#fe_footer .license_container .inner {
+    border-top: 1px solid #002f53;
+    border-bottom: 1px solid #002f53;
+
+}
+.footer_links {
+    background-color: #093f68;
+    border-bottom: 3px solid #0e669b;
+    border-top: 1px solid #011b44;
+}
+.footer_payments{
+	display:none;
+}
+
+.fe_top_bar {
+    background-color: #053962;
+    border-top: 1px solid #0b2943;
+    border-bottom: 1px solid #031e35;
+    padding: 5px;
+}
+
+.footer_sponsors .lvl_1 a:nth-child(4){display:none}

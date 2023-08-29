@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "currencyId": 12,
+            "currencyCode": "BRL",
+            "currencyName": "Real Brasileiro",
+            "orderBy": 3,
+            "currencySymbol": "R$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "BRL_12",
+            "isSignUpEnabled": true
+        }
+    ]
+}

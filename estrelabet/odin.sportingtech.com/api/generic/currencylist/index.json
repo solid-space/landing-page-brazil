@@ -1,0 +1,498 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "currencyId": 72,
+            "currencyCode": "HNL",
+            "currencyName": "Lempira",
+            "orderBy": 16,
+            "currencySymbol": "L",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "HNL_72"
+        },
+        {
+            "currencyId": 76,
+            "currencyCode": "INR",
+            "currencyName": "Indian Rupee",
+            "orderBy": 76,
+            "currencySymbol": "₹",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "INR_76"
+        },
+        {
+            "currencyId": 77,
+            "currencyCode": "IDR",
+            "currencyName": "Rupiah",
+            "orderBy": 77,
+            "currencySymbol": "Rp",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "IDR_77"
+        },
+        {
+            "currencyId": 84,
+            "currencyCode": "KRW",
+            "currencyName": "Won",
+            "orderBy": 84,
+            "currencySymbol": "₩",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "KRW_84"
+        },
+        {
+            "currencyId": 85,
+            "currencyCode": "KGS",
+            "currencyName": "Som",
+            "orderBy": 85,
+            "currencySymbol": "лв",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "KGS_85"
+        },
+        {
+            "currencyId": 88,
+            "currencyCode": "LBP",
+            "currencyName": "Lebanese Pound",
+            "orderBy": 88,
+            "currencySymbol": "£",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "LBP_88"
+        },
+        {
+            "currencyId": 90,
+            "currencyCode": "CHF",
+            "currencyName": "Swiss Franc",
+            "orderBy": 17,
+            "currencySymbol": "CHF",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "CHF_90"
+        },
+        {
+            "currencyId": 92,
+            "currencyCode": "MKD",
+            "currencyName": "Denar",
+            "orderBy": 16,
+            "currencySymbol": "ден",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "MKD_92"
+        },
+        {
+            "currencyId": 93,
+            "currencyCode": "MYR",
+            "currencyName": "Malaysian Ringgit",
+            "orderBy": 93,
+            "currencySymbol": "RM",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "MYR_93"
+        },
+        {
+            "currencyId": 95,
+            "currencyCode": "MXN",
+            "currencyName": "Mexican Peso",
+            "orderBy": 16,
+            "currencySymbol": "MX$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "MXN_95"
+        },
+        {
+            "currencyId": 101,
+            "currencyCode": "NZD",
+            "currencyName": "New Zealand Dollar",
+            "orderBy": 101,
+            "currencySymbol": "NZ$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "NZD_101"
+        },
+        {
+            "currencyId": 105,
+            "currencyCode": "NOK",
+            "currencyName": "Norwegian Krone",
+            "orderBy": 14,
+            "currencySymbol": "Nkr",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "NOK_105"
+        },
+        {
+            "currencyId": 110,
+            "currencyCode": "PEN",
+            "currencyName": "Sol",
+            "orderBy": 110,
+            "currencySymbol": "S/.",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "PEN_110"
+        },
+        {
+            "currencyId": 111,
+            "currencyCode": "PHP",
+            "currencyName": "Philippine Piso",
+            "orderBy": 111,
+            "currencySymbol": "Php",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "PHP_111"
+        },
+        {
+            "currencyId": 118,
+            "currencyCode": "SGD",
+            "currencyName": "Singapore Dollar",
+            "orderBy": 118,
+            "currencySymbol": "$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "SGD_118"
+        },
+        {
+            "currencyId": 121,
+            "currencyCode": "ZAR",
+            "currencyName": "Rand",
+            "orderBy": 121,
+            "currencySymbol": "R",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "ZAR_121"
+        },
+        {
+            "currencyId": 123,
+            "currencyCode": "SEK",
+            "currencyName": "Swedish Krona",
+            "orderBy": 15,
+            "currencySymbol": "Skr",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "SEK_123"
+        },
+        {
+            "currencyId": 124,
+            "currencyCode": "NGN",
+            "currencyName": "Naira",
+            "orderBy": 102,
+            "currencySymbol": "₦",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "NGN_124"
+        },
+        {
+            "currencyId": 125,
+            "currencyCode": "UAH",
+            "currencyName": "Grivna",
+            "orderBy": 125,
+            "currencySymbol": "₴",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "UAH_125"
+        },
+        {
+            "currencyId": 127,
+            "currencyCode": "THB",
+            "currencyName": "Baht",
+            "orderBy": 127,
+            "currencySymbol": "฿",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "THB_127"
+        },
+        {
+            "currencyId": 1,
+            "currencyCode": "TRY",
+            "currencyName": "Turkish Lira",
+            "orderBy": 1,
+            "currencySymbol": "₺",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "TRY_1"
+        },
+        {
+            "currencyId": 2,
+            "currencyCode": "GBP",
+            "currencyName": "Great Britain Pound",
+            "orderBy": 2,
+            "currencySymbol": "£",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "GBP_2"
+        },
+        {
+            "currencyId": 3,
+            "currencyCode": "USD",
+            "currencyName": "United States Dollar",
+            "orderBy": 3,
+            "currencySymbol": "$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "USD_3"
+        },
+        {
+            "currencyId": 4,
+            "currencyCode": "EUR",
+            "currencyName": "Euro",
+            "orderBy": 4,
+            "currencySymbol": "€",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "EUR_4"
+        },
+        {
+            "currencyId": 132,
+            "currencyCode": "UYU",
+            "currencyName": "Peso Uruguayo",
+            "orderBy": 132,
+            "currencySymbol": "$U",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "UYU_132"
+        },
+        {
+            "currencyId": 5,
+            "currencyCode": "GHS",
+            "currencyName": "Ghana Cedi",
+            "orderBy": 5,
+            "currencySymbol": "GH₵",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "GHS_5"
+        },
+        {
+            "currencyId": 133,
+            "currencyCode": "UZS",
+            "currencyName": "Uzbekistan Sum",
+            "orderBy": 133,
+            "currencySymbol": "лв",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "UZS_133"
+        },
+        {
+            "currencyId": 6,
+            "currencyCode": "PLN",
+            "currencyName": "Poland",
+            "orderBy": 6,
+            "currencySymbol": "zł",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "PLN_6"
+        },
+        {
+            "currencyId": 7,
+            "currencyCode": "UGX",
+            "currencyName": "Ugandan Shilling",
+            "orderBy": 7,
+            "currencySymbol": "UGX",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "UGX_7"
+        },
+        {
+            "currencyId": 391,
+            "currencyCode": "SLL",
+            "currencyName": "Sierra Leonean Leone",
+            "orderBy": 391,
+            "currencySymbol": "Le",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "SLL_391"
+        },
+        {
+            "currencyId": 135,
+            "currencyCode": "VND",
+            "currencyName": "Dong",
+            "orderBy": 135,
+            "currencySymbol": "₫",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "VND_135"
+        },
+        {
+            "currencyId": 8,
+            "currencyCode": "ALL",
+            "currencyName": "Leke",
+            "orderBy": 8,
+            "currencySymbol": "ALL",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "ALL_8"
+        },
+        {
+            "currencyId": 9,
+            "currencyCode": "RUB",
+            "currencyName": "Ruble",
+            "orderBy": 9,
+            "currencySymbol": "₽",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "RUB_9"
+        },
+        {
+            "currencyId": 10,
+            "currencyCode": "KZT",
+            "currencyName": "Tenge",
+            "orderBy": 10,
+            "currencySymbol": "₸",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "KZT_10"
+        },
+        {
+            "currencyId": 11,
+            "currencyCode": "AZN",
+            "currencyName": "Manat",
+            "orderBy": 11,
+            "currencySymbol": "₼",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "AZN_11"
+        },
+        {
+            "currencyId": 12,
+            "currencyCode": "BRL",
+            "currencyName": "Real Brasileiro",
+            "orderBy": 12,
+            "currencySymbol": "R$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "BRL_12"
+        },
+        {
+            "currencyId": 142,
+            "currencyCode": "XOF",
+            "currencyName": "CFA Franc BCEAO",
+            "orderBy": 142,
+            "currencySymbol": "CFA",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "XOF_142"
+        },
+        {
+            "currencyId": 15,
+            "currencyCode": "ETB",
+            "currencyName": "Ethiopian Birr",
+            "orderBy": 15,
+            "currencySymbol": "ብር",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "ETB_15"
+        },
+        {
+            "currencyId": 147,
+            "currencyCode": "MZN",
+            "currencyName": "Mozambican Metical",
+            "orderBy": 147,
+            "currencySymbol": "MZN",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "MZN_147"
+        },
+        {
+            "currencyId": 151,
+            "currencyCode": "TZS",
+            "currencyName": "Tanzanian Shilling",
+            "orderBy": 151,
+            "currencySymbol": "TSh",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "TZS_151"
+        },
+        {
+            "currencyId": 23,
+            "currencyCode": "KES",
+            "currencyName": "Kenyan Shilling",
+            "orderBy": 23,
+            "currencySymbol": "Ksh",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "KES_23"
+        },
+        {
+            "currencyId": 153,
+            "currencyCode": "TND",
+            "currencyName": "Tunisian Dinar",
+            "orderBy": 153,
+            "currencySymbol": "TD",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "TND_153"
+        },
+        {
+            "currencyId": 160,
+            "currencyCode": "MAD",
+            "currencyName": "Moroccan Dirham",
+            "orderBy": 160,
+            "currencySymbol": "DH",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "MAD_160"
+        },
+        {
+            "currencyId": 161,
+            "currencyCode": "ZMW",
+            "currencyName": "Zambian Kwacha",
+            "orderBy": 161,
+            "currencySymbol": "ZMW",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "ZMW_161"
+        },
+        {
+            "currencyId": 37,
+            "currencyCode": "ARS",
+            "currencyName": "Argentine Peso",
+            "orderBy": 37,
+            "currencySymbol": "AR$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "ARS_37"
+        },
+        {
+            "currencyId": 39,
+            "currencyCode": "AUD",
+            "currencyName": "Australian Dollar",
+            "orderBy": 39,
+            "currencySymbol": "AU$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "AUD_39"
+        },
+        {
+            "currencyId": 45,
+            "currencyCode": "BOB",
+            "currencyName": "Boliviano",
+            "orderBy": 45,
+            "currencySymbol": "$b",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "BOB_45"
+        },
+        {
+            "currencyId": 177,
+            "currencyCode": "XAF",
+            "currencyName": "CFA Franc BEAC",
+            "orderBy": 177,
+            "currencySymbol": "CFA",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "XAF_177"
+        },
+        {
+            "currencyId": 178,
+            "currencyCode": "AOA",
+            "currencyName": "Angolan Kwanza",
+            "orderBy": 178,
+            "currencySymbol": "Kz",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "AOA_178"
+        },
+        {
+            "currencyId": 50,
+            "currencyCode": "KHR",
+            "currencyName": "Riel",
+            "orderBy": 50,
+            "currencySymbol": "?",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "KHR_50"
+        },
+        {
+            "currencyId": 51,
+            "currencyCode": "CAD",
+            "currencyName": "Canadian Dollar",
+            "orderBy": 13,
+            "currencySymbol": "C$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "CAD_51"
+        },
+        {
+            "currencyId": 53,
+            "currencyCode": "CLP",
+            "currencyName": "Chilean Peso",
+            "orderBy": 53,
+            "currencySymbol": "CL$",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "CLP_53"
+        },
+        {
+            "currencyId": 54,
+            "currencyCode": "CNY",
+            "currencyName": "Yuan Renminbi",
+            "orderBy": 54,
+            "currencySymbol": "¥",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "CNY_54"
+        },
+        {
+            "currencyId": 184,
+            "currencyCode": "SLE",
+            "currencyName": "Leone",
+            "orderBy": 184,
+            "currencySymbol": "Le",
+            "webMultiType": "TEXTS",
+            "webMultiKey": "SLE_184"
+        }
+    ]
+}

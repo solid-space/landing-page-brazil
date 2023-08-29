@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 13132,
+            "webModuleId": 306,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://www.youtube.com/@BrilheNaEstrelaBet",
+            "deleteFlag": false,
+            "lastUpdateDate": 1686148772000,
+            "device": "m,d",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 306,
+                "moduleCode": "youtube-url",
+                "moduleName": "Youtube URL",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "youtube-url",
+            "isPrintable": false
+        }
+    ]
+}

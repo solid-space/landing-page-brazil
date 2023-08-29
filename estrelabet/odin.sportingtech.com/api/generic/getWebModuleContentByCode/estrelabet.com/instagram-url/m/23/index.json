@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11260,
+            "webModuleId": 308,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "https://www.instagram.com/estrelabet/",
+            "deleteFlag": false,
+            "lastUpdateDate": 1653327043000,
+            "device": "m,d,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 308,
+                "moduleCode": "instagram-url",
+                "moduleName": "Instagram URL",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "instagram-url",
+            "isPrintable": false
+        }
+    ]
+}

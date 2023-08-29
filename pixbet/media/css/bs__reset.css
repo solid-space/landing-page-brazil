@@ -1,0 +1,124 @@
+/**
+* The bs__reset.css sets the default elements and 
+* generic classes that are used throughout the pages.
+*/
+
+/* Override basic elements */
+body, html {
+padding: 0;
+margin: 0;
+border: 0;
+height: 100%;
+width: 100%;
+}
+
+body {
+background-color: #FFF;
+padding: 10px;
+height: auto;
+}
+
+body, p, li, td {
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: 100%;
+}
+body { font-size: 11px;line-height: 16px; }
+
+a, a:hover, a:visited {
+color: #104A79;
+text-decoration: underline;
+}
+a:hover {
+text-decoration: none;
+}
+
+form { margin: 0; }
+
+h1 {
+font-family: Arial;
+font-size: 28px;
+line-height: 32px;
+font-weight: normal;
+margin: 0;
+padding: 0;
+padding-bottom: 10px;
+}
+h2 {
+font-family: Arial;
+font-size: 22px;
+line-height: 26px;
+font-weight: normal;
+margin: 0;
+padding: 0;
+padding-bottom: 6px;
+}
+h3 {
+font-family: Arial;
+font-size: 18px;
+line-height: 22px;
+font-weight: normal;
+margin: 0;
+padding: 0;
+padding-bottom: 4px;
+}
+
+hr {
+padding: 0;
+height: 0px;
+border: 0;
+border-top: 1px solid #999;
+margin-top: 7px;
+margin-bottom: 13px;
+}
+
+code {
+font-family: Consolas,"courier new";
+font-size: 11px;
+color: #A52A2A;
+}
+
+/* Custom generic styles */
+
+.clear { clear: both; }
+
+.xsml { font-size: 9px; }
+.sml, small { font-size: 10px; }
+.lrg { font-size: 12px; }
+.xlrg { font-size: 13px; }
+
+.alignleft { text-align: left; }
+.alignright { text-align: right; }
+.aligncenter { text-align: center; }
+.alignjustify { text-align: justify; }
+.floatleft { float: left; }
+.floatright { float: right; }
+
+.hide { display: none; }
+.show { display: block; }
+
+.nowrap, .single_line { white-space: nowrap; }
+.b { font-weight: bold; }
+.i { font-style: italic; }
+.u { text-decoration: underline; }
+.s { text-decoration: line-through; }
+
+.anim1000 {
+animation-duration: 1s;
+-moz-animation-duration: 1s;
+-webkit-animation-duration: 1s;
+}
+.anim2000 {
+animation-duration: 2s;
+-moz-animation-duration: 2s;
+-webkit-animation-duration: 2s;
+}
+.anim500 {
+animation-duration: 0.5s;
+-moz-animation-duration: 0.5s;
+-webkit-animation-duration: 0.5s;
+}
+.anim800 {
+animation-duration: 0.8s;
+-moz-animation-duration: 0.8s;
+-webkit-animation-duration: 0.8s;
+}

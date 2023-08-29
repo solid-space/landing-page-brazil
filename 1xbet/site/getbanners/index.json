@@ -1,0 +1,494 @@
+{
+    "initial": [
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/e4e9089e59bb1d9dab622e69b38d5969.jpg",
+            "href": "bonus\/rules\/1st",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "B\u00f4nus de 100% de Primeiro Dep\u00f3sito at\u00e9 1200 BRL",
+                "color_1": "#ffffff",
+                "text_4": "Cadastre-se no site do 1xBet e receba um b\u00f4nus 100% at\u00e9 1200 BRL no seu primeiro dep\u00f3sito!",
+                "color_4": "#ffffff",
+                "button_text": "Cadastre-se",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 1
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/a6e831abbae2c39e7b6b644d7cdd980c.jpg",
+            "href": "bonus\/rules\/slot_first_deposit",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "MEGAB\u00d4NUS DE PRIMEIRO DEP\u00d3SITO",
+                "color_1": "#ffffff",
+                "text_3": "PACOTE DE BOAS-VINDAS DE AT\u00c9 1,500\u20ac + 150 GIROS GR\u00c1TIS",
+                "color_3": "#ffffff",
+                "button_text": "Registre-se",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 2
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/eb72224c93de2fa206cd039bfb397fe0.jpg",
+            "href": "promotions\/grand-slam-tournaments",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Torneios de Grand Slam",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a apostas e lute pela BMW!",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 3
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/aa60d09d4101bf08623c77a9279350b1.jpg",
+            "href": "promotions\/copa-libertadores",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Copa Vencedora",
+                "color_1": "#ffffff",
+                "text_3": "FA\u00c7A SUAS APOSTAS E GANHE!",
+                "color_3": "#ffffff",
+                "button_text": "Participar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 4
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/7b02fc12b6f57186b5ef4f9a63c4293c.jpg",
+            "href": "bonus\/rules\/slam-dunk-winning",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "SLAM DUNK WINNING",
+                "color_1": "#ffffff",
+                "text_3": "Aposte na Copa do Mundo de Basquete da FIBA e ganhe at\u00e9 20% de cashback",
+                "color_3": "#ffffff",
+                "button_text": "Participar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 5
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/4a1c3eee2cc1d1ff2d0468528b58e9a9.jpg",
+            "href": "promotions\/brazilian-league",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Ol\u00e1, Brasileir\u00e3o",
+                "color_1": "#ffffff",
+                "text_3": "O Brasileir\u00e3o \u00e9 na nossa casa!",
+                "color_3": "#ffffff",
+                "button_text": "Participar ",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 6
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/bda8217e57176de865f15abf7d71e926.jpg",
+            "href": "line\/ufc",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "1xBet \u2014 \u00e9 a escolha de Jos\u00e9 Aldo.  ",
+                "color_1": "#ffffff",
+                "text_3": "D\u00ea as boas-vindas ao nosso Embaixador. ",
+                "color_3": "#ffffff",
+                "button_text": "Fa\u00e7a sua aposta!",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 7
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/703b7edfe4750d2afae0071056fce9ba.jpg",
+            "href": "line\/football\/1268397-brazil-campeonato-brasileiro-serie-a",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Com Paulinho a vit\u00f3ria \u00e9 certa!",
+                "color_1": "#ffffff",
+                "text_3": "APOSTE, GANHE, REPITA!",
+                "color_3": "#ffffff",
+                "button_text": "Fa\u00e7a sua aposta!",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 8
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/dc4e78f0a5fdd98fd79c89369c76733e.jpg",
+            "href": "ourpartners\/seriea",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "1xBet: parceira oficial da Serie A",
+                "color_1": "#ffffff",
+                "text_3": "Pegue o gosto pela cultura italiana",
+                "color_3": "#ffffff",
+                "button_text": "Saiba mais",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 9
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/d0b32669d9b8e1b844877de303e107c0.jpg",
+            "href": "bonus\/rules\/cashback-picpay",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Fa\u00e7a um dep\u00f3sito na sua conta com PicPay",
+                "color_1": "#ffffff",
+                "text_3": "Receba um cashback de 25%",
+                "color_3": "#ffffff",
+                "button_text": "Fa\u00e7a um dep\u00f3sito",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 10
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/9eb5dcc899be5a1d06d00d3b71d50ec9.jpg",
+            "href": "line",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Eva Elfie \u00e9 uma embaixadora oficial da 1xBet!",
+                "color_1": "#ffffff",
+                "text_3": "Uma combina\u00e7\u00e3o feita nos c\u00e9us!",
+                "color_3": "#ffffff",
+                "button_text": "Aposte com Eva!",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 11
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/284b604a96a219530a73a03ad710c8f7.jpg",
+            "href": "promotions\/winning-formula",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "WINNING FORMULA",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a apostas na F\u00f3rmula 1 e ligue seu motor para a corrida pelo pr\u00eamio!",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 12
+        }
+    ],
+    "remaining": [
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/025c08867510604167f44aff2ebf5699.jpg",
+            "href": "promotions\/major-league-baseball-2023",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "MAJOR LEAGUE BASEBALL",
+                "color_1": "#ffffff",
+                "text_3": "Jogue como um campe\u00e3o!",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 13
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/dfe1e5fa03802dd89fcd6d222ab219e8.jpg",
+            "href": "promotions\/top-up-win",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "TOP UP \u0026 WIN ",
+                "color_1": "#ffffff",
+                "text_3": "Recarregue sua conta via Skrill ou Neteller e ganhe pr\u00eamios!",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 14
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/5a8e3506282551b106b788d8b9346742.jpg",
+            "href": "promotions\/no_risk_bet",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Aposta sem risco",
+                "color_1": "#ffffff",
+                "text_3": "A sua aposta foi perdedora? Ent\u00e3o, receba um reembolso!",
+                "color_3": "#ffffff",
+                "button_text": "Fa\u00e7a uma aposta",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 15
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/7ed61860c6957fd645300e08a1ad84f4.png",
+            "href": "line\/esports",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "1xBet - parceira global oficial DO MIBR",
+                "color_1": "#ffffff",
+                "text_3": "Feito no Brasil!",
+                "color_3": "#ffffff",
+                "button_text": "Jogar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 16
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/3cd9db0dc1ec2fc97581a1966b853b08.jpg",
+            "href": "bonus\/rules\/hyper_bonus",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Hyper Bonus",
+                "color_1": "#ffffff",
+                "text_3": "Ganhe e receba um b\u00f4nus garantido de at\u00e9 250%!",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 17
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/50df1d90655185b2101eb4bd71832d12.png",
+            "href": "promotions\/esportsera",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "ESPORTS ERA\n",
+                "color_1": "#ffffff",
+                "text_3": "Escolha um evento e fa\u00e7a uma aposta sem riscos!\n",
+                "color_3": "#ffffff",
+                "button_text": "Participar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 18
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/32310ec082603c74f656d68e71b6eb12.png",
+            "href": "promotions\/case-go-defuse",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Case GO: Defuse\n",
+                "color_1": "#ffffff",
+                "text_3": "Case Go est\u00e1 de volta! Seja um de nossos sortudos ganhadores e receba alguns dos melhores pr\u00eamios da 1xBet!\n",
+                "color_3": "#ffffff",
+                "button_text": "Participe",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 19
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/83ed94e5ffa8a483158a47b58d4d870b.png",
+            "href": "promotions\/path-of-the-hero",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Path of the hero\n",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a apostas nas eliminat\u00f3rias do The International e ganhe os melhores pr\u00eamios da 1xBet!\n",
+                "color_3": "#ffffff",
+                "button_text": "Ganhe um pr\u00eamio",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 20
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/3567dd39b500b4e7968fa7d26a5740da.jpg",
+            "href": "promotions\/become-legend",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Become a legend",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a apostas nos jogos do simulador FIFA e ganhe pr\u00eamios da 1xBet!",
+                "color_3": "#ffffff",
+                "button_text": "Participar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 21
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/4c889723cdf541016e2ae82846294bb1.jpg",
+            "href": "evasfavorites",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Eva\u0027s Favorites\n",
+                "color_1": "#ffffff",
+                "text_3": "As melhores equipes e partidas, especialmente selecionadas para voc\u00ea por Eva Elfie!\n",
+                "color_3": "#ffffff",
+                "button_text": "Mais detalhes",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 22
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/9df0c1f1c2c2f8fab9b627a0c6607d95.jpg",
+            "href": "promotions\/m-effect",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "THE M EFFECT",
+                "color_1": "#ffffff",
+                "text_3": "Bata o recorde da 1xBet para ganhar US$ 30.000 e um anel dourado de campe\u00e3o!",
+                "color_3": "#ffffff",
+                "button_text": "Participar",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 23
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/4e5e55d9b1610eb66643a4e9518ee808.jpg",
+            "href": "https:\/\/br.1x001.com",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "A nova vers\u00e3o do site 1xBet\n",
+                "color_1": "#ffffff",
+                "text_4": "Apostar e ganhar tornou-se ainda mais f\u00e1cil com essa vers\u00e3o mais leve do nosso site. Experimente a mais nova e melhorada vers\u00e3o do seu site favorito de apostas e tenha uma \u00f3tima experi\u00eancia conosco!\n",
+                "color_4": "#ffffff",
+                "button_text": "Aposte agora",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 24
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/3c4e4f45569fc4923bf0ae10be484494.jpg",
+            "href": "expressfight",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "BATALHA DE ACUMULADOR\n",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a uma aposta acumulada e ganhe pr\u00eamios legais!\n",
+                "color_3": "#ffffff",
+                "button_text": "Fa\u00e7a uma aposta",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 25
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/8eda76767b63e1f4ee30d353157e6cec.jpg",
+            "href": "information\/contacts",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "Tem alguma d\u00favida?",
+                "color_1": "#ffffff",
+                "text_3": "Nossa equipe de suporte t\u00e9cnico local est\u00e1 sempre \u00e0 disposi\u00e7\u00e3o para ajudar em qualquer problema que voc\u00ea possa ter. Entre em contato com eles em: info-br@1xbet-team.com",
+                "color_3": "#ffffff",
+                "button_text": "Entre em contato",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 26
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/0bbd56a01feb7a36f0024e82710fb641.jpg",
+            "href": "office\/recharge",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "PIX \u00e9 o sistema de pagamento mais conveniente do Brasil!",
+                "color_1": "#ffffff",
+                "text_3": "Fa\u00e7a um dep\u00f3sito em dois cliques usando o sistema de pagamento PIX e ganhe com a 1X",
+                "color_3": "#ffffff",
+                "button_text": "Fazer um dep\u00f3sito",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 27
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/371c8659da702e8c2f74f8b9c7533f97.png",
+            "href": "https:\/\/app.airtm.com\/ivt\/1xuser",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 28
+        },
+        {
+            "type": 6,
+            "image_url": "https:\/\/v2l.traincdn.com\/genfiles\/cms\/designed_banners\/132\/image\/6bbd30866e9b2e9a5f4af231056de7e8.png",
+            "href": "line\/esports",
+            "advanced_params": {
+                "is_target_blank": false,
+                "is_hide_text": false,
+                "text_1": "A 1xBet \u00e9 uma parceira oficial da Beastcoast\n",
+                "color_1": "#ffffff",
+                "text_3": "#makewaves\n",
+                "color_3": "#ffffff",
+                "button_text": "Fazer uma aposta",
+                "additional_button_text": "",
+                "additional_href": ""
+            },
+            "id": 29
+        }
+    ]
+}

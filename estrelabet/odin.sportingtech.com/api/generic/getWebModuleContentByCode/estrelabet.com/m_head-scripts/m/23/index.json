@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "responseCodes": [
+        {
+            "responseCode": 1,
+            "responseKey": "SUCCESS",
+            "responseMessage": ""
+        }
+    ],
+    "data": [
+        {
+            "traderWebModuleId": 11357,
+            "webModuleId": 150,
+            "traderId": 536,
+            "languageId": 23,
+            "moduleContent": "<script type=\"text/javascript\" src=\"https://ee3da582-eb33-405d-ac34-c75167511b48.snippet.antillephone.com/apg-seal.js\"></script> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push( {'gtm.start': new Date().getTime(),event:'gtm.js'} );var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WH7ZLB4');</script>\r\n\r\n<script type=\"text/javascript\">(function(c,l,a,r,i,t,y){c[a]=c[a]||function()\r\n\r\n{(c[a].q=c[a].q||[]).push(arguments)}\r\n;t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"i\"?ref=gtm2\";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,\"clarity\",\"script\",\"c31uun4hzs\");</script>",
+            "deleteFlag": false,
+            "lastUpdateDate": 1654493812000,
+            "device": "m,t",
+            "onlyLoggedUsers": false,
+            "webModule": {
+                "webModuleId": 150,
+                "moduleCode": "m_head-scripts",
+                "moduleName": "Mobile Head Scripts",
+                "isActive": true,
+                "isPrintable": false
+            },
+            "moduleCode": "m_head-scripts",
+            "isPrintable": false
+        }
+    ]
+}
