@@ -570,9 +570,7 @@
                                                                     placeholder="Senha"><!----></div><!----><!---->
                                                         </div>
                                                         <div class="sign-in-wrapper">
-                                                            <a href="https://www.kto.com/pt/registro">
-                                                                <button data-test="header-login-button" class="hdr-login-btn sign-in-btn">Login</button>
-                                                            </a>
+                                                            <button id="signInButton1" data-url="https://www.kto.com/pt/registro" data-test="header-login-button" class="hdr-login-btn sign-in-btn">Login</button>
                                                         </div>
                                                         <div class="register-wrapper"><a href="https://www.kto.com/pt/registro"
                                                                 queryparamshandling="merge"
@@ -712,9 +710,7 @@
                                                                     placeholder="Senha"><!----></div><!----><!---->
                                                         </div>
                                                         <div class="sign-in-wrapper">
-                                                            <a href="https://www.kto.com/pt/registro">
-                                                                <button data-test="header-login-button" class="hdr-login-btn sign-in-btn">Login</button>
-                                                            </a>
+                                                            <button id="signInButton2" data-url="https://www.kto.com/pt/registro" data-test="header-login-button" class="hdr-login-btn sign-in-btn">Login</button>
                                                         </div>
                                                         <div class="register-wrapper">
                                                             <a href="https://www.kto.com/pt/registro" queryparamshandling="merge" class="hdr-login-btn register-btn"> 
@@ -19192,6 +19188,18 @@
             nav: true,
             autoplay: true,
         })
+
+        document.getElementById('signInButton1').addEventListener('click', (e) => {
+            e.preventDefault()
+            const url = e.target.dataset.url
+            window.location.href = url
+         })
+
+        document.getElementById('signInButton2').addEventListener('click', (e) => {
+            e.preventDefault()
+            const url = e.target.dataset.url
+            window.location.href = url
+         })
     </script>
 </body>
 
