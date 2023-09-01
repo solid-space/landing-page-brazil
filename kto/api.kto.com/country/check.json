@@ -1,0 +1,35 @@
+{
+  "message" : null,
+  "messageCode" : null,
+  "data" : {
+    "id" : 31,
+    "name" : "Brazil",
+    "active" : true,
+    "phone_prefix" : "55",
+    "currency_list" : [ {
+      "currencyId" : 1,
+      "name" : "Euro",
+      "short_code" : "EUR",
+      "symbol" : null
+    }, {
+      "currencyId" : 2,
+      "name" : "US Dollar",
+      "short_code" : "USD",
+      "symbol" : null
+    }, {
+      "currencyId" : 3,
+      "name" : "Brazilian Real",
+      "short_code" : "BRL",
+      "symbol" : "R$"
+    } ],
+    "translations" : [ {
+      "lang" : "pt",
+      "text" : "A KTO não está disponível em seu país"
+    }, {
+      "lang" : "en",
+      "text" : "KTO is not available in your country"
+    } ],
+    "login_blocked" : false,
+    "registration_blocked" : false
+  }
+}
